@@ -1,0 +1,20 @@
+*************************************** 
+Parameters Used for Analysis 
+*************************************** 
+ 
+dependant_variable_name: Age 
+ 
+dependant_variables_start: 6 
+ 
+taxonomic_variables_start: 9 
+ 
+abundance_cutoff: 0.25 
+ 
+prevalence_cutoff: 0.3 
+ 
+max_median_cutoff: 0.5 
+ 
+PlotOption: 1 
+ 
+ReplaceZero: YES 
+ 

@@ -1,0 +1,20 @@
+Log of the atf6_kinetic study analysis.
+==============================================================================
+Number of allowed missmatches in the barcode: 2
+Min fastq quality score for trimming of unpaired reads: 3
+Min length for single reads or amplicons for paired overlaping sequences: 300
+Max length for single reads or amplicons for paired overlaping sequences: 600
+Max number of expected errors in paired sequences: 3
+Length of trimming at the forward side of the seqs: 10
+Length of trimming at the reverse side of the seqs: 10
+Min relative abundance of OTU cutoff (0-1): 0.0025
+==============================================================================
+This is a UPARSE based analysis pipeline (PMID:23955772).
+Demultiplexing was performed by demultiplexor_v3.pl (Unpublished Perl script).
+Pairing, quality filtering and OTU clustering (97% identity) was done by USEARCH 8.0 (PMID:20709691).
+Chimera filtering by UCHIME (PMID:21700674) (with RDP set 15 as a reference database).
+Taxonomic clasification by RDP classifier version 2.11 training set 15 (PMID:17586664).
+Sequence alignment by MUSCLE (PMID:15034147) and treeing by Fasttree(PMID:20224823).
+
+ ####    If you publish these results please cite the above software.    ###
+==============================================================================
