@@ -1,0 +1,88 @@
+	name	pvalue	corrected
+1	Richness	0.0485	0.3642
+2	Shannon.effective	0.1388	0.4532
+3	Simpson.effective	0.1232	0.4532
+4	k__Bacteria	1	1
+5	p__Bacteroidetes	0.7506	0.8163
+6	p__Deferribacteres	0.598	0.7328
+7	p__Firmicutes	0.7313	0.8157
+8	p__Proteobacteria	0.0637	0.3642
+9	p__Tenericutes	0.0206	0.1991
+10	p__unknown_ Bacteria	0.2136	0.4532
+11	c__Alphaproteobacteria	0.8845	0.8948
+12	c__Bacilli	0.0839	0.3642
+13	c__Bacteroidia	0.8324	0.8832
+14	c__Betaproteobacteria	0.1771	0.4532
+15	c__Clostridia	0.3946	0.6023
+16	c__Deferribacteres	0.598	0.7328
+17	c__Deltaproteobacteria	0.2801	0.5077
+18	c__Erysipelotrichia	0.3173	0.5112
+19	c__Mollicutes	0.0206	0.1991
+20	c__unknown_ Bacteria	0.2136	0.4532
+21	c__unknown_ Bacteroidetes	0.2136	0.4532
+22	c__unknown_ Firmicutes	0.5747	0.7328
+23	o__Anaeroplasmatales	0.0206	0.1991
+24	o__Bacteroidales	0.8324	0.8832
+25	o__Burkholderiales	0.1771	0.4532
+26	o__Clostridiales	0.3946	0.6023
+27	o__Deferribacterales	0.598	0.7328
+28	o__Desulfovibrionales	0	0
+29	o__Erysipelotrichales	0.3173	0.5112
+30	o__Lactobacillales	0.0839	0.3642
+31	o__unknown_ Alphaproteobacteria	0.8845	0.8948
+32	o__unknown_ Bacteria	0.2136	0.4532
+33	o__unknown_ Bacteroidetes	0.2136	0.4532
+34	o__unknown_ Deltaproteobacteria	0.2466	0.4827
+35	o__unknown_ Firmicutes	0.5747	0.7328
+36	f__Anaeroplasmataceae	0.0206	0.1991
+37	f__Bacteroidaceae	0.0879	0.3642
+38	f__Deferribacteraceae	0.598	0.7328
+39	f__Desulfovibrionaceae	0	0
+40	f__Erysipelotrichaceae	0.3173	0.5112
+41	f__Lachnospiraceae	0.5061	0.7328
+42	f__Lactobacillaceae	0.0839	0.3642
+43	f__Porphyromonadaceae	0.5429	0.7328
+44	f__Prevotellaceae	0.2738	0.5068
+45	f__Rikenellaceae	0.3113	0.5112
+46	f__Ruminococcaceae	0.3354	0.5305
+47	f__Sutterellaceae	0.1771	0.4532
+48	f__unknown_ Alphaproteobacteria	0.8845	0.8948
+49	f__unknown_ Bacteria	0.2136	0.4532
+50	f__unknown_ Bacteroidales	0.6683	0.7857
+51	f__unknown_ Bacteroidetes	0.2136	0.4532
+52	f__unknown_ Clostridiales	0.0744	0.3642
+53	f__unknown_ Deltaproteobacteria	0.2466	0.4827
+54	f__unknown_ Firmicutes	0.5747	0.7328
+55	g__Alistipes	0.3113	0.5112
+56	g__Alloprevotella	0.7167	0.8098
+57	g__Anaeroplasma	0.0206	0.1991
+58	g__Anaerotruncus	0.6861	0.7915
+59	g__Bacteroides	0.0879	0.3642
+60	g__Barnesiella	0.1868	0.4532
+61	g__Butyricicoccus	0.1315	0.4532
+62	g__Clostridium IV	0.4417	0.6626
+63	g__Clostridium XlVa	0.7409	0.8159
+64	g__Clostridium XlVb	0.576	0.7328
+65	g__Flavonifractor	0.1253	0.4532
+66	g__Lachnospiracea_incertae_sedis	0.0084	0.1827
+67	g__Lactobacillus	0.0839	0.3642
+68	g__Mucispirillum	0.598	0.7328
+69	g__Odoribacter	0.5049	0.7328
+70	g__Oscillibacter	0.2552	0.4827
+71	g__Parabacteroides	0.1527	0.4532
+72	g__Parasutterella	0.1771	0.4532
+73	g__Prevotella	0.0638	0.3642
+74	g__Roseburia	0.0638	0.3642
+75	g__Ruminococcus	0.0043	0.1247
+76	g__Turicibacter	0.3173	0.5112
+77	g__unknown_ Alphaproteobacteria	0.8845	0.8948
+78	g__unknown_ Bacteria	0.2136	0.4532
+79	g__unknown_ Bacteroidales	0.6683	0.7857
+80	g__unknown_ Bacteroidetes	0.2136	0.4532
+81	g__unknown_ Clostridiales	0.0744	0.3642
+82	g__unknown_ Deltaproteobacteria	0.2466	0.4827
+83	g__unknown_ Desulfovibrionaceae	0.1936	0.4532
+84	g__unknown_ Firmicutes	0.5747	0.7328
+85	g__unknown_ Lachnospiraceae	0.6914	0.7915
+86	g__unknown_ Porphyromonadaceae	0.2509	0.4827
+87	g__unknown_ Ruminococcaceae	0.646	0.7806

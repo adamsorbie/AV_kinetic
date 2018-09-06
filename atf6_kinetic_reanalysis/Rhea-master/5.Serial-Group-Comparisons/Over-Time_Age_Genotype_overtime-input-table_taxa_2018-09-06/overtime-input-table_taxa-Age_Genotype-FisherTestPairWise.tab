@@ -1,0 +1,3916 @@
+	measure	Group1	Group2	pvalue	corrected
+1	Richness	10_cre	10_wt	0.1281	1
+2	Richness	10_cre	12_cre	0.4621	1
+3	Richness	10_cre	12_wt	0.7152	1
+4	Richness	10_cre	5_cre	1	1
+5	Richness	10_cre	5_wt	1	1
+6	Richness	10_cre	7_cre	1	1
+7	Richness	10_cre	7_wt	0.4621	1
+8	Richness	10_cre	9_cre	1	1
+9	Richness	10_cre	9_wt	1	1
+10	Richness	10_wt	12_cre	0.6817	1
+11	Richness	10_wt	12_wt	0.427	1
+12	Richness	10_wt	5_cre	0.1281	1
+13	Richness	10_wt	5_wt	0.2451	1
+14	Richness	10_wt	7_cre	0.1281	1
+15	Richness	10_wt	7_wt	0.6817	1
+16	Richness	10_wt	9_cre	0.1281	1
+17	Richness	10_wt	9_wt	0.2451	1
+18	Richness	12_cre	12_wt	1	1
+19	Richness	12_cre	5_cre	0.4621	1
+20	Richness	12_cre	5_wt	0.7104	1
+21	Richness	12_cre	7_cre	0.4621	1
+22	Richness	12_cre	7_wt	1	1
+23	Richness	12_cre	9_cre	0.4621	1
+24	Richness	12_cre	9_wt	0.7104	1
+25	Richness	12_wt	5_cre	0.7152	1
+26	Richness	12_wt	5_wt	1	1
+27	Richness	12_wt	7_cre	0.7152	1
+28	Richness	12_wt	7_wt	1	1
+29	Richness	12_wt	9_cre	0.7152	1
+30	Richness	12_wt	9_wt	1	1
+31	Richness	5_cre	5_wt	1	1
+32	Richness	5_cre	7_cre	1	1
+33	Richness	5_cre	7_wt	0.4621	1
+34	Richness	5_cre	9_cre	1	1
+35	Richness	5_cre	9_wt	1	1
+36	Richness	5_wt	7_cre	1	1
+37	Richness	5_wt	7_wt	0.7104	1
+38	Richness	5_wt	9_cre	1	1
+39	Richness	5_wt	9_wt	1	1
+40	Richness	7_cre	7_wt	0.4621	1
+41	Richness	7_cre	9_cre	1	1
+42	Richness	7_cre	9_wt	1	1
+43	Richness	7_wt	9_cre	0.4621	1
+44	Richness	7_wt	9_wt	0.7104	1
+45	Richness	9_cre	9_wt	1	1
+46	Shannon.effective	10_cre	10_wt	0.1281	1
+47	Shannon.effective	10_cre	12_cre	0.4621	1
+48	Shannon.effective	10_cre	12_wt	0.7152	1
+49	Shannon.effective	10_cre	5_cre	1	1
+50	Shannon.effective	10_cre	5_wt	1	1
+51	Shannon.effective	10_cre	7_cre	1	1
+52	Shannon.effective	10_cre	7_wt	0.4621	1
+53	Shannon.effective	10_cre	9_cre	1	1
+54	Shannon.effective	10_cre	9_wt	1	1
+55	Shannon.effective	10_wt	12_cre	0.6817	1
+56	Shannon.effective	10_wt	12_wt	0.427	1
+57	Shannon.effective	10_wt	5_cre	0.1281	1
+58	Shannon.effective	10_wt	5_wt	0.2451	1
+59	Shannon.effective	10_wt	7_cre	0.1281	1
+60	Shannon.effective	10_wt	7_wt	0.6817	1
+61	Shannon.effective	10_wt	9_cre	0.1281	1
+62	Shannon.effective	10_wt	9_wt	0.2451	1
+63	Shannon.effective	12_cre	12_wt	1	1
+64	Shannon.effective	12_cre	5_cre	0.4621	1
+65	Shannon.effective	12_cre	5_wt	0.7104	1
+66	Shannon.effective	12_cre	7_cre	0.4621	1
+67	Shannon.effective	12_cre	7_wt	1	1
+68	Shannon.effective	12_cre	9_cre	0.4621	1
+69	Shannon.effective	12_cre	9_wt	0.7104	1
+70	Shannon.effective	12_wt	5_cre	0.7152	1
+71	Shannon.effective	12_wt	5_wt	1	1
+72	Shannon.effective	12_wt	7_cre	0.7152	1
+73	Shannon.effective	12_wt	7_wt	1	1
+74	Shannon.effective	12_wt	9_cre	0.7152	1
+75	Shannon.effective	12_wt	9_wt	1	1
+76	Shannon.effective	5_cre	5_wt	1	1
+77	Shannon.effective	5_cre	7_cre	1	1
+78	Shannon.effective	5_cre	7_wt	0.4621	1
+79	Shannon.effective	5_cre	9_cre	1	1
+80	Shannon.effective	5_cre	9_wt	1	1
+81	Shannon.effective	5_wt	7_cre	1	1
+82	Shannon.effective	5_wt	7_wt	0.7104	1
+83	Shannon.effective	5_wt	9_cre	1	1
+84	Shannon.effective	5_wt	9_wt	1	1
+85	Shannon.effective	7_cre	7_wt	0.4621	1
+86	Shannon.effective	7_cre	9_cre	1	1
+87	Shannon.effective	7_cre	9_wt	1	1
+88	Shannon.effective	7_wt	9_cre	0.4621	1
+89	Shannon.effective	7_wt	9_wt	0.7104	1
+90	Shannon.effective	9_cre	9_wt	1	1
+91	Simpson.effective	10_cre	10_wt	0.1281	1
+92	Simpson.effective	10_cre	12_cre	0.4621	1
+93	Simpson.effective	10_cre	12_wt	0.7152	1
+94	Simpson.effective	10_cre	5_cre	1	1
+95	Simpson.effective	10_cre	5_wt	1	1
+96	Simpson.effective	10_cre	7_cre	1	1
+97	Simpson.effective	10_cre	7_wt	0.4621	1
+98	Simpson.effective	10_cre	9_cre	1	1
+99	Simpson.effective	10_cre	9_wt	1	1
+100	Simpson.effective	10_wt	12_cre	0.6817	1
+101	Simpson.effective	10_wt	12_wt	0.427	1
+102	Simpson.effective	10_wt	5_cre	0.1281	1
+103	Simpson.effective	10_wt	5_wt	0.2451	1
+104	Simpson.effective	10_wt	7_cre	0.1281	1
+105	Simpson.effective	10_wt	7_wt	0.6817	1
+106	Simpson.effective	10_wt	9_cre	0.1281	1
+107	Simpson.effective	10_wt	9_wt	0.2451	1
+108	Simpson.effective	12_cre	12_wt	1	1
+109	Simpson.effective	12_cre	5_cre	0.4621	1
+110	Simpson.effective	12_cre	5_wt	0.7104	1
+111	Simpson.effective	12_cre	7_cre	0.4621	1
+112	Simpson.effective	12_cre	7_wt	1	1
+113	Simpson.effective	12_cre	9_cre	0.4621	1
+114	Simpson.effective	12_cre	9_wt	0.7104	1
+115	Simpson.effective	12_wt	5_cre	0.7152	1
+116	Simpson.effective	12_wt	5_wt	1	1
+117	Simpson.effective	12_wt	7_cre	0.7152	1
+118	Simpson.effective	12_wt	7_wt	1	1
+119	Simpson.effective	12_wt	9_cre	0.7152	1
+120	Simpson.effective	12_wt	9_wt	1	1
+121	Simpson.effective	5_cre	5_wt	1	1
+122	Simpson.effective	5_cre	7_cre	1	1
+123	Simpson.effective	5_cre	7_wt	0.4621	1
+124	Simpson.effective	5_cre	9_cre	1	1
+125	Simpson.effective	5_cre	9_wt	1	1
+126	Simpson.effective	5_wt	7_cre	1	1
+127	Simpson.effective	5_wt	7_wt	0.7104	1
+128	Simpson.effective	5_wt	9_cre	1	1
+129	Simpson.effective	5_wt	9_wt	1	1
+130	Simpson.effective	7_cre	7_wt	0.4621	1
+131	Simpson.effective	7_cre	9_cre	1	1
+132	Simpson.effective	7_cre	9_wt	1	1
+133	Simpson.effective	7_wt	9_cre	0.4621	1
+134	Simpson.effective	7_wt	9_wt	0.7104	1
+135	Simpson.effective	9_cre	9_wt	1	1
+136	k__Bacteria	10_cre	10_wt	0.1281	1
+137	k__Bacteria	10_cre	12_cre	0.4621	1
+138	k__Bacteria	10_cre	12_wt	0.7152	1
+139	k__Bacteria	10_cre	5_cre	1	1
+140	k__Bacteria	10_cre	5_wt	1	1
+141	k__Bacteria	10_cre	7_cre	1	1
+142	k__Bacteria	10_cre	7_wt	0.4621	1
+143	k__Bacteria	10_cre	9_cre	1	1
+144	k__Bacteria	10_cre	9_wt	1	1
+145	k__Bacteria	10_wt	12_cre	0.6817	1
+146	k__Bacteria	10_wt	12_wt	0.427	1
+147	k__Bacteria	10_wt	5_cre	0.1281	1
+148	k__Bacteria	10_wt	5_wt	0.2451	1
+149	k__Bacteria	10_wt	7_cre	0.1281	1
+150	k__Bacteria	10_wt	7_wt	0.6817	1
+151	k__Bacteria	10_wt	9_cre	0.1281	1
+152	k__Bacteria	10_wt	9_wt	0.2451	1
+153	k__Bacteria	12_cre	12_wt	1	1
+154	k__Bacteria	12_cre	5_cre	0.4621	1
+155	k__Bacteria	12_cre	5_wt	0.7104	1
+156	k__Bacteria	12_cre	7_cre	0.4621	1
+157	k__Bacteria	12_cre	7_wt	1	1
+158	k__Bacteria	12_cre	9_cre	0.4621	1
+159	k__Bacteria	12_cre	9_wt	0.7104	1
+160	k__Bacteria	12_wt	5_cre	0.7152	1
+161	k__Bacteria	12_wt	5_wt	1	1
+162	k__Bacteria	12_wt	7_cre	0.7152	1
+163	k__Bacteria	12_wt	7_wt	1	1
+164	k__Bacteria	12_wt	9_cre	0.7152	1
+165	k__Bacteria	12_wt	9_wt	1	1
+166	k__Bacteria	5_cre	5_wt	1	1
+167	k__Bacteria	5_cre	7_cre	1	1
+168	k__Bacteria	5_cre	7_wt	0.4621	1
+169	k__Bacteria	5_cre	9_cre	1	1
+170	k__Bacteria	5_cre	9_wt	1	1
+171	k__Bacteria	5_wt	7_cre	1	1
+172	k__Bacteria	5_wt	7_wt	0.7104	1
+173	k__Bacteria	5_wt	9_cre	1	1
+174	k__Bacteria	5_wt	9_wt	1	1
+175	k__Bacteria	7_cre	7_wt	0.4621	1
+176	k__Bacteria	7_cre	9_cre	1	1
+177	k__Bacteria	7_cre	9_wt	1	1
+178	k__Bacteria	7_wt	9_cre	0.4621	1
+179	k__Bacteria	7_wt	9_wt	0.7104	1
+180	k__Bacteria	9_cre	9_wt	1	1
+181	p__Bacteroidetes	10_cre	10_wt	0.1281	1
+182	p__Bacteroidetes	10_cre	12_cre	0.4621	1
+183	p__Bacteroidetes	10_cre	12_wt	0.7152	1
+184	p__Bacteroidetes	10_cre	5_cre	1	1
+185	p__Bacteroidetes	10_cre	5_wt	1	1
+186	p__Bacteroidetes	10_cre	7_cre	1	1
+187	p__Bacteroidetes	10_cre	7_wt	0.4621	1
+188	p__Bacteroidetes	10_cre	9_cre	1	1
+189	p__Bacteroidetes	10_cre	9_wt	1	1
+190	p__Bacteroidetes	10_wt	12_cre	0.6817	1
+191	p__Bacteroidetes	10_wt	12_wt	0.427	1
+192	p__Bacteroidetes	10_wt	5_cre	0.1281	1
+193	p__Bacteroidetes	10_wt	5_wt	0.2451	1
+194	p__Bacteroidetes	10_wt	7_cre	0.1281	1
+195	p__Bacteroidetes	10_wt	7_wt	0.6817	1
+196	p__Bacteroidetes	10_wt	9_cre	0.1281	1
+197	p__Bacteroidetes	10_wt	9_wt	0.2451	1
+198	p__Bacteroidetes	12_cre	12_wt	1	1
+199	p__Bacteroidetes	12_cre	5_cre	0.4621	1
+200	p__Bacteroidetes	12_cre	5_wt	0.7104	1
+201	p__Bacteroidetes	12_cre	7_cre	0.4621	1
+202	p__Bacteroidetes	12_cre	7_wt	1	1
+203	p__Bacteroidetes	12_cre	9_cre	0.4621	1
+204	p__Bacteroidetes	12_cre	9_wt	0.7104	1
+205	p__Bacteroidetes	12_wt	5_cre	0.7152	1
+206	p__Bacteroidetes	12_wt	5_wt	1	1
+207	p__Bacteroidetes	12_wt	7_cre	0.7152	1
+208	p__Bacteroidetes	12_wt	7_wt	1	1
+209	p__Bacteroidetes	12_wt	9_cre	0.7152	1
+210	p__Bacteroidetes	12_wt	9_wt	1	1
+211	p__Bacteroidetes	5_cre	5_wt	1	1
+212	p__Bacteroidetes	5_cre	7_cre	1	1
+213	p__Bacteroidetes	5_cre	7_wt	0.4621	1
+214	p__Bacteroidetes	5_cre	9_cre	1	1
+215	p__Bacteroidetes	5_cre	9_wt	1	1
+216	p__Bacteroidetes	5_wt	7_cre	1	1
+217	p__Bacteroidetes	5_wt	7_wt	0.7104	1
+218	p__Bacteroidetes	5_wt	9_cre	1	1
+219	p__Bacteroidetes	5_wt	9_wt	1	1
+220	p__Bacteroidetes	7_cre	7_wt	0.4621	1
+221	p__Bacteroidetes	7_cre	9_cre	1	1
+222	p__Bacteroidetes	7_cre	9_wt	1	1
+223	p__Bacteroidetes	7_wt	9_cre	0.4621	1
+224	p__Bacteroidetes	7_wt	9_wt	0.7104	1
+225	p__Bacteroidetes	9_cre	9_wt	1	1
+226	p__Deferribacteres	10_cre	10_wt	0.5977	1
+227	p__Deferribacteres	10_cre	12_cre	1	1
+228	p__Deferribacteres	10_cre	12_wt	1	1
+229	p__Deferribacteres	10_cre	5_cre	1	1
+230	p__Deferribacteres	10_cre	5_wt	1	1
+231	p__Deferribacteres	10_cre	7_cre	1	1
+232	p__Deferribacteres	10_cre	7_wt	0.5977	1
+233	p__Deferribacteres	10_cre	9_cre	1	1
+234	p__Deferribacteres	10_cre	9_wt	1	1
+235	p__Deferribacteres	10_wt	12_cre	0.3295	1
+236	p__Deferribacteres	10_wt	12_wt	0.3295	1
+237	p__Deferribacteres	10_wt	5_cre	0.5977	1
+238	p__Deferribacteres	10_wt	5_wt	1	1
+239	p__Deferribacteres	10_wt	7_cre	0.5977	1
+240	p__Deferribacteres	10_wt	7_wt	1	1
+241	p__Deferribacteres	10_wt	9_cre	0.5977	1
+242	p__Deferribacteres	10_wt	9_wt	1	1
+243	p__Deferribacteres	12_cre	12_wt	1	1
+244	p__Deferribacteres	12_cre	5_cre	1	1
+245	p__Deferribacteres	12_cre	5_wt	0.6513	1
+246	p__Deferribacteres	12_cre	7_cre	1	1
+247	p__Deferribacteres	12_cre	7_wt	0.3295	1
+248	p__Deferribacteres	12_cre	9_cre	1	1
+249	p__Deferribacteres	12_cre	9_wt	0.6513	1
+250	p__Deferribacteres	12_wt	5_cre	1	1
+251	p__Deferribacteres	12_wt	5_wt	0.6513	1
+252	p__Deferribacteres	12_wt	7_cre	1	1
+253	p__Deferribacteres	12_wt	7_wt	0.3295	1
+254	p__Deferribacteres	12_wt	9_cre	1	1
+255	p__Deferribacteres	12_wt	9_wt	0.6513	1
+256	p__Deferribacteres	5_cre	5_wt	1	1
+257	p__Deferribacteres	5_cre	7_cre	1	1
+258	p__Deferribacteres	5_cre	7_wt	0.5977	1
+259	p__Deferribacteres	5_cre	9_cre	1	1
+260	p__Deferribacteres	5_cre	9_wt	1	1
+261	p__Deferribacteres	5_wt	7_cre	1	1
+262	p__Deferribacteres	5_wt	7_wt	1	1
+263	p__Deferribacteres	5_wt	9_cre	1	1
+264	p__Deferribacteres	5_wt	9_wt	1	1
+265	p__Deferribacteres	7_cre	7_wt	0.5977	1
+266	p__Deferribacteres	7_cre	9_cre	1	1
+267	p__Deferribacteres	7_cre	9_wt	1	1
+268	p__Deferribacteres	7_wt	9_cre	0.5977	1
+269	p__Deferribacteres	7_wt	9_wt	1	1
+270	p__Deferribacteres	9_cre	9_wt	1	1
+271	p__Firmicutes	10_cre	10_wt	0.1281	1
+272	p__Firmicutes	10_cre	12_cre	0.4621	1
+273	p__Firmicutes	10_cre	12_wt	0.7152	1
+274	p__Firmicutes	10_cre	5_cre	1	1
+275	p__Firmicutes	10_cre	5_wt	1	1
+276	p__Firmicutes	10_cre	7_cre	1	1
+277	p__Firmicutes	10_cre	7_wt	0.4621	1
+278	p__Firmicutes	10_cre	9_cre	1	1
+279	p__Firmicutes	10_cre	9_wt	1	1
+280	p__Firmicutes	10_wt	12_cre	0.6817	1
+281	p__Firmicutes	10_wt	12_wt	0.427	1
+282	p__Firmicutes	10_wt	5_cre	0.1281	1
+283	p__Firmicutes	10_wt	5_wt	0.2451	1
+284	p__Firmicutes	10_wt	7_cre	0.1281	1
+285	p__Firmicutes	10_wt	7_wt	0.6817	1
+286	p__Firmicutes	10_wt	9_cre	0.1281	1
+287	p__Firmicutes	10_wt	9_wt	0.2451	1
+288	p__Firmicutes	12_cre	12_wt	1	1
+289	p__Firmicutes	12_cre	5_cre	0.4621	1
+290	p__Firmicutes	12_cre	5_wt	0.7104	1
+291	p__Firmicutes	12_cre	7_cre	0.4621	1
+292	p__Firmicutes	12_cre	7_wt	1	1
+293	p__Firmicutes	12_cre	9_cre	0.4621	1
+294	p__Firmicutes	12_cre	9_wt	0.7104	1
+295	p__Firmicutes	12_wt	5_cre	0.7152	1
+296	p__Firmicutes	12_wt	5_wt	1	1
+297	p__Firmicutes	12_wt	7_cre	0.7152	1
+298	p__Firmicutes	12_wt	7_wt	1	1
+299	p__Firmicutes	12_wt	9_cre	0.7152	1
+300	p__Firmicutes	12_wt	9_wt	1	1
+301	p__Firmicutes	5_cre	5_wt	1	1
+302	p__Firmicutes	5_cre	7_cre	1	1
+303	p__Firmicutes	5_cre	7_wt	0.4621	1
+304	p__Firmicutes	5_cre	9_cre	1	1
+305	p__Firmicutes	5_cre	9_wt	1	1
+306	p__Firmicutes	5_wt	7_cre	1	1
+307	p__Firmicutes	5_wt	7_wt	0.7104	1
+308	p__Firmicutes	5_wt	9_cre	1	1
+309	p__Firmicutes	5_wt	9_wt	1	1
+310	p__Firmicutes	7_cre	7_wt	0.4621	1
+311	p__Firmicutes	7_cre	9_cre	1	1
+312	p__Firmicutes	7_cre	9_wt	1	1
+313	p__Firmicutes	7_wt	9_cre	0.4621	1
+314	p__Firmicutes	7_wt	9_wt	0.7104	1
+315	p__Firmicutes	9_cre	9_wt	1	1
+316	p__Proteobacteria	10_cre	10_wt	0.1281	1
+317	p__Proteobacteria	10_cre	12_cre	0.4621	1
+318	p__Proteobacteria	10_cre	12_wt	0.7152	1
+319	p__Proteobacteria	10_cre	5_cre	1	1
+320	p__Proteobacteria	10_cre	5_wt	1	1
+321	p__Proteobacteria	10_cre	7_cre	1	1
+322	p__Proteobacteria	10_cre	7_wt	0.4621	1
+323	p__Proteobacteria	10_cre	9_cre	1	1
+324	p__Proteobacteria	10_cre	9_wt	1	1
+325	p__Proteobacteria	10_wt	12_cre	0.6817	1
+326	p__Proteobacteria	10_wt	12_wt	0.427	1
+327	p__Proteobacteria	10_wt	5_cre	0.1281	1
+328	p__Proteobacteria	10_wt	5_wt	0.2451	1
+329	p__Proteobacteria	10_wt	7_cre	0.1281	1
+330	p__Proteobacteria	10_wt	7_wt	0.6817	1
+331	p__Proteobacteria	10_wt	9_cre	0.1281	1
+332	p__Proteobacteria	10_wt	9_wt	0.2451	1
+333	p__Proteobacteria	12_cre	12_wt	1	1
+334	p__Proteobacteria	12_cre	5_cre	0.4621	1
+335	p__Proteobacteria	12_cre	5_wt	0.7104	1
+336	p__Proteobacteria	12_cre	7_cre	0.4621	1
+337	p__Proteobacteria	12_cre	7_wt	1	1
+338	p__Proteobacteria	12_cre	9_cre	0.4621	1
+339	p__Proteobacteria	12_cre	9_wt	0.7104	1
+340	p__Proteobacteria	12_wt	5_cre	0.7152	1
+341	p__Proteobacteria	12_wt	5_wt	1	1
+342	p__Proteobacteria	12_wt	7_cre	0.7152	1
+343	p__Proteobacteria	12_wt	7_wt	1	1
+344	p__Proteobacteria	12_wt	9_cre	0.7152	1
+345	p__Proteobacteria	12_wt	9_wt	1	1
+346	p__Proteobacteria	5_cre	5_wt	1	1
+347	p__Proteobacteria	5_cre	7_cre	1	1
+348	p__Proteobacteria	5_cre	7_wt	0.4621	1
+349	p__Proteobacteria	5_cre	9_cre	1	1
+350	p__Proteobacteria	5_cre	9_wt	1	1
+351	p__Proteobacteria	5_wt	7_cre	1	1
+352	p__Proteobacteria	5_wt	7_wt	0.7104	1
+353	p__Proteobacteria	5_wt	9_cre	1	1
+354	p__Proteobacteria	5_wt	9_wt	1	1
+355	p__Proteobacteria	7_cre	7_wt	0.4621	1
+356	p__Proteobacteria	7_cre	9_cre	1	1
+357	p__Proteobacteria	7_cre	9_wt	1	1
+358	p__Proteobacteria	7_wt	9_cre	0.4621	1
+359	p__Proteobacteria	7_wt	9_wt	0.7104	1
+360	p__Proteobacteria	9_cre	9_wt	1	1
+361	p__Tenericutes	10_cre	10_wt	0.0996	1
+362	p__Tenericutes	10_cre	12_cre	0.3295	1
+363	p__Tenericutes	10_cre	12_wt	0.3295	1
+364	p__Tenericutes	10_cre	5_cre	0.6513	1
+365	p__Tenericutes	10_cre	5_wt	0.6513	1
+366	p__Tenericutes	10_cre	7_cre	0.3295	1
+367	p__Tenericutes	10_cre	7_wt	0.0996	1
+368	p__Tenericutes	10_cre	9_cre	1	1
+369	p__Tenericutes	10_cre	9_wt	0.3295	1
+370	p__Tenericutes	10_wt	12_cre	1	1
+371	p__Tenericutes	10_wt	12_wt	1	1
+372	p__Tenericutes	10_wt	5_cre	0.4828	1
+373	p__Tenericutes	10_wt	5_wt	0.4828	1
+374	p__Tenericutes	10_wt	7_cre	1	1
+375	p__Tenericutes	10_wt	7_wt	1	1
+376	p__Tenericutes	10_wt	9_cre	0.2241	1
+377	p__Tenericutes	10_wt	9_wt	1	1
+378	p__Tenericutes	12_cre	12_wt	1	1
+379	p__Tenericutes	12_cre	5_cre	1	1
+380	p__Tenericutes	12_cre	5_wt	1	1
+381	p__Tenericutes	12_cre	7_cre	1	1
+382	p__Tenericutes	12_cre	7_wt	1	1
+383	p__Tenericutes	12_cre	9_cre	0.5977	1
+384	p__Tenericutes	12_cre	9_wt	1	1
+385	p__Tenericutes	12_wt	5_cre	1	1
+386	p__Tenericutes	12_wt	5_wt	1	1
+387	p__Tenericutes	12_wt	7_cre	1	1
+388	p__Tenericutes	12_wt	7_wt	1	1
+389	p__Tenericutes	12_wt	9_cre	0.5977	1
+390	p__Tenericutes	12_wt	9_wt	1	1
+391	p__Tenericutes	5_cre	5_wt	1	1
+392	p__Tenericutes	5_cre	7_cre	1	1
+393	p__Tenericutes	5_cre	7_wt	0.4828	1
+394	p__Tenericutes	5_cre	9_cre	1	1
+395	p__Tenericutes	5_cre	9_wt	1	1
+396	p__Tenericutes	5_wt	7_cre	1	1
+397	p__Tenericutes	5_wt	7_wt	0.4828	1
+398	p__Tenericutes	5_wt	9_cre	1	1
+399	p__Tenericutes	5_wt	9_wt	1	1
+400	p__Tenericutes	7_cre	7_wt	1	1
+401	p__Tenericutes	7_cre	9_cre	0.5977	1
+402	p__Tenericutes	7_cre	9_wt	1	1
+403	p__Tenericutes	7_wt	9_cre	0.2241	1
+404	p__Tenericutes	7_wt	9_wt	1	1
+405	p__Tenericutes	9_cre	9_wt	0.5977	1
+406	p__unknown_ Bacteria	10_cre	10_wt	0.6817	1
+407	p__unknown_ Bacteria	10_cre	12_cre	1	1
+408	p__unknown_ Bacteria	10_cre	12_wt	0.3898	1
+409	p__unknown_ Bacteria	10_cre	5_cre	0.3898	1
+410	p__unknown_ Bacteria	10_cre	5_wt	0.6817	1
+411	p__unknown_ Bacteria	10_cre	7_cre	0.3898	1
+412	p__unknown_ Bacteria	10_cre	7_wt	0.1686	1
+413	p__unknown_ Bacteria	10_cre	9_cre	1	1
+414	p__unknown_ Bacteria	10_cre	9_wt	0.6817	1
+415	p__unknown_ Bacteria	10_wt	12_cre	1	1
+416	p__unknown_ Bacteria	10_wt	12_wt	1	1
+417	p__unknown_ Bacteria	10_wt	5_cre	1	1
+418	p__unknown_ Bacteria	10_wt	5_wt	1	1
+419	p__unknown_ Bacteria	10_wt	7_cre	1	1
+420	p__unknown_ Bacteria	10_wt	7_wt	0.5977	1
+421	p__unknown_ Bacteria	10_wt	9_cre	0.427	1
+422	p__unknown_ Bacteria	10_wt	9_wt	1	1
+423	p__unknown_ Bacteria	12_cre	12_wt	0.6513	1
+424	p__unknown_ Bacteria	12_cre	5_cre	0.6513	1
+425	p__unknown_ Bacteria	12_cre	5_wt	1	1
+426	p__unknown_ Bacteria	12_cre	7_cre	0.6513	1
+427	p__unknown_ Bacteria	12_cre	7_wt	0.3295	1
+428	p__unknown_ Bacteria	12_cre	9_cre	0.6999	1
+429	p__unknown_ Bacteria	12_cre	9_wt	1	1
+430	p__unknown_ Bacteria	12_wt	5_cre	1	1
+431	p__unknown_ Bacteria	12_wt	5_wt	1	1
+432	p__unknown_ Bacteria	12_wt	7_cre	1	1
+433	p__unknown_ Bacteria	12_wt	7_wt	1	1
+434	p__unknown_ Bacteria	12_wt	9_cre	0.2148	1
+435	p__unknown_ Bacteria	12_wt	9_wt	1	1
+436	p__unknown_ Bacteria	5_cre	5_wt	1	1
+437	p__unknown_ Bacteria	5_cre	7_cre	1	1
+438	p__unknown_ Bacteria	5_cre	7_wt	1	1
+439	p__unknown_ Bacteria	5_cre	9_cre	0.2148	1
+440	p__unknown_ Bacteria	5_cre	9_wt	1	1
+441	p__unknown_ Bacteria	5_wt	7_cre	1	1
+442	p__unknown_ Bacteria	5_wt	7_wt	0.5977	1
+443	p__unknown_ Bacteria	5_wt	9_cre	0.427	1
+444	p__unknown_ Bacteria	5_wt	9_wt	1	1
+445	p__unknown_ Bacteria	7_cre	7_wt	1	1
+446	p__unknown_ Bacteria	7_cre	9_cre	0.2148	1
+447	p__unknown_ Bacteria	7_cre	9_wt	1	1
+448	p__unknown_ Bacteria	7_wt	9_cre	0.0801	1
+449	p__unknown_ Bacteria	7_wt	9_wt	0.5977	1
+450	p__unknown_ Bacteria	9_cre	9_wt	0.427	1
+451	c__Alphaproteobacteria	10_cre	10_wt	0.3295	1
+452	c__Alphaproteobacteria	10_cre	12_cre	0.6513	1
+453	c__Alphaproteobacteria	10_cre	12_wt	0.0996	1
+454	c__Alphaproteobacteria	10_cre	5_cre	0.3295	1
+455	c__Alphaproteobacteria	10_cre	5_wt	0.3295	1
+456	c__Alphaproteobacteria	10_cre	7_cre	1	1
+457	c__Alphaproteobacteria	10_cre	7_wt	0.3295	1
+458	c__Alphaproteobacteria	10_cre	9_cre	1	1
+459	c__Alphaproteobacteria	10_cre	9_wt	1	1
+460	c__Alphaproteobacteria	10_wt	12_cre	1	1
+461	c__Alphaproteobacteria	10_wt	12_wt	1	1
+462	c__Alphaproteobacteria	10_wt	5_cre	1	1
+463	c__Alphaproteobacteria	10_wt	5_wt	1	1
+464	c__Alphaproteobacteria	10_wt	7_cre	0.5977	1
+465	c__Alphaproteobacteria	10_wt	7_wt	1	1
+466	c__Alphaproteobacteria	10_wt	9_cre	0.3295	1
+467	c__Alphaproteobacteria	10_wt	9_wt	0.5977	1
+468	c__Alphaproteobacteria	12_cre	12_wt	0.4828	1
+469	c__Alphaproteobacteria	12_cre	5_cre	1	1
+470	c__Alphaproteobacteria	12_cre	5_wt	1	1
+471	c__Alphaproteobacteria	12_cre	7_cre	1	1
+472	c__Alphaproteobacteria	12_cre	7_wt	1	1
+473	c__Alphaproteobacteria	12_cre	9_cre	0.6513	1
+474	c__Alphaproteobacteria	12_cre	9_wt	1	1
+475	c__Alphaproteobacteria	12_wt	5_cre	1	1
+476	c__Alphaproteobacteria	12_wt	5_wt	1	1
+477	c__Alphaproteobacteria	12_wt	7_cre	0.2241	1
+478	c__Alphaproteobacteria	12_wt	7_wt	1	1
+479	c__Alphaproteobacteria	12_wt	9_cre	0.0996	1
+480	c__Alphaproteobacteria	12_wt	9_wt	0.2241	1
+481	c__Alphaproteobacteria	5_cre	5_wt	1	1
+482	c__Alphaproteobacteria	5_cre	7_cre	0.5977	1
+483	c__Alphaproteobacteria	5_cre	7_wt	1	1
+484	c__Alphaproteobacteria	5_cre	9_cre	0.3295	1
+485	c__Alphaproteobacteria	5_cre	9_wt	0.5977	1
+486	c__Alphaproteobacteria	5_wt	7_cre	0.5977	1
+487	c__Alphaproteobacteria	5_wt	7_wt	1	1
+488	c__Alphaproteobacteria	5_wt	9_cre	0.3295	1
+489	c__Alphaproteobacteria	5_wt	9_wt	0.5977	1
+490	c__Alphaproteobacteria	7_cre	7_wt	0.5977	1
+491	c__Alphaproteobacteria	7_cre	9_cre	1	1
+492	c__Alphaproteobacteria	7_cre	9_wt	1	1
+493	c__Alphaproteobacteria	7_wt	9_cre	0.3295	1
+494	c__Alphaproteobacteria	7_wt	9_wt	0.5977	1
+495	c__Alphaproteobacteria	9_cre	9_wt	1	1
+496	c__Bacilli	10_cre	10_wt	0.1281	1
+497	c__Bacilli	10_cre	12_cre	0.4621	1
+498	c__Bacilli	10_cre	12_wt	0.2635	1
+499	c__Bacilli	10_cre	5_cre	1	1
+500	c__Bacilli	10_cre	5_wt	1	1
+501	c__Bacilli	10_cre	7_cre	1	1
+502	c__Bacilli	10_cre	7_wt	0.4621	1
+503	c__Bacilli	10_cre	9_cre	1	1
+504	c__Bacilli	10_cre	9_wt	0.7152	1
+505	c__Bacilli	10_wt	12_cre	0.6817	1
+506	c__Bacilli	10_wt	12_wt	1	1
+507	c__Bacilli	10_wt	5_cre	0.1281	1
+508	c__Bacilli	10_wt	5_wt	0.2451	1
+509	c__Bacilli	10_wt	7_cre	0.1281	1
+510	c__Bacilli	10_wt	7_wt	0.6817	1
+511	c__Bacilli	10_wt	9_cre	0.1281	1
+512	c__Bacilli	10_wt	9_wt	0.427	1
+513	c__Bacilli	12_cre	12_wt	1	1
+514	c__Bacilli	12_cre	5_cre	0.4621	1
+515	c__Bacilli	12_cre	5_wt	0.7104	1
+516	c__Bacilli	12_cre	7_cre	0.4621	1
+517	c__Bacilli	12_cre	7_wt	1	1
+518	c__Bacilli	12_cre	9_cre	0.4621	1
+519	c__Bacilli	12_cre	9_wt	1	1
+520	c__Bacilli	12_wt	5_cre	0.2635	1
+521	c__Bacilli	12_wt	5_wt	0.4497	1
+522	c__Bacilli	12_wt	7_cre	0.2635	1
+523	c__Bacilli	12_wt	7_wt	1	1
+524	c__Bacilli	12_wt	9_cre	0.2635	1
+525	c__Bacilli	12_wt	9_wt	0.6999	1
+526	c__Bacilli	5_cre	5_wt	1	1
+527	c__Bacilli	5_cre	7_cre	1	1
+528	c__Bacilli	5_cre	7_wt	0.4621	1
+529	c__Bacilli	5_cre	9_cre	1	1
+530	c__Bacilli	5_cre	9_wt	0.7152	1
+531	c__Bacilli	5_wt	7_cre	1	1
+532	c__Bacilli	5_wt	7_wt	0.7104	1
+533	c__Bacilli	5_wt	9_cre	1	1
+534	c__Bacilli	5_wt	9_wt	1	1
+535	c__Bacilli	7_cre	7_wt	0.4621	1
+536	c__Bacilli	7_cre	9_cre	1	1
+537	c__Bacilli	7_cre	9_wt	0.7152	1
+538	c__Bacilli	7_wt	9_cre	0.4621	1
+539	c__Bacilli	7_wt	9_wt	1	1
+540	c__Bacilli	9_cre	9_wt	0.7152	1
+541	c__Bacteroidia	10_cre	10_wt	0.1281	1
+542	c__Bacteroidia	10_cre	12_cre	0.4621	1
+543	c__Bacteroidia	10_cre	12_wt	0.7152	1
+544	c__Bacteroidia	10_cre	5_cre	1	1
+545	c__Bacteroidia	10_cre	5_wt	1	1
+546	c__Bacteroidia	10_cre	7_cre	1	1
+547	c__Bacteroidia	10_cre	7_wt	0.4621	1
+548	c__Bacteroidia	10_cre	9_cre	1	1
+549	c__Bacteroidia	10_cre	9_wt	1	1
+550	c__Bacteroidia	10_wt	12_cre	0.6817	1
+551	c__Bacteroidia	10_wt	12_wt	0.427	1
+552	c__Bacteroidia	10_wt	5_cre	0.1281	1
+553	c__Bacteroidia	10_wt	5_wt	0.2451	1
+554	c__Bacteroidia	10_wt	7_cre	0.1281	1
+555	c__Bacteroidia	10_wt	7_wt	0.6817	1
+556	c__Bacteroidia	10_wt	9_cre	0.1281	1
+557	c__Bacteroidia	10_wt	9_wt	0.2451	1
+558	c__Bacteroidia	12_cre	12_wt	1	1
+559	c__Bacteroidia	12_cre	5_cre	0.4621	1
+560	c__Bacteroidia	12_cre	5_wt	0.7104	1
+561	c__Bacteroidia	12_cre	7_cre	0.4621	1
+562	c__Bacteroidia	12_cre	7_wt	1	1
+563	c__Bacteroidia	12_cre	9_cre	0.4621	1
+564	c__Bacteroidia	12_cre	9_wt	0.7104	1
+565	c__Bacteroidia	12_wt	5_cre	0.7152	1
+566	c__Bacteroidia	12_wt	5_wt	1	1
+567	c__Bacteroidia	12_wt	7_cre	0.7152	1
+568	c__Bacteroidia	12_wt	7_wt	1	1
+569	c__Bacteroidia	12_wt	9_cre	0.7152	1
+570	c__Bacteroidia	12_wt	9_wt	1	1
+571	c__Bacteroidia	5_cre	5_wt	1	1
+572	c__Bacteroidia	5_cre	7_cre	1	1
+573	c__Bacteroidia	5_cre	7_wt	0.4621	1
+574	c__Bacteroidia	5_cre	9_cre	1	1
+575	c__Bacteroidia	5_cre	9_wt	1	1
+576	c__Bacteroidia	5_wt	7_cre	1	1
+577	c__Bacteroidia	5_wt	7_wt	0.7104	1
+578	c__Bacteroidia	5_wt	9_cre	1	1
+579	c__Bacteroidia	5_wt	9_wt	1	1
+580	c__Bacteroidia	7_cre	7_wt	0.4621	1
+581	c__Bacteroidia	7_cre	9_cre	1	1
+582	c__Bacteroidia	7_cre	9_wt	1	1
+583	c__Bacteroidia	7_wt	9_cre	0.4621	1
+584	c__Bacteroidia	7_wt	9_wt	0.7104	1
+585	c__Bacteroidia	9_cre	9_wt	1	1
+586	c__Betaproteobacteria	10_cre	10_wt	0.2451	1
+587	c__Betaproteobacteria	10_cre	12_cre	0.4497	1
+588	c__Betaproteobacteria	10_cre	12_wt	1	1
+589	c__Betaproteobacteria	10_cre	5_cre	1	1
+590	c__Betaproteobacteria	10_cre	5_wt	1	1
+591	c__Betaproteobacteria	10_cre	7_cre	1	1
+592	c__Betaproteobacteria	10_cre	7_wt	0.7104	1
+593	c__Betaproteobacteria	10_cre	9_cre	1	1
+594	c__Betaproteobacteria	10_cre	9_wt	1	1
+595	c__Betaproteobacteria	10_wt	12_cre	1	1
+596	c__Betaproteobacteria	10_wt	12_wt	0.427	1
+597	c__Betaproteobacteria	10_wt	5_cre	0.427	1
+598	c__Betaproteobacteria	10_wt	5_wt	0.2451	1
+599	c__Betaproteobacteria	10_wt	7_cre	0.1281	1
+600	c__Betaproteobacteria	10_wt	7_wt	0.6817	1
+601	c__Betaproteobacteria	10_wt	9_cre	0.1281	1
+602	c__Betaproteobacteria	10_wt	9_wt	0.2451	1
+603	c__Betaproteobacteria	12_cre	12_wt	0.6999	1
+604	c__Betaproteobacteria	12_cre	5_cre	0.6999	1
+605	c__Betaproteobacteria	12_cre	5_wt	0.4497	1
+606	c__Betaproteobacteria	12_cre	7_cre	0.2635	1
+607	c__Betaproteobacteria	12_cre	7_wt	1	1
+608	c__Betaproteobacteria	12_cre	9_cre	0.2635	1
+609	c__Betaproteobacteria	12_cre	9_wt	0.4497	1
+610	c__Betaproteobacteria	12_wt	5_cre	1	1
+611	c__Betaproteobacteria	12_wt	5_wt	1	1
+612	c__Betaproteobacteria	12_wt	7_cre	0.7152	1
+613	c__Betaproteobacteria	12_wt	7_wt	1	1
+614	c__Betaproteobacteria	12_wt	9_cre	0.7152	1
+615	c__Betaproteobacteria	12_wt	9_wt	1	1
+616	c__Betaproteobacteria	5_cre	5_wt	1	1
+617	c__Betaproteobacteria	5_cre	7_cre	0.7152	1
+618	c__Betaproteobacteria	5_cre	7_wt	1	1
+619	c__Betaproteobacteria	5_cre	9_cre	0.7152	1
+620	c__Betaproteobacteria	5_cre	9_wt	1	1
+621	c__Betaproteobacteria	5_wt	7_cre	1	1
+622	c__Betaproteobacteria	5_wt	7_wt	0.7104	1
+623	c__Betaproteobacteria	5_wt	9_cre	1	1
+624	c__Betaproteobacteria	5_wt	9_wt	1	1
+625	c__Betaproteobacteria	7_cre	7_wt	0.4621	1
+626	c__Betaproteobacteria	7_cre	9_cre	1	1
+627	c__Betaproteobacteria	7_cre	9_wt	1	1
+628	c__Betaproteobacteria	7_wt	9_cre	0.4621	1
+629	c__Betaproteobacteria	7_wt	9_wt	0.7104	1
+630	c__Betaproteobacteria	9_cre	9_wt	1	1
+631	c__Clostridia	10_cre	10_wt	0.1281	1
+632	c__Clostridia	10_cre	12_cre	0.4621	1
+633	c__Clostridia	10_cre	12_wt	0.7152	1
+634	c__Clostridia	10_cre	5_cre	1	1
+635	c__Clostridia	10_cre	5_wt	1	1
+636	c__Clostridia	10_cre	7_cre	1	1
+637	c__Clostridia	10_cre	7_wt	0.4621	1
+638	c__Clostridia	10_cre	9_cre	1	1
+639	c__Clostridia	10_cre	9_wt	1	1
+640	c__Clostridia	10_wt	12_cre	0.6817	1
+641	c__Clostridia	10_wt	12_wt	0.427	1
+642	c__Clostridia	10_wt	5_cre	0.1281	1
+643	c__Clostridia	10_wt	5_wt	0.2451	1
+644	c__Clostridia	10_wt	7_cre	0.1281	1
+645	c__Clostridia	10_wt	7_wt	0.6817	1
+646	c__Clostridia	10_wt	9_cre	0.1281	1
+647	c__Clostridia	10_wt	9_wt	0.2451	1
+648	c__Clostridia	12_cre	12_wt	1	1
+649	c__Clostridia	12_cre	5_cre	0.4621	1
+650	c__Clostridia	12_cre	5_wt	0.7104	1
+651	c__Clostridia	12_cre	7_cre	0.4621	1
+652	c__Clostridia	12_cre	7_wt	1	1
+653	c__Clostridia	12_cre	9_cre	0.4621	1
+654	c__Clostridia	12_cre	9_wt	0.7104	1
+655	c__Clostridia	12_wt	5_cre	0.7152	1
+656	c__Clostridia	12_wt	5_wt	1	1
+657	c__Clostridia	12_wt	7_cre	0.7152	1
+658	c__Clostridia	12_wt	7_wt	1	1
+659	c__Clostridia	12_wt	9_cre	0.7152	1
+660	c__Clostridia	12_wt	9_wt	1	1
+661	c__Clostridia	5_cre	5_wt	1	1
+662	c__Clostridia	5_cre	7_cre	1	1
+663	c__Clostridia	5_cre	7_wt	0.4621	1
+664	c__Clostridia	5_cre	9_cre	1	1
+665	c__Clostridia	5_cre	9_wt	1	1
+666	c__Clostridia	5_wt	7_cre	1	1
+667	c__Clostridia	5_wt	7_wt	0.7104	1
+668	c__Clostridia	5_wt	9_cre	1	1
+669	c__Clostridia	5_wt	9_wt	1	1
+670	c__Clostridia	7_cre	7_wt	0.4621	1
+671	c__Clostridia	7_cre	9_cre	1	1
+672	c__Clostridia	7_cre	9_wt	1	1
+673	c__Clostridia	7_wt	9_cre	0.4621	1
+674	c__Clostridia	7_wt	9_wt	0.7104	1
+675	c__Clostridia	9_cre	9_wt	1	1
+676	c__Deferribacteres	10_cre	10_wt	0.5977	1
+677	c__Deferribacteres	10_cre	12_cre	1	1
+678	c__Deferribacteres	10_cre	12_wt	1	1
+679	c__Deferribacteres	10_cre	5_cre	1	1
+680	c__Deferribacteres	10_cre	5_wt	1	1
+681	c__Deferribacteres	10_cre	7_cre	1	1
+682	c__Deferribacteres	10_cre	7_wt	0.5977	1
+683	c__Deferribacteres	10_cre	9_cre	1	1
+684	c__Deferribacteres	10_cre	9_wt	1	1
+685	c__Deferribacteres	10_wt	12_cre	0.3295	1
+686	c__Deferribacteres	10_wt	12_wt	0.3295	1
+687	c__Deferribacteres	10_wt	5_cre	0.5977	1
+688	c__Deferribacteres	10_wt	5_wt	1	1
+689	c__Deferribacteres	10_wt	7_cre	0.5977	1
+690	c__Deferribacteres	10_wt	7_wt	1	1
+691	c__Deferribacteres	10_wt	9_cre	0.5977	1
+692	c__Deferribacteres	10_wt	9_wt	1	1
+693	c__Deferribacteres	12_cre	12_wt	1	1
+694	c__Deferribacteres	12_cre	5_cre	1	1
+695	c__Deferribacteres	12_cre	5_wt	0.6513	1
+696	c__Deferribacteres	12_cre	7_cre	1	1
+697	c__Deferribacteres	12_cre	7_wt	0.3295	1
+698	c__Deferribacteres	12_cre	9_cre	1	1
+699	c__Deferribacteres	12_cre	9_wt	0.6513	1
+700	c__Deferribacteres	12_wt	5_cre	1	1
+701	c__Deferribacteres	12_wt	5_wt	0.6513	1
+702	c__Deferribacteres	12_wt	7_cre	1	1
+703	c__Deferribacteres	12_wt	7_wt	0.3295	1
+704	c__Deferribacteres	12_wt	9_cre	1	1
+705	c__Deferribacteres	12_wt	9_wt	0.6513	1
+706	c__Deferribacteres	5_cre	5_wt	1	1
+707	c__Deferribacteres	5_cre	7_cre	1	1
+708	c__Deferribacteres	5_cre	7_wt	0.5977	1
+709	c__Deferribacteres	5_cre	9_cre	1	1
+710	c__Deferribacteres	5_cre	9_wt	1	1
+711	c__Deferribacteres	5_wt	7_cre	1	1
+712	c__Deferribacteres	5_wt	7_wt	1	1
+713	c__Deferribacteres	5_wt	9_cre	1	1
+714	c__Deferribacteres	5_wt	9_wt	1	1
+715	c__Deferribacteres	7_cre	7_wt	0.5977	1
+716	c__Deferribacteres	7_cre	9_cre	1	1
+717	c__Deferribacteres	7_cre	9_wt	1	1
+718	c__Deferribacteres	7_wt	9_cre	0.5977	1
+719	c__Deferribacteres	7_wt	9_wt	1	1
+720	c__Deferribacteres	9_cre	9_wt	1	1
+721	c__Deltaproteobacteria	10_cre	10_wt	0.2451	1
+722	c__Deltaproteobacteria	10_cre	12_cre	0.7104	1
+723	c__Deltaproteobacteria	10_cre	12_wt	0.7104	1
+724	c__Deltaproteobacteria	10_cre	5_cre	1	1
+725	c__Deltaproteobacteria	10_cre	5_wt	1	1
+726	c__Deltaproteobacteria	10_cre	7_cre	1	1
+727	c__Deltaproteobacteria	10_cre	7_wt	0.4497	1
+728	c__Deltaproteobacteria	10_cre	9_cre	1	1
+729	c__Deltaproteobacteria	10_cre	9_wt	1	1
+730	c__Deltaproteobacteria	10_wt	12_cre	0.6817	1
+731	c__Deltaproteobacteria	10_wt	12_wt	0.6817	1
+732	c__Deltaproteobacteria	10_wt	5_cre	0.427	1
+733	c__Deltaproteobacteria	10_wt	5_wt	0.2451	1
+734	c__Deltaproteobacteria	10_wt	7_cre	0.427	1
+735	c__Deltaproteobacteria	10_wt	7_wt	1	1
+736	c__Deltaproteobacteria	10_wt	9_cre	0.1281	1
+737	c__Deltaproteobacteria	10_wt	9_wt	0.427	1
+738	c__Deltaproteobacteria	12_cre	12_wt	1	1
+739	c__Deltaproteobacteria	12_cre	5_cre	1	1
+740	c__Deltaproteobacteria	12_cre	5_wt	0.7104	1
+741	c__Deltaproteobacteria	12_cre	7_cre	1	1
+742	c__Deltaproteobacteria	12_cre	7_wt	1	1
+743	c__Deltaproteobacteria	12_cre	9_cre	0.4621	1
+744	c__Deltaproteobacteria	12_cre	9_wt	1	1
+745	c__Deltaproteobacteria	12_wt	5_cre	1	1
+746	c__Deltaproteobacteria	12_wt	5_wt	0.7104	1
+747	c__Deltaproteobacteria	12_wt	7_cre	1	1
+748	c__Deltaproteobacteria	12_wt	7_wt	1	1
+749	c__Deltaproteobacteria	12_wt	9_cre	0.4621	1
+750	c__Deltaproteobacteria	12_wt	9_wt	1	1
+751	c__Deltaproteobacteria	5_cre	5_wt	1	1
+752	c__Deltaproteobacteria	5_cre	7_cre	1	1
+753	c__Deltaproteobacteria	5_cre	7_wt	0.6999	1
+754	c__Deltaproteobacteria	5_cre	9_cre	0.7152	1
+755	c__Deltaproteobacteria	5_cre	9_wt	1	1
+756	c__Deltaproteobacteria	5_wt	7_cre	1	1
+757	c__Deltaproteobacteria	5_wt	7_wt	0.4497	1
+758	c__Deltaproteobacteria	5_wt	9_cre	1	1
+759	c__Deltaproteobacteria	5_wt	9_wt	1	1
+760	c__Deltaproteobacteria	7_cre	7_wt	0.6999	1
+761	c__Deltaproteobacteria	7_cre	9_cre	0.7152	1
+762	c__Deltaproteobacteria	7_cre	9_wt	1	1
+763	c__Deltaproteobacteria	7_wt	9_cre	0.2635	1
+764	c__Deltaproteobacteria	7_wt	9_wt	0.6999	1
+765	c__Deltaproteobacteria	9_cre	9_wt	0.7152	1
+766	c__Erysipelotrichia	10_cre	10_wt	0.3295	0.9267
+767	c__Erysipelotrichia	10_cre	12_cre	0.0996	0.3201
+768	c__Erysipelotrichia	10_cre	12_wt	0.0996	0.3201
+769	c__Erysipelotrichia	10_cre	5_cre	0.0996	0.3201
+770	c__Erysipelotrichia	10_cre	5_wt	0.0996	0.3201
+771	c__Erysipelotrichia	10_cre	7_cre	0.0996	0.3201
+772	c__Erysipelotrichia	10_cre	7_wt	0.0996	0.3201
+773	c__Erysipelotrichia	10_cre	9_cre	1	1
+774	c__Erysipelotrichia	10_cre	9_wt	0.0996	0.3201
+775	c__Erysipelotrichia	10_wt	12_cre	1	1
+776	c__Erysipelotrichia	10_wt	12_wt	1	1
+777	c__Erysipelotrichia	10_wt	5_cre	1	1
+778	c__Erysipelotrichia	10_wt	5_wt	1	1
+779	c__Erysipelotrichia	10_wt	7_cre	1	1
+780	c__Erysipelotrichia	10_wt	7_wt	1	1
+781	c__Erysipelotrichia	10_wt	9_cre	0.1686	0.5058
+782	c__Erysipelotrichia	10_wt	9_wt	1	1
+783	c__Erysipelotrichia	12_cre	12_wt	1	1
+784	c__Erysipelotrichia	12_cre	5_cre	1	1
+785	c__Erysipelotrichia	12_cre	5_wt	1	1
+786	c__Erysipelotrichia	12_cre	7_cre	1	1
+787	c__Erysipelotrichia	12_cre	7_wt	1	1
+788	c__Erysipelotrichia	12_cre	9_cre	0.0421	0.2706
+789	c__Erysipelotrichia	12_cre	9_wt	1	1
+790	c__Erysipelotrichia	12_wt	5_cre	1	1
+791	c__Erysipelotrichia	12_wt	5_wt	1	1
+792	c__Erysipelotrichia	12_wt	7_cre	1	1
+793	c__Erysipelotrichia	12_wt	7_wt	1	1
+794	c__Erysipelotrichia	12_wt	9_cre	0.0421	0.2706
+795	c__Erysipelotrichia	12_wt	9_wt	1	1
+796	c__Erysipelotrichia	5_cre	5_wt	1	1
+797	c__Erysipelotrichia	5_cre	7_cre	1	1
+798	c__Erysipelotrichia	5_cre	7_wt	1	1
+799	c__Erysipelotrichia	5_cre	9_cre	0.0421	0.2706
+800	c__Erysipelotrichia	5_cre	9_wt	1	1
+801	c__Erysipelotrichia	5_wt	7_cre	1	1
+802	c__Erysipelotrichia	5_wt	7_wt	1	1
+803	c__Erysipelotrichia	5_wt	9_cre	0.0421	0.2706
+804	c__Erysipelotrichia	5_wt	9_wt	1	1
+805	c__Erysipelotrichia	7_cre	7_wt	1	1
+806	c__Erysipelotrichia	7_cre	9_cre	0.0421	0.2706
+807	c__Erysipelotrichia	7_cre	9_wt	1	1
+808	c__Erysipelotrichia	7_wt	9_cre	0.0421	0.2706
+809	c__Erysipelotrichia	7_wt	9_wt	1	1
+810	c__Erysipelotrichia	9_cre	9_wt	0.0421	0.2706
+811	c__Mollicutes	10_cre	10_wt	0.0996	1
+812	c__Mollicutes	10_cre	12_cre	0.3295	1
+813	c__Mollicutes	10_cre	12_wt	0.3295	1
+814	c__Mollicutes	10_cre	5_cre	0.6513	1
+815	c__Mollicutes	10_cre	5_wt	0.6513	1
+816	c__Mollicutes	10_cre	7_cre	0.3295	1
+817	c__Mollicutes	10_cre	7_wt	0.0996	1
+818	c__Mollicutes	10_cre	9_cre	1	1
+819	c__Mollicutes	10_cre	9_wt	0.3295	1
+820	c__Mollicutes	10_wt	12_cre	1	1
+821	c__Mollicutes	10_wt	12_wt	1	1
+822	c__Mollicutes	10_wt	5_cre	0.4828	1
+823	c__Mollicutes	10_wt	5_wt	0.4828	1
+824	c__Mollicutes	10_wt	7_cre	1	1
+825	c__Mollicutes	10_wt	7_wt	1	1
+826	c__Mollicutes	10_wt	9_cre	0.2241	1
+827	c__Mollicutes	10_wt	9_wt	1	1
+828	c__Mollicutes	12_cre	12_wt	1	1
+829	c__Mollicutes	12_cre	5_cre	1	1
+830	c__Mollicutes	12_cre	5_wt	1	1
+831	c__Mollicutes	12_cre	7_cre	1	1
+832	c__Mollicutes	12_cre	7_wt	1	1
+833	c__Mollicutes	12_cre	9_cre	0.5977	1
+834	c__Mollicutes	12_cre	9_wt	1	1
+835	c__Mollicutes	12_wt	5_cre	1	1
+836	c__Mollicutes	12_wt	5_wt	1	1
+837	c__Mollicutes	12_wt	7_cre	1	1
+838	c__Mollicutes	12_wt	7_wt	1	1
+839	c__Mollicutes	12_wt	9_cre	0.5977	1
+840	c__Mollicutes	12_wt	9_wt	1	1
+841	c__Mollicutes	5_cre	5_wt	1	1
+842	c__Mollicutes	5_cre	7_cre	1	1
+843	c__Mollicutes	5_cre	7_wt	0.4828	1
+844	c__Mollicutes	5_cre	9_cre	1	1
+845	c__Mollicutes	5_cre	9_wt	1	1
+846	c__Mollicutes	5_wt	7_cre	1	1
+847	c__Mollicutes	5_wt	7_wt	0.4828	1
+848	c__Mollicutes	5_wt	9_cre	1	1
+849	c__Mollicutes	5_wt	9_wt	1	1
+850	c__Mollicutes	7_cre	7_wt	1	1
+851	c__Mollicutes	7_cre	9_cre	0.5977	1
+852	c__Mollicutes	7_cre	9_wt	1	1
+853	c__Mollicutes	7_wt	9_cre	0.2241	1
+854	c__Mollicutes	7_wt	9_wt	1	1
+855	c__Mollicutes	9_cre	9_wt	0.5977	1
+856	c__unknown_ Bacteria	10_cre	10_wt	0.6817	1
+857	c__unknown_ Bacteria	10_cre	12_cre	1	1
+858	c__unknown_ Bacteria	10_cre	12_wt	0.3898	1
+859	c__unknown_ Bacteria	10_cre	5_cre	0.3898	1
+860	c__unknown_ Bacteria	10_cre	5_wt	0.6817	1
+861	c__unknown_ Bacteria	10_cre	7_cre	0.3898	1
+862	c__unknown_ Bacteria	10_cre	7_wt	0.1686	1
+863	c__unknown_ Bacteria	10_cre	9_cre	1	1
+864	c__unknown_ Bacteria	10_cre	9_wt	0.6817	1
+865	c__unknown_ Bacteria	10_wt	12_cre	1	1
+866	c__unknown_ Bacteria	10_wt	12_wt	1	1
+867	c__unknown_ Bacteria	10_wt	5_cre	1	1
+868	c__unknown_ Bacteria	10_wt	5_wt	1	1
+869	c__unknown_ Bacteria	10_wt	7_cre	1	1
+870	c__unknown_ Bacteria	10_wt	7_wt	0.5977	1
+871	c__unknown_ Bacteria	10_wt	9_cre	0.427	1
+872	c__unknown_ Bacteria	10_wt	9_wt	1	1
+873	c__unknown_ Bacteria	12_cre	12_wt	0.6513	1
+874	c__unknown_ Bacteria	12_cre	5_cre	0.6513	1
+875	c__unknown_ Bacteria	12_cre	5_wt	1	1
+876	c__unknown_ Bacteria	12_cre	7_cre	0.6513	1
+877	c__unknown_ Bacteria	12_cre	7_wt	0.3295	1
+878	c__unknown_ Bacteria	12_cre	9_cre	0.6999	1
+879	c__unknown_ Bacteria	12_cre	9_wt	1	1
+880	c__unknown_ Bacteria	12_wt	5_cre	1	1
+881	c__unknown_ Bacteria	12_wt	5_wt	1	1
+882	c__unknown_ Bacteria	12_wt	7_cre	1	1
+883	c__unknown_ Bacteria	12_wt	7_wt	1	1
+884	c__unknown_ Bacteria	12_wt	9_cre	0.2148	1
+885	c__unknown_ Bacteria	12_wt	9_wt	1	1
+886	c__unknown_ Bacteria	5_cre	5_wt	1	1
+887	c__unknown_ Bacteria	5_cre	7_cre	1	1
+888	c__unknown_ Bacteria	5_cre	7_wt	1	1
+889	c__unknown_ Bacteria	5_cre	9_cre	0.2148	1
+890	c__unknown_ Bacteria	5_cre	9_wt	1	1
+891	c__unknown_ Bacteria	5_wt	7_cre	1	1
+892	c__unknown_ Bacteria	5_wt	7_wt	0.5977	1
+893	c__unknown_ Bacteria	5_wt	9_cre	0.427	1
+894	c__unknown_ Bacteria	5_wt	9_wt	1	1
+895	c__unknown_ Bacteria	7_cre	7_wt	1	1
+896	c__unknown_ Bacteria	7_cre	9_cre	0.2148	1
+897	c__unknown_ Bacteria	7_cre	9_wt	1	1
+898	c__unknown_ Bacteria	7_wt	9_cre	0.0801	1
+899	c__unknown_ Bacteria	7_wt	9_wt	0.5977	1
+900	c__unknown_ Bacteria	9_cre	9_wt	0.427	1
+901	c__unknown_ Bacteroidetes	10_cre	10_wt	0.2451	1
+902	c__unknown_ Bacteroidetes	10_cre	12_cre	0.7104	1
+903	c__unknown_ Bacteroidetes	10_cre	12_wt	1	1
+904	c__unknown_ Bacteroidetes	10_cre	5_cre	1	1
+905	c__unknown_ Bacteroidetes	10_cre	5_wt	1	1
+906	c__unknown_ Bacteroidetes	10_cre	7_cre	1	1
+907	c__unknown_ Bacteroidetes	10_cre	7_wt	0.4497	1
+908	c__unknown_ Bacteroidetes	10_cre	9_cre	1	1
+909	c__unknown_ Bacteroidetes	10_cre	9_wt	1	1
+910	c__unknown_ Bacteroidetes	10_wt	12_cre	0.6817	1
+911	c__unknown_ Bacteroidetes	10_wt	12_wt	0.427	1
+912	c__unknown_ Bacteroidetes	10_wt	5_cre	0.1281	1
+913	c__unknown_ Bacteroidetes	10_wt	5_wt	0.2451	1
+914	c__unknown_ Bacteroidetes	10_wt	7_cre	0.2451	1
+915	c__unknown_ Bacteroidetes	10_wt	7_wt	1	1
+916	c__unknown_ Bacteroidetes	10_wt	9_cre	0.2451	1
+917	c__unknown_ Bacteroidetes	10_wt	9_wt	0.2451	1
+918	c__unknown_ Bacteroidetes	12_cre	12_wt	1	1
+919	c__unknown_ Bacteroidetes	12_cre	5_cre	0.4621	1
+920	c__unknown_ Bacteroidetes	12_cre	5_wt	0.7104	1
+921	c__unknown_ Bacteroidetes	12_cre	7_cre	0.7104	1
+922	c__unknown_ Bacteroidetes	12_cre	7_wt	1	1
+923	c__unknown_ Bacteroidetes	12_cre	9_cre	0.7104	1
+924	c__unknown_ Bacteroidetes	12_cre	9_wt	0.7104	1
+925	c__unknown_ Bacteroidetes	12_wt	5_cre	0.7152	1
+926	c__unknown_ Bacteroidetes	12_wt	5_wt	1	1
+927	c__unknown_ Bacteroidetes	12_wt	7_cre	1	1
+928	c__unknown_ Bacteroidetes	12_wt	7_wt	0.6999	1
+929	c__unknown_ Bacteroidetes	12_wt	9_cre	1	1
+930	c__unknown_ Bacteroidetes	12_wt	9_wt	1	1
+931	c__unknown_ Bacteroidetes	5_cre	5_wt	1	1
+932	c__unknown_ Bacteroidetes	5_cre	7_cre	1	1
+933	c__unknown_ Bacteroidetes	5_cre	7_wt	0.2635	1
+934	c__unknown_ Bacteroidetes	5_cre	9_cre	1	1
+935	c__unknown_ Bacteroidetes	5_cre	9_wt	1	1
+936	c__unknown_ Bacteroidetes	5_wt	7_cre	1	1
+937	c__unknown_ Bacteroidetes	5_wt	7_wt	0.4497	1
+938	c__unknown_ Bacteroidetes	5_wt	9_cre	1	1
+939	c__unknown_ Bacteroidetes	5_wt	9_wt	1	1
+940	c__unknown_ Bacteroidetes	7_cre	7_wt	0.4497	1
+941	c__unknown_ Bacteroidetes	7_cre	9_cre	1	1
+942	c__unknown_ Bacteroidetes	7_cre	9_wt	1	1
+943	c__unknown_ Bacteroidetes	7_wt	9_cre	0.4497	1
+944	c__unknown_ Bacteroidetes	7_wt	9_wt	0.4497	1
+945	c__unknown_ Bacteroidetes	9_cre	9_wt	1	1
+946	c__unknown_ Firmicutes	10_cre	10_wt	0.3898	1
+947	c__unknown_ Firmicutes	10_cre	12_cre	1	1
+948	c__unknown_ Firmicutes	10_cre	12_wt	1	1
+949	c__unknown_ Firmicutes	10_cre	5_cre	0.4621	1
+950	c__unknown_ Firmicutes	10_cre	5_wt	1	1
+951	c__unknown_ Firmicutes	10_cre	7_cre	1	1
+952	c__unknown_ Firmicutes	10_cre	7_wt	1	1
+953	c__unknown_ Firmicutes	10_cre	9_cre	1	1
+954	c__unknown_ Firmicutes	10_cre	9_wt	1	1
+955	c__unknown_ Firmicutes	10_wt	12_cre	0.6513	1
+956	c__unknown_ Firmicutes	10_wt	12_wt	0.2148	1
+957	c__unknown_ Firmicutes	10_wt	5_cre	0.0502	1
+958	c__unknown_ Firmicutes	10_wt	5_wt	0.2148	1
+959	c__unknown_ Firmicutes	10_wt	7_cre	0.6513	1
+960	c__unknown_ Firmicutes	10_wt	7_wt	0.3898	1
+961	c__unknown_ Firmicutes	10_wt	9_cre	0.2148	1
+962	c__unknown_ Firmicutes	10_wt	9_wt	0.2148	1
+963	c__unknown_ Firmicutes	12_cre	12_wt	0.6999	1
+964	c__unknown_ Firmicutes	12_cre	5_cre	0.2635	1
+965	c__unknown_ Firmicutes	12_cre	5_wt	0.6999	1
+966	c__unknown_ Firmicutes	12_cre	7_cre	1	1
+967	c__unknown_ Firmicutes	12_cre	7_wt	1	1
+968	c__unknown_ Firmicutes	12_cre	9_cre	0.6999	1
+969	c__unknown_ Firmicutes	12_cre	9_wt	0.6999	1
+970	c__unknown_ Firmicutes	12_wt	5_cre	0.7152	1
+971	c__unknown_ Firmicutes	12_wt	5_wt	1	1
+972	c__unknown_ Firmicutes	12_wt	7_cre	0.6999	1
+973	c__unknown_ Firmicutes	12_wt	7_wt	1	1
+974	c__unknown_ Firmicutes	12_wt	9_cre	1	1
+975	c__unknown_ Firmicutes	12_wt	9_wt	1	1
+976	c__unknown_ Firmicutes	5_cre	5_wt	0.7152	1
+977	c__unknown_ Firmicutes	5_cre	7_cre	0.2635	1
+978	c__unknown_ Firmicutes	5_cre	7_wt	0.4621	1
+979	c__unknown_ Firmicutes	5_cre	9_cre	0.7152	1
+980	c__unknown_ Firmicutes	5_cre	9_wt	0.7152	1
+981	c__unknown_ Firmicutes	5_wt	7_cre	0.6999	1
+982	c__unknown_ Firmicutes	5_wt	7_wt	1	1
+983	c__unknown_ Firmicutes	5_wt	9_cre	1	1
+984	c__unknown_ Firmicutes	5_wt	9_wt	1	1
+985	c__unknown_ Firmicutes	7_cre	7_wt	1	1
+986	c__unknown_ Firmicutes	7_cre	9_cre	0.6999	1
+987	c__unknown_ Firmicutes	7_cre	9_wt	0.6999	1
+988	c__unknown_ Firmicutes	7_wt	9_cre	1	1
+989	c__unknown_ Firmicutes	7_wt	9_wt	1	1
+990	c__unknown_ Firmicutes	9_cre	9_wt	1	1
+991	o__Anaeroplasmatales	10_cre	10_wt	0.0996	1
+992	o__Anaeroplasmatales	10_cre	12_cre	0.3295	1
+993	o__Anaeroplasmatales	10_cre	12_wt	0.3295	1
+994	o__Anaeroplasmatales	10_cre	5_cre	0.6513	1
+995	o__Anaeroplasmatales	10_cre	5_wt	0.6513	1
+996	o__Anaeroplasmatales	10_cre	7_cre	0.3295	1
+997	o__Anaeroplasmatales	10_cre	7_wt	0.0996	1
+998	o__Anaeroplasmatales	10_cre	9_cre	1	1
+999	o__Anaeroplasmatales	10_cre	9_wt	0.3295	1
+1000	o__Anaeroplasmatales	10_wt	12_cre	1	1
+1001	o__Anaeroplasmatales	10_wt	12_wt	1	1
+1002	o__Anaeroplasmatales	10_wt	5_cre	0.4828	1
+1003	o__Anaeroplasmatales	10_wt	5_wt	0.4828	1
+1004	o__Anaeroplasmatales	10_wt	7_cre	1	1
+1005	o__Anaeroplasmatales	10_wt	7_wt	1	1
+1006	o__Anaeroplasmatales	10_wt	9_cre	0.2241	1
+1007	o__Anaeroplasmatales	10_wt	9_wt	1	1
+1008	o__Anaeroplasmatales	12_cre	12_wt	1	1
+1009	o__Anaeroplasmatales	12_cre	5_cre	1	1
+1010	o__Anaeroplasmatales	12_cre	5_wt	1	1
+1011	o__Anaeroplasmatales	12_cre	7_cre	1	1
+1012	o__Anaeroplasmatales	12_cre	7_wt	1	1
+1013	o__Anaeroplasmatales	12_cre	9_cre	0.5977	1
+1014	o__Anaeroplasmatales	12_cre	9_wt	1	1
+1015	o__Anaeroplasmatales	12_wt	5_cre	1	1
+1016	o__Anaeroplasmatales	12_wt	5_wt	1	1
+1017	o__Anaeroplasmatales	12_wt	7_cre	1	1
+1018	o__Anaeroplasmatales	12_wt	7_wt	1	1
+1019	o__Anaeroplasmatales	12_wt	9_cre	0.5977	1
+1020	o__Anaeroplasmatales	12_wt	9_wt	1	1
+1021	o__Anaeroplasmatales	5_cre	5_wt	1	1
+1022	o__Anaeroplasmatales	5_cre	7_cre	1	1
+1023	o__Anaeroplasmatales	5_cre	7_wt	0.4828	1
+1024	o__Anaeroplasmatales	5_cre	9_cre	1	1
+1025	o__Anaeroplasmatales	5_cre	9_wt	1	1
+1026	o__Anaeroplasmatales	5_wt	7_cre	1	1
+1027	o__Anaeroplasmatales	5_wt	7_wt	0.4828	1
+1028	o__Anaeroplasmatales	5_wt	9_cre	1	1
+1029	o__Anaeroplasmatales	5_wt	9_wt	1	1
+1030	o__Anaeroplasmatales	7_cre	7_wt	1	1
+1031	o__Anaeroplasmatales	7_cre	9_cre	0.5977	1
+1032	o__Anaeroplasmatales	7_cre	9_wt	1	1
+1033	o__Anaeroplasmatales	7_wt	9_cre	0.2241	1
+1034	o__Anaeroplasmatales	7_wt	9_wt	1	1
+1035	o__Anaeroplasmatales	9_cre	9_wt	0.5977	1
+1036	o__Bacteroidales	10_cre	10_wt	0.1281	1
+1037	o__Bacteroidales	10_cre	12_cre	0.4621	1
+1038	o__Bacteroidales	10_cre	12_wt	0.7152	1
+1039	o__Bacteroidales	10_cre	5_cre	1	1
+1040	o__Bacteroidales	10_cre	5_wt	1	1
+1041	o__Bacteroidales	10_cre	7_cre	1	1
+1042	o__Bacteroidales	10_cre	7_wt	0.4621	1
+1043	o__Bacteroidales	10_cre	9_cre	1	1
+1044	o__Bacteroidales	10_cre	9_wt	1	1
+1045	o__Bacteroidales	10_wt	12_cre	0.6817	1
+1046	o__Bacteroidales	10_wt	12_wt	0.427	1
+1047	o__Bacteroidales	10_wt	5_cre	0.1281	1
+1048	o__Bacteroidales	10_wt	5_wt	0.2451	1
+1049	o__Bacteroidales	10_wt	7_cre	0.1281	1
+1050	o__Bacteroidales	10_wt	7_wt	0.6817	1
+1051	o__Bacteroidales	10_wt	9_cre	0.1281	1
+1052	o__Bacteroidales	10_wt	9_wt	0.2451	1
+1053	o__Bacteroidales	12_cre	12_wt	1	1
+1054	o__Bacteroidales	12_cre	5_cre	0.4621	1
+1055	o__Bacteroidales	12_cre	5_wt	0.7104	1
+1056	o__Bacteroidales	12_cre	7_cre	0.4621	1
+1057	o__Bacteroidales	12_cre	7_wt	1	1
+1058	o__Bacteroidales	12_cre	9_cre	0.4621	1
+1059	o__Bacteroidales	12_cre	9_wt	0.7104	1
+1060	o__Bacteroidales	12_wt	5_cre	0.7152	1
+1061	o__Bacteroidales	12_wt	5_wt	1	1
+1062	o__Bacteroidales	12_wt	7_cre	0.7152	1
+1063	o__Bacteroidales	12_wt	7_wt	1	1
+1064	o__Bacteroidales	12_wt	9_cre	0.7152	1
+1065	o__Bacteroidales	12_wt	9_wt	1	1
+1066	o__Bacteroidales	5_cre	5_wt	1	1
+1067	o__Bacteroidales	5_cre	7_cre	1	1
+1068	o__Bacteroidales	5_cre	7_wt	0.4621	1
+1069	o__Bacteroidales	5_cre	9_cre	1	1
+1070	o__Bacteroidales	5_cre	9_wt	1	1
+1071	o__Bacteroidales	5_wt	7_cre	1	1
+1072	o__Bacteroidales	5_wt	7_wt	0.7104	1
+1073	o__Bacteroidales	5_wt	9_cre	1	1
+1074	o__Bacteroidales	5_wt	9_wt	1	1
+1075	o__Bacteroidales	7_cre	7_wt	0.4621	1
+1076	o__Bacteroidales	7_cre	9_cre	1	1
+1077	o__Bacteroidales	7_cre	9_wt	1	1
+1078	o__Bacteroidales	7_wt	9_cre	0.4621	1
+1079	o__Bacteroidales	7_wt	9_wt	0.7104	1
+1080	o__Bacteroidales	9_cre	9_wt	1	1
+1081	o__Burkholderiales	10_cre	10_wt	0.2451	1
+1082	o__Burkholderiales	10_cre	12_cre	0.4497	1
+1083	o__Burkholderiales	10_cre	12_wt	1	1
+1084	o__Burkholderiales	10_cre	5_cre	1	1
+1085	o__Burkholderiales	10_cre	5_wt	1	1
+1086	o__Burkholderiales	10_cre	7_cre	1	1
+1087	o__Burkholderiales	10_cre	7_wt	0.7104	1
+1088	o__Burkholderiales	10_cre	9_cre	1	1
+1089	o__Burkholderiales	10_cre	9_wt	1	1
+1090	o__Burkholderiales	10_wt	12_cre	1	1
+1091	o__Burkholderiales	10_wt	12_wt	0.427	1
+1092	o__Burkholderiales	10_wt	5_cre	0.427	1
+1093	o__Burkholderiales	10_wt	5_wt	0.2451	1
+1094	o__Burkholderiales	10_wt	7_cre	0.1281	1
+1095	o__Burkholderiales	10_wt	7_wt	0.6817	1
+1096	o__Burkholderiales	10_wt	9_cre	0.1281	1
+1097	o__Burkholderiales	10_wt	9_wt	0.2451	1
+1098	o__Burkholderiales	12_cre	12_wt	0.6999	1
+1099	o__Burkholderiales	12_cre	5_cre	0.6999	1
+1100	o__Burkholderiales	12_cre	5_wt	0.4497	1
+1101	o__Burkholderiales	12_cre	7_cre	0.2635	1
+1102	o__Burkholderiales	12_cre	7_wt	1	1
+1103	o__Burkholderiales	12_cre	9_cre	0.2635	1
+1104	o__Burkholderiales	12_cre	9_wt	0.4497	1
+1105	o__Burkholderiales	12_wt	5_cre	1	1
+1106	o__Burkholderiales	12_wt	5_wt	1	1
+1107	o__Burkholderiales	12_wt	7_cre	0.7152	1
+1108	o__Burkholderiales	12_wt	7_wt	1	1
+1109	o__Burkholderiales	12_wt	9_cre	0.7152	1
+1110	o__Burkholderiales	12_wt	9_wt	1	1
+1111	o__Burkholderiales	5_cre	5_wt	1	1
+1112	o__Burkholderiales	5_cre	7_cre	0.7152	1
+1113	o__Burkholderiales	5_cre	7_wt	1	1
+1114	o__Burkholderiales	5_cre	9_cre	0.7152	1
+1115	o__Burkholderiales	5_cre	9_wt	1	1
+1116	o__Burkholderiales	5_wt	7_cre	1	1
+1117	o__Burkholderiales	5_wt	7_wt	0.7104	1
+1118	o__Burkholderiales	5_wt	9_cre	1	1
+1119	o__Burkholderiales	5_wt	9_wt	1	1
+1120	o__Burkholderiales	7_cre	7_wt	0.4621	1
+1121	o__Burkholderiales	7_cre	9_cre	1	1
+1122	o__Burkholderiales	7_cre	9_wt	1	1
+1123	o__Burkholderiales	7_wt	9_cre	0.4621	1
+1124	o__Burkholderiales	7_wt	9_wt	0.7104	1
+1125	o__Burkholderiales	9_cre	9_wt	1	1
+1126	o__Clostridiales	10_cre	10_wt	0.1281	1
+1127	o__Clostridiales	10_cre	12_cre	0.4621	1
+1128	o__Clostridiales	10_cre	12_wt	0.7152	1
+1129	o__Clostridiales	10_cre	5_cre	1	1
+1130	o__Clostridiales	10_cre	5_wt	1	1
+1131	o__Clostridiales	10_cre	7_cre	1	1
+1132	o__Clostridiales	10_cre	7_wt	0.4621	1
+1133	o__Clostridiales	10_cre	9_cre	1	1
+1134	o__Clostridiales	10_cre	9_wt	1	1
+1135	o__Clostridiales	10_wt	12_cre	0.6817	1
+1136	o__Clostridiales	10_wt	12_wt	0.427	1
+1137	o__Clostridiales	10_wt	5_cre	0.1281	1
+1138	o__Clostridiales	10_wt	5_wt	0.2451	1
+1139	o__Clostridiales	10_wt	7_cre	0.1281	1
+1140	o__Clostridiales	10_wt	7_wt	0.6817	1
+1141	o__Clostridiales	10_wt	9_cre	0.1281	1
+1142	o__Clostridiales	10_wt	9_wt	0.2451	1
+1143	o__Clostridiales	12_cre	12_wt	1	1
+1144	o__Clostridiales	12_cre	5_cre	0.4621	1
+1145	o__Clostridiales	12_cre	5_wt	0.7104	1
+1146	o__Clostridiales	12_cre	7_cre	0.4621	1
+1147	o__Clostridiales	12_cre	7_wt	1	1
+1148	o__Clostridiales	12_cre	9_cre	0.4621	1
+1149	o__Clostridiales	12_cre	9_wt	0.7104	1
+1150	o__Clostridiales	12_wt	5_cre	0.7152	1
+1151	o__Clostridiales	12_wt	5_wt	1	1
+1152	o__Clostridiales	12_wt	7_cre	0.7152	1
+1153	o__Clostridiales	12_wt	7_wt	1	1
+1154	o__Clostridiales	12_wt	9_cre	0.7152	1
+1155	o__Clostridiales	12_wt	9_wt	1	1
+1156	o__Clostridiales	5_cre	5_wt	1	1
+1157	o__Clostridiales	5_cre	7_cre	1	1
+1158	o__Clostridiales	5_cre	7_wt	0.4621	1
+1159	o__Clostridiales	5_cre	9_cre	1	1
+1160	o__Clostridiales	5_cre	9_wt	1	1
+1161	o__Clostridiales	5_wt	7_cre	1	1
+1162	o__Clostridiales	5_wt	7_wt	0.7104	1
+1163	o__Clostridiales	5_wt	9_cre	1	1
+1164	o__Clostridiales	5_wt	9_wt	1	1
+1165	o__Clostridiales	7_cre	7_wt	0.4621	1
+1166	o__Clostridiales	7_cre	9_cre	1	1
+1167	o__Clostridiales	7_cre	9_wt	1	1
+1168	o__Clostridiales	7_wt	9_cre	0.4621	1
+1169	o__Clostridiales	7_wt	9_wt	0.7104	1
+1170	o__Clostridiales	9_cre	9_wt	1	1
+1171	o__Deferribacterales	10_cre	10_wt	0.5977	1
+1172	o__Deferribacterales	10_cre	12_cre	1	1
+1173	o__Deferribacterales	10_cre	12_wt	1	1
+1174	o__Deferribacterales	10_cre	5_cre	1	1
+1175	o__Deferribacterales	10_cre	5_wt	1	1
+1176	o__Deferribacterales	10_cre	7_cre	1	1
+1177	o__Deferribacterales	10_cre	7_wt	0.5977	1
+1178	o__Deferribacterales	10_cre	9_cre	1	1
+1179	o__Deferribacterales	10_cre	9_wt	1	1
+1180	o__Deferribacterales	10_wt	12_cre	0.3295	1
+1181	o__Deferribacterales	10_wt	12_wt	0.3295	1
+1182	o__Deferribacterales	10_wt	5_cre	0.5977	1
+1183	o__Deferribacterales	10_wt	5_wt	1	1
+1184	o__Deferribacterales	10_wt	7_cre	0.5977	1
+1185	o__Deferribacterales	10_wt	7_wt	1	1
+1186	o__Deferribacterales	10_wt	9_cre	0.5977	1
+1187	o__Deferribacterales	10_wt	9_wt	1	1
+1188	o__Deferribacterales	12_cre	12_wt	1	1
+1189	o__Deferribacterales	12_cre	5_cre	1	1
+1190	o__Deferribacterales	12_cre	5_wt	0.6513	1
+1191	o__Deferribacterales	12_cre	7_cre	1	1
+1192	o__Deferribacterales	12_cre	7_wt	0.3295	1
+1193	o__Deferribacterales	12_cre	9_cre	1	1
+1194	o__Deferribacterales	12_cre	9_wt	0.6513	1
+1195	o__Deferribacterales	12_wt	5_cre	1	1
+1196	o__Deferribacterales	12_wt	5_wt	0.6513	1
+1197	o__Deferribacterales	12_wt	7_cre	1	1
+1198	o__Deferribacterales	12_wt	7_wt	0.3295	1
+1199	o__Deferribacterales	12_wt	9_cre	1	1
+1200	o__Deferribacterales	12_wt	9_wt	0.6513	1
+1201	o__Deferribacterales	5_cre	5_wt	1	1
+1202	o__Deferribacterales	5_cre	7_cre	1	1
+1203	o__Deferribacterales	5_cre	7_wt	0.5977	1
+1204	o__Deferribacterales	5_cre	9_cre	1	1
+1205	o__Deferribacterales	5_cre	9_wt	1	1
+1206	o__Deferribacterales	5_wt	7_cre	1	1
+1207	o__Deferribacterales	5_wt	7_wt	1	1
+1208	o__Deferribacterales	5_wt	9_cre	1	1
+1209	o__Deferribacterales	5_wt	9_wt	1	1
+1210	o__Deferribacterales	7_cre	7_wt	0.5977	1
+1211	o__Deferribacterales	7_cre	9_cre	1	1
+1212	o__Deferribacterales	7_cre	9_wt	1	1
+1213	o__Deferribacterales	7_wt	9_cre	0.5977	1
+1214	o__Deferribacterales	7_wt	9_wt	1	1
+1215	o__Deferribacterales	9_cre	9_wt	1	1
+1216	o__Desulfovibrionales	10_cre	10_wt	1	1
+1217	o__Desulfovibrionales	10_cre	12_cre	1	1
+1218	o__Desulfovibrionales	10_cre	12_wt	1	1
+1219	o__Desulfovibrionales	10_cre	5_cre	1	1
+1220	o__Desulfovibrionales	10_cre	5_wt	1	1
+1221	o__Desulfovibrionales	10_cre	7_cre	1	1
+1222	o__Desulfovibrionales	10_cre	7_wt	1	1
+1223	o__Desulfovibrionales	10_cre	9_cre	0.5977	1
+1224	o__Desulfovibrionales	10_cre	9_wt	1	1
+1225	o__Desulfovibrionales	10_wt	12_cre	1	1
+1226	o__Desulfovibrionales	10_wt	12_wt	1	1
+1227	o__Desulfovibrionales	10_wt	5_cre	1	1
+1228	o__Desulfovibrionales	10_wt	5_wt	1	1
+1229	o__Desulfovibrionales	10_wt	7_cre	1	1
+1230	o__Desulfovibrionales	10_wt	7_wt	1	1
+1231	o__Desulfovibrionales	10_wt	9_cre	0.5977	1
+1232	o__Desulfovibrionales	10_wt	9_wt	1	1
+1233	o__Desulfovibrionales	12_cre	12_wt	1	1
+1234	o__Desulfovibrionales	12_cre	5_cre	1	1
+1235	o__Desulfovibrionales	12_cre	5_wt	1	1
+1236	o__Desulfovibrionales	12_cre	7_cre	1	1
+1237	o__Desulfovibrionales	12_cre	7_wt	1	1
+1238	o__Desulfovibrionales	12_cre	9_cre	0.5977	1
+1239	o__Desulfovibrionales	12_cre	9_wt	1	1
+1240	o__Desulfovibrionales	12_wt	5_cre	0.6513	1
+1241	o__Desulfovibrionales	12_wt	5_wt	0.6513	1
+1242	o__Desulfovibrionales	12_wt	7_cre	1	1
+1243	o__Desulfovibrionales	12_wt	7_wt	0.6513	1
+1244	o__Desulfovibrionales	12_wt	9_cre	0.3295	1
+1245	o__Desulfovibrionales	12_wt	9_wt	1	1
+1246	o__Desulfovibrionales	5_cre	5_wt	1	1
+1247	o__Desulfovibrionales	5_cre	7_cre	1	1
+1248	o__Desulfovibrionales	5_cre	7_wt	1	1
+1249	o__Desulfovibrionales	5_cre	9_cre	1	1
+1250	o__Desulfovibrionales	5_cre	9_wt	0.6513	1
+1251	o__Desulfovibrionales	5_wt	7_cre	1	1
+1252	o__Desulfovibrionales	5_wt	7_wt	1	1
+1253	o__Desulfovibrionales	5_wt	9_cre	1	1
+1254	o__Desulfovibrionales	5_wt	9_wt	0.6513	1
+1255	o__Desulfovibrionales	7_cre	7_wt	1	1
+1256	o__Desulfovibrionales	7_cre	9_cre	0.5977	1
+1257	o__Desulfovibrionales	7_cre	9_wt	1	1
+1258	o__Desulfovibrionales	7_wt	9_cre	1	1
+1259	o__Desulfovibrionales	7_wt	9_wt	0.6513	1
+1260	o__Desulfovibrionales	9_cre	9_wt	0.3295	1
+1261	o__Erysipelotrichales	10_cre	10_wt	0.3295	0.9267
+1262	o__Erysipelotrichales	10_cre	12_cre	0.0996	0.3201
+1263	o__Erysipelotrichales	10_cre	12_wt	0.0996	0.3201
+1264	o__Erysipelotrichales	10_cre	5_cre	0.0996	0.3201
+1265	o__Erysipelotrichales	10_cre	5_wt	0.0996	0.3201
+1266	o__Erysipelotrichales	10_cre	7_cre	0.0996	0.3201
+1267	o__Erysipelotrichales	10_cre	7_wt	0.0996	0.3201
+1268	o__Erysipelotrichales	10_cre	9_cre	1	1
+1269	o__Erysipelotrichales	10_cre	9_wt	0.0996	0.3201
+1270	o__Erysipelotrichales	10_wt	12_cre	1	1
+1271	o__Erysipelotrichales	10_wt	12_wt	1	1
+1272	o__Erysipelotrichales	10_wt	5_cre	1	1
+1273	o__Erysipelotrichales	10_wt	5_wt	1	1
+1274	o__Erysipelotrichales	10_wt	7_cre	1	1
+1275	o__Erysipelotrichales	10_wt	7_wt	1	1
+1276	o__Erysipelotrichales	10_wt	9_cre	0.1686	0.5058
+1277	o__Erysipelotrichales	10_wt	9_wt	1	1
+1278	o__Erysipelotrichales	12_cre	12_wt	1	1
+1279	o__Erysipelotrichales	12_cre	5_cre	1	1
+1280	o__Erysipelotrichales	12_cre	5_wt	1	1
+1281	o__Erysipelotrichales	12_cre	7_cre	1	1
+1282	o__Erysipelotrichales	12_cre	7_wt	1	1
+1283	o__Erysipelotrichales	12_cre	9_cre	0.0421	0.2706
+1284	o__Erysipelotrichales	12_cre	9_wt	1	1
+1285	o__Erysipelotrichales	12_wt	5_cre	1	1
+1286	o__Erysipelotrichales	12_wt	5_wt	1	1
+1287	o__Erysipelotrichales	12_wt	7_cre	1	1
+1288	o__Erysipelotrichales	12_wt	7_wt	1	1
+1289	o__Erysipelotrichales	12_wt	9_cre	0.0421	0.2706
+1290	o__Erysipelotrichales	12_wt	9_wt	1	1
+1291	o__Erysipelotrichales	5_cre	5_wt	1	1
+1292	o__Erysipelotrichales	5_cre	7_cre	1	1
+1293	o__Erysipelotrichales	5_cre	7_wt	1	1
+1294	o__Erysipelotrichales	5_cre	9_cre	0.0421	0.2706
+1295	o__Erysipelotrichales	5_cre	9_wt	1	1
+1296	o__Erysipelotrichales	5_wt	7_cre	1	1
+1297	o__Erysipelotrichales	5_wt	7_wt	1	1
+1298	o__Erysipelotrichales	5_wt	9_cre	0.0421	0.2706
+1299	o__Erysipelotrichales	5_wt	9_wt	1	1
+1300	o__Erysipelotrichales	7_cre	7_wt	1	1
+1301	o__Erysipelotrichales	7_cre	9_cre	0.0421	0.2706
+1302	o__Erysipelotrichales	7_cre	9_wt	1	1
+1303	o__Erysipelotrichales	7_wt	9_cre	0.0421	0.2706
+1304	o__Erysipelotrichales	7_wt	9_wt	1	1
+1305	o__Erysipelotrichales	9_cre	9_wt	0.0421	0.2706
+1306	o__Lactobacillales	10_cre	10_wt	0.1281	1
+1307	o__Lactobacillales	10_cre	12_cre	0.4621	1
+1308	o__Lactobacillales	10_cre	12_wt	0.2635	1
+1309	o__Lactobacillales	10_cre	5_cre	1	1
+1310	o__Lactobacillales	10_cre	5_wt	1	1
+1311	o__Lactobacillales	10_cre	7_cre	1	1
+1312	o__Lactobacillales	10_cre	7_wt	0.4621	1
+1313	o__Lactobacillales	10_cre	9_cre	1	1
+1314	o__Lactobacillales	10_cre	9_wt	0.7152	1
+1315	o__Lactobacillales	10_wt	12_cre	0.6817	1
+1316	o__Lactobacillales	10_wt	12_wt	1	1
+1317	o__Lactobacillales	10_wt	5_cre	0.1281	1
+1318	o__Lactobacillales	10_wt	5_wt	0.2451	1
+1319	o__Lactobacillales	10_wt	7_cre	0.1281	1
+1320	o__Lactobacillales	10_wt	7_wt	0.6817	1
+1321	o__Lactobacillales	10_wt	9_cre	0.1281	1
+1322	o__Lactobacillales	10_wt	9_wt	0.427	1
+1323	o__Lactobacillales	12_cre	12_wt	1	1
+1324	o__Lactobacillales	12_cre	5_cre	0.4621	1
+1325	o__Lactobacillales	12_cre	5_wt	0.7104	1
+1326	o__Lactobacillales	12_cre	7_cre	0.4621	1
+1327	o__Lactobacillales	12_cre	7_wt	1	1
+1328	o__Lactobacillales	12_cre	9_cre	0.4621	1
+1329	o__Lactobacillales	12_cre	9_wt	1	1
+1330	o__Lactobacillales	12_wt	5_cre	0.2635	1
+1331	o__Lactobacillales	12_wt	5_wt	0.4497	1
+1332	o__Lactobacillales	12_wt	7_cre	0.2635	1
+1333	o__Lactobacillales	12_wt	7_wt	1	1
+1334	o__Lactobacillales	12_wt	9_cre	0.2635	1
+1335	o__Lactobacillales	12_wt	9_wt	0.6999	1
+1336	o__Lactobacillales	5_cre	5_wt	1	1
+1337	o__Lactobacillales	5_cre	7_cre	1	1
+1338	o__Lactobacillales	5_cre	7_wt	0.4621	1
+1339	o__Lactobacillales	5_cre	9_cre	1	1
+1340	o__Lactobacillales	5_cre	9_wt	0.7152	1
+1341	o__Lactobacillales	5_wt	7_cre	1	1
+1342	o__Lactobacillales	5_wt	7_wt	0.7104	1
+1343	o__Lactobacillales	5_wt	9_cre	1	1
+1344	o__Lactobacillales	5_wt	9_wt	1	1
+1345	o__Lactobacillales	7_cre	7_wt	0.4621	1
+1346	o__Lactobacillales	7_cre	9_cre	1	1
+1347	o__Lactobacillales	7_cre	9_wt	0.7152	1
+1348	o__Lactobacillales	7_wt	9_cre	0.4621	1
+1349	o__Lactobacillales	7_wt	9_wt	1	1
+1350	o__Lactobacillales	9_cre	9_wt	0.7152	1
+1351	o__unknown_ Alphaproteobacteria	10_cre	10_wt	0.3295	1
+1352	o__unknown_ Alphaproteobacteria	10_cre	12_cre	0.6513	1
+1353	o__unknown_ Alphaproteobacteria	10_cre	12_wt	0.0996	1
+1354	o__unknown_ Alphaproteobacteria	10_cre	5_cre	0.3295	1
+1355	o__unknown_ Alphaproteobacteria	10_cre	5_wt	0.3295	1
+1356	o__unknown_ Alphaproteobacteria	10_cre	7_cre	1	1
+1357	o__unknown_ Alphaproteobacteria	10_cre	7_wt	0.3295	1
+1358	o__unknown_ Alphaproteobacteria	10_cre	9_cre	1	1
+1359	o__unknown_ Alphaproteobacteria	10_cre	9_wt	1	1
+1360	o__unknown_ Alphaproteobacteria	10_wt	12_cre	1	1
+1361	o__unknown_ Alphaproteobacteria	10_wt	12_wt	1	1
+1362	o__unknown_ Alphaproteobacteria	10_wt	5_cre	1	1
+1363	o__unknown_ Alphaproteobacteria	10_wt	5_wt	1	1
+1364	o__unknown_ Alphaproteobacteria	10_wt	7_cre	0.5977	1
+1365	o__unknown_ Alphaproteobacteria	10_wt	7_wt	1	1
+1366	o__unknown_ Alphaproteobacteria	10_wt	9_cre	0.3295	1
+1367	o__unknown_ Alphaproteobacteria	10_wt	9_wt	0.5977	1
+1368	o__unknown_ Alphaproteobacteria	12_cre	12_wt	0.4828	1
+1369	o__unknown_ Alphaproteobacteria	12_cre	5_cre	1	1
+1370	o__unknown_ Alphaproteobacteria	12_cre	5_wt	1	1
+1371	o__unknown_ Alphaproteobacteria	12_cre	7_cre	1	1
+1372	o__unknown_ Alphaproteobacteria	12_cre	7_wt	1	1
+1373	o__unknown_ Alphaproteobacteria	12_cre	9_cre	0.6513	1
+1374	o__unknown_ Alphaproteobacteria	12_cre	9_wt	1	1
+1375	o__unknown_ Alphaproteobacteria	12_wt	5_cre	1	1
+1376	o__unknown_ Alphaproteobacteria	12_wt	5_wt	1	1
+1377	o__unknown_ Alphaproteobacteria	12_wt	7_cre	0.2241	1
+1378	o__unknown_ Alphaproteobacteria	12_wt	7_wt	1	1
+1379	o__unknown_ Alphaproteobacteria	12_wt	9_cre	0.0996	1
+1380	o__unknown_ Alphaproteobacteria	12_wt	9_wt	0.2241	1
+1381	o__unknown_ Alphaproteobacteria	5_cre	5_wt	1	1
+1382	o__unknown_ Alphaproteobacteria	5_cre	7_cre	0.5977	1
+1383	o__unknown_ Alphaproteobacteria	5_cre	7_wt	1	1
+1384	o__unknown_ Alphaproteobacteria	5_cre	9_cre	0.3295	1
+1385	o__unknown_ Alphaproteobacteria	5_cre	9_wt	0.5977	1
+1386	o__unknown_ Alphaproteobacteria	5_wt	7_cre	0.5977	1
+1387	o__unknown_ Alphaproteobacteria	5_wt	7_wt	1	1
+1388	o__unknown_ Alphaproteobacteria	5_wt	9_cre	0.3295	1
+1389	o__unknown_ Alphaproteobacteria	5_wt	9_wt	0.5977	1
+1390	o__unknown_ Alphaproteobacteria	7_cre	7_wt	0.5977	1
+1391	o__unknown_ Alphaproteobacteria	7_cre	9_cre	1	1
+1392	o__unknown_ Alphaproteobacteria	7_cre	9_wt	1	1
+1393	o__unknown_ Alphaproteobacteria	7_wt	9_cre	0.3295	1
+1394	o__unknown_ Alphaproteobacteria	7_wt	9_wt	0.5977	1
+1395	o__unknown_ Alphaproteobacteria	9_cre	9_wt	1	1
+1396	o__unknown_ Bacteria	10_cre	10_wt	0.6817	1
+1397	o__unknown_ Bacteria	10_cre	12_cre	1	1
+1398	o__unknown_ Bacteria	10_cre	12_wt	0.3898	1
+1399	o__unknown_ Bacteria	10_cre	5_cre	0.3898	1
+1400	o__unknown_ Bacteria	10_cre	5_wt	0.6817	1
+1401	o__unknown_ Bacteria	10_cre	7_cre	0.3898	1
+1402	o__unknown_ Bacteria	10_cre	7_wt	0.1686	1
+1403	o__unknown_ Bacteria	10_cre	9_cre	1	1
+1404	o__unknown_ Bacteria	10_cre	9_wt	0.6817	1
+1405	o__unknown_ Bacteria	10_wt	12_cre	1	1
+1406	o__unknown_ Bacteria	10_wt	12_wt	1	1
+1407	o__unknown_ Bacteria	10_wt	5_cre	1	1
+1408	o__unknown_ Bacteria	10_wt	5_wt	1	1
+1409	o__unknown_ Bacteria	10_wt	7_cre	1	1
+1410	o__unknown_ Bacteria	10_wt	7_wt	0.5977	1
+1411	o__unknown_ Bacteria	10_wt	9_cre	0.427	1
+1412	o__unknown_ Bacteria	10_wt	9_wt	1	1
+1413	o__unknown_ Bacteria	12_cre	12_wt	0.6513	1
+1414	o__unknown_ Bacteria	12_cre	5_cre	0.6513	1
+1415	o__unknown_ Bacteria	12_cre	5_wt	1	1
+1416	o__unknown_ Bacteria	12_cre	7_cre	0.6513	1
+1417	o__unknown_ Bacteria	12_cre	7_wt	0.3295	1
+1418	o__unknown_ Bacteria	12_cre	9_cre	0.6999	1
+1419	o__unknown_ Bacteria	12_cre	9_wt	1	1
+1420	o__unknown_ Bacteria	12_wt	5_cre	1	1
+1421	o__unknown_ Bacteria	12_wt	5_wt	1	1
+1422	o__unknown_ Bacteria	12_wt	7_cre	1	1
+1423	o__unknown_ Bacteria	12_wt	7_wt	1	1
+1424	o__unknown_ Bacteria	12_wt	9_cre	0.2148	1
+1425	o__unknown_ Bacteria	12_wt	9_wt	1	1
+1426	o__unknown_ Bacteria	5_cre	5_wt	1	1
+1427	o__unknown_ Bacteria	5_cre	7_cre	1	1
+1428	o__unknown_ Bacteria	5_cre	7_wt	1	1
+1429	o__unknown_ Bacteria	5_cre	9_cre	0.2148	1
+1430	o__unknown_ Bacteria	5_cre	9_wt	1	1
+1431	o__unknown_ Bacteria	5_wt	7_cre	1	1
+1432	o__unknown_ Bacteria	5_wt	7_wt	0.5977	1
+1433	o__unknown_ Bacteria	5_wt	9_cre	0.427	1
+1434	o__unknown_ Bacteria	5_wt	9_wt	1	1
+1435	o__unknown_ Bacteria	7_cre	7_wt	1	1
+1436	o__unknown_ Bacteria	7_cre	9_cre	0.2148	1
+1437	o__unknown_ Bacteria	7_cre	9_wt	1	1
+1438	o__unknown_ Bacteria	7_wt	9_cre	0.0801	1
+1439	o__unknown_ Bacteria	7_wt	9_wt	0.5977	1
+1440	o__unknown_ Bacteria	9_cre	9_wt	0.427	1
+1441	o__unknown_ Bacteroidetes	10_cre	10_wt	0.2451	1
+1442	o__unknown_ Bacteroidetes	10_cre	12_cre	0.7104	1
+1443	o__unknown_ Bacteroidetes	10_cre	12_wt	1	1
+1444	o__unknown_ Bacteroidetes	10_cre	5_cre	1	1
+1445	o__unknown_ Bacteroidetes	10_cre	5_wt	1	1
+1446	o__unknown_ Bacteroidetes	10_cre	7_cre	1	1
+1447	o__unknown_ Bacteroidetes	10_cre	7_wt	0.4497	1
+1448	o__unknown_ Bacteroidetes	10_cre	9_cre	1	1
+1449	o__unknown_ Bacteroidetes	10_cre	9_wt	1	1
+1450	o__unknown_ Bacteroidetes	10_wt	12_cre	0.6817	1
+1451	o__unknown_ Bacteroidetes	10_wt	12_wt	0.427	1
+1452	o__unknown_ Bacteroidetes	10_wt	5_cre	0.1281	1
+1453	o__unknown_ Bacteroidetes	10_wt	5_wt	0.2451	1
+1454	o__unknown_ Bacteroidetes	10_wt	7_cre	0.2451	1
+1455	o__unknown_ Bacteroidetes	10_wt	7_wt	1	1
+1456	o__unknown_ Bacteroidetes	10_wt	9_cre	0.2451	1
+1457	o__unknown_ Bacteroidetes	10_wt	9_wt	0.2451	1
+1458	o__unknown_ Bacteroidetes	12_cre	12_wt	1	1
+1459	o__unknown_ Bacteroidetes	12_cre	5_cre	0.4621	1
+1460	o__unknown_ Bacteroidetes	12_cre	5_wt	0.7104	1
+1461	o__unknown_ Bacteroidetes	12_cre	7_cre	0.7104	1
+1462	o__unknown_ Bacteroidetes	12_cre	7_wt	1	1
+1463	o__unknown_ Bacteroidetes	12_cre	9_cre	0.7104	1
+1464	o__unknown_ Bacteroidetes	12_cre	9_wt	0.7104	1
+1465	o__unknown_ Bacteroidetes	12_wt	5_cre	0.7152	1
+1466	o__unknown_ Bacteroidetes	12_wt	5_wt	1	1
+1467	o__unknown_ Bacteroidetes	12_wt	7_cre	1	1
+1468	o__unknown_ Bacteroidetes	12_wt	7_wt	0.6999	1
+1469	o__unknown_ Bacteroidetes	12_wt	9_cre	1	1
+1470	o__unknown_ Bacteroidetes	12_wt	9_wt	1	1
+1471	o__unknown_ Bacteroidetes	5_cre	5_wt	1	1
+1472	o__unknown_ Bacteroidetes	5_cre	7_cre	1	1
+1473	o__unknown_ Bacteroidetes	5_cre	7_wt	0.2635	1
+1474	o__unknown_ Bacteroidetes	5_cre	9_cre	1	1
+1475	o__unknown_ Bacteroidetes	5_cre	9_wt	1	1
+1476	o__unknown_ Bacteroidetes	5_wt	7_cre	1	1
+1477	o__unknown_ Bacteroidetes	5_wt	7_wt	0.4497	1
+1478	o__unknown_ Bacteroidetes	5_wt	9_cre	1	1
+1479	o__unknown_ Bacteroidetes	5_wt	9_wt	1	1
+1480	o__unknown_ Bacteroidetes	7_cre	7_wt	0.4497	1
+1481	o__unknown_ Bacteroidetes	7_cre	9_cre	1	1
+1482	o__unknown_ Bacteroidetes	7_cre	9_wt	1	1
+1483	o__unknown_ Bacteroidetes	7_wt	9_cre	0.4497	1
+1484	o__unknown_ Bacteroidetes	7_wt	9_wt	0.4497	1
+1485	o__unknown_ Bacteroidetes	9_cre	9_wt	1	1
+1486	o__unknown_ Deltaproteobacteria	10_cre	10_wt	0.3295	0.7414
+1487	o__unknown_ Deltaproteobacteria	10_cre	12_cre	1	1
+1488	o__unknown_ Deltaproteobacteria	10_cre	12_wt	0.3295	0.7414
+1489	o__unknown_ Deltaproteobacteria	10_cre	5_cre	0.3295	0.7414
+1490	o__unknown_ Deltaproteobacteria	10_cre	5_wt	0.6513	1
+1491	o__unknown_ Deltaproteobacteria	10_cre	7_cre	0.6999	1
+1492	o__unknown_ Deltaproteobacteria	10_cre	7_wt	0.6513	1
+1493	o__unknown_ Deltaproteobacteria	10_cre	9_cre	0.6999	1
+1494	o__unknown_ Deltaproteobacteria	10_cre	9_wt	0.0996	0.4482
+1495	o__unknown_ Deltaproteobacteria	10_wt	12_cre	0.3295	0.7414
+1496	o__unknown_ Deltaproteobacteria	10_wt	12_wt	1	1
+1497	o__unknown_ Deltaproteobacteria	10_wt	5_cre	1	1
+1498	o__unknown_ Deltaproteobacteria	10_wt	5_wt	1	1
+1499	o__unknown_ Deltaproteobacteria	10_wt	7_cre	0.0801	0.4482
+1500	o__unknown_ Deltaproteobacteria	10_wt	7_wt	1	1
+1501	o__unknown_ Deltaproteobacteria	10_wt	9_cre	0.0801	0.4482
+1502	o__unknown_ Deltaproteobacteria	10_wt	9_wt	1	1
+1503	o__unknown_ Deltaproteobacteria	12_cre	12_wt	0.3295	0.7414
+1504	o__unknown_ Deltaproteobacteria	12_cre	5_cre	0.3295	0.7414
+1505	o__unknown_ Deltaproteobacteria	12_cre	5_wt	0.6513	1
+1506	o__unknown_ Deltaproteobacteria	12_cre	7_cre	0.6999	1
+1507	o__unknown_ Deltaproteobacteria	12_cre	7_wt	0.6513	1
+1508	o__unknown_ Deltaproteobacteria	12_cre	9_cre	0.6999	1
+1509	o__unknown_ Deltaproteobacteria	12_cre	9_wt	0.0996	0.4482
+1510	o__unknown_ Deltaproteobacteria	12_wt	5_cre	1	1
+1511	o__unknown_ Deltaproteobacteria	12_wt	5_wt	1	1
+1512	o__unknown_ Deltaproteobacteria	12_wt	7_cre	0.0801	0.4482
+1513	o__unknown_ Deltaproteobacteria	12_wt	7_wt	1	1
+1514	o__unknown_ Deltaproteobacteria	12_wt	9_cre	0.0801	0.4482
+1515	o__unknown_ Deltaproteobacteria	12_wt	9_wt	1	1
+1516	o__unknown_ Deltaproteobacteria	5_cre	5_wt	1	1
+1517	o__unknown_ Deltaproteobacteria	5_cre	7_cre	0.0801	0.4482
+1518	o__unknown_ Deltaproteobacteria	5_cre	7_wt	1	1
+1519	o__unknown_ Deltaproteobacteria	5_cre	9_cre	0.0801	0.4482
+1520	o__unknown_ Deltaproteobacteria	5_cre	9_wt	1	1
+1521	o__unknown_ Deltaproteobacteria	5_wt	7_cre	0.2148	0.6904
+1522	o__unknown_ Deltaproteobacteria	5_wt	7_wt	1	1
+1523	o__unknown_ Deltaproteobacteria	5_wt	9_cre	0.2148	0.6904
+1524	o__unknown_ Deltaproteobacteria	5_wt	9_wt	0.4828	0.9875
+1525	o__unknown_ Deltaproteobacteria	7_cre	7_wt	0.2148	0.6904
+1526	o__unknown_ Deltaproteobacteria	7_cre	9_cre	1	1
+1527	o__unknown_ Deltaproteobacteria	7_cre	9_wt	0.0169	0.3802
+1528	o__unknown_ Deltaproteobacteria	7_wt	9_cre	0.2148	0.6904
+1529	o__unknown_ Deltaproteobacteria	7_wt	9_wt	0.4828	0.9875
+1530	o__unknown_ Deltaproteobacteria	9_cre	9_wt	0.0169	0.3802
+1531	o__unknown_ Firmicutes	10_cre	10_wt	0.3898	1
+1532	o__unknown_ Firmicutes	10_cre	12_cre	1	1
+1533	o__unknown_ Firmicutes	10_cre	12_wt	1	1
+1534	o__unknown_ Firmicutes	10_cre	5_cre	0.4621	1
+1535	o__unknown_ Firmicutes	10_cre	5_wt	1	1
+1536	o__unknown_ Firmicutes	10_cre	7_cre	1	1
+1537	o__unknown_ Firmicutes	10_cre	7_wt	1	1
+1538	o__unknown_ Firmicutes	10_cre	9_cre	1	1
+1539	o__unknown_ Firmicutes	10_cre	9_wt	1	1
+1540	o__unknown_ Firmicutes	10_wt	12_cre	0.6513	1
+1541	o__unknown_ Firmicutes	10_wt	12_wt	0.2148	1
+1542	o__unknown_ Firmicutes	10_wt	5_cre	0.0502	1
+1543	o__unknown_ Firmicutes	10_wt	5_wt	0.2148	1
+1544	o__unknown_ Firmicutes	10_wt	7_cre	0.6513	1
+1545	o__unknown_ Firmicutes	10_wt	7_wt	0.3898	1
+1546	o__unknown_ Firmicutes	10_wt	9_cre	0.2148	1
+1547	o__unknown_ Firmicutes	10_wt	9_wt	0.2148	1
+1548	o__unknown_ Firmicutes	12_cre	12_wt	0.6999	1
+1549	o__unknown_ Firmicutes	12_cre	5_cre	0.2635	1
+1550	o__unknown_ Firmicutes	12_cre	5_wt	0.6999	1
+1551	o__unknown_ Firmicutes	12_cre	7_cre	1	1
+1552	o__unknown_ Firmicutes	12_cre	7_wt	1	1
+1553	o__unknown_ Firmicutes	12_cre	9_cre	0.6999	1
+1554	o__unknown_ Firmicutes	12_cre	9_wt	0.6999	1
+1555	o__unknown_ Firmicutes	12_wt	5_cre	0.7152	1
+1556	o__unknown_ Firmicutes	12_wt	5_wt	1	1
+1557	o__unknown_ Firmicutes	12_wt	7_cre	0.6999	1
+1558	o__unknown_ Firmicutes	12_wt	7_wt	1	1
+1559	o__unknown_ Firmicutes	12_wt	9_cre	1	1
+1560	o__unknown_ Firmicutes	12_wt	9_wt	1	1
+1561	o__unknown_ Firmicutes	5_cre	5_wt	0.7152	1
+1562	o__unknown_ Firmicutes	5_cre	7_cre	0.2635	1
+1563	o__unknown_ Firmicutes	5_cre	7_wt	0.4621	1
+1564	o__unknown_ Firmicutes	5_cre	9_cre	0.7152	1
+1565	o__unknown_ Firmicutes	5_cre	9_wt	0.7152	1
+1566	o__unknown_ Firmicutes	5_wt	7_cre	0.6999	1
+1567	o__unknown_ Firmicutes	5_wt	7_wt	1	1
+1568	o__unknown_ Firmicutes	5_wt	9_cre	1	1
+1569	o__unknown_ Firmicutes	5_wt	9_wt	1	1
+1570	o__unknown_ Firmicutes	7_cre	7_wt	1	1
+1571	o__unknown_ Firmicutes	7_cre	9_cre	0.6999	1
+1572	o__unknown_ Firmicutes	7_cre	9_wt	0.6999	1
+1573	o__unknown_ Firmicutes	7_wt	9_cre	1	1
+1574	o__unknown_ Firmicutes	7_wt	9_wt	1	1
+1575	o__unknown_ Firmicutes	9_cre	9_wt	1	1
+1576	f__Anaeroplasmataceae	10_cre	10_wt	0.0996	1
+1577	f__Anaeroplasmataceae	10_cre	12_cre	0.3295	1
+1578	f__Anaeroplasmataceae	10_cre	12_wt	0.3295	1
+1579	f__Anaeroplasmataceae	10_cre	5_cre	0.6513	1
+1580	f__Anaeroplasmataceae	10_cre	5_wt	0.6513	1
+1581	f__Anaeroplasmataceae	10_cre	7_cre	0.3295	1
+1582	f__Anaeroplasmataceae	10_cre	7_wt	0.0996	1
+1583	f__Anaeroplasmataceae	10_cre	9_cre	1	1
+1584	f__Anaeroplasmataceae	10_cre	9_wt	0.3295	1
+1585	f__Anaeroplasmataceae	10_wt	12_cre	1	1
+1586	f__Anaeroplasmataceae	10_wt	12_wt	1	1
+1587	f__Anaeroplasmataceae	10_wt	5_cre	0.4828	1
+1588	f__Anaeroplasmataceae	10_wt	5_wt	0.4828	1
+1589	f__Anaeroplasmataceae	10_wt	7_cre	1	1
+1590	f__Anaeroplasmataceae	10_wt	7_wt	1	1
+1591	f__Anaeroplasmataceae	10_wt	9_cre	0.2241	1
+1592	f__Anaeroplasmataceae	10_wt	9_wt	1	1
+1593	f__Anaeroplasmataceae	12_cre	12_wt	1	1
+1594	f__Anaeroplasmataceae	12_cre	5_cre	1	1
+1595	f__Anaeroplasmataceae	12_cre	5_wt	1	1
+1596	f__Anaeroplasmataceae	12_cre	7_cre	1	1
+1597	f__Anaeroplasmataceae	12_cre	7_wt	1	1
+1598	f__Anaeroplasmataceae	12_cre	9_cre	0.5977	1
+1599	f__Anaeroplasmataceae	12_cre	9_wt	1	1
+1600	f__Anaeroplasmataceae	12_wt	5_cre	1	1
+1601	f__Anaeroplasmataceae	12_wt	5_wt	1	1
+1602	f__Anaeroplasmataceae	12_wt	7_cre	1	1
+1603	f__Anaeroplasmataceae	12_wt	7_wt	1	1
+1604	f__Anaeroplasmataceae	12_wt	9_cre	0.5977	1
+1605	f__Anaeroplasmataceae	12_wt	9_wt	1	1
+1606	f__Anaeroplasmataceae	5_cre	5_wt	1	1
+1607	f__Anaeroplasmataceae	5_cre	7_cre	1	1
+1608	f__Anaeroplasmataceae	5_cre	7_wt	0.4828	1
+1609	f__Anaeroplasmataceae	5_cre	9_cre	1	1
+1610	f__Anaeroplasmataceae	5_cre	9_wt	1	1
+1611	f__Anaeroplasmataceae	5_wt	7_cre	1	1
+1612	f__Anaeroplasmataceae	5_wt	7_wt	0.4828	1
+1613	f__Anaeroplasmataceae	5_wt	9_cre	1	1
+1614	f__Anaeroplasmataceae	5_wt	9_wt	1	1
+1615	f__Anaeroplasmataceae	7_cre	7_wt	1	1
+1616	f__Anaeroplasmataceae	7_cre	9_cre	0.5977	1
+1617	f__Anaeroplasmataceae	7_cre	9_wt	1	1
+1618	f__Anaeroplasmataceae	7_wt	9_cre	0.2241	1
+1619	f__Anaeroplasmataceae	7_wt	9_wt	1	1
+1620	f__Anaeroplasmataceae	9_cre	9_wt	0.5977	1
+1621	f__Bacteroidaceae	10_cre	10_wt	0.1281	1
+1622	f__Bacteroidaceae	10_cre	12_cre	0.4621	1
+1623	f__Bacteroidaceae	10_cre	12_wt	0.7152	1
+1624	f__Bacteroidaceae	10_cre	5_cre	1	1
+1625	f__Bacteroidaceae	10_cre	5_wt	1	1
+1626	f__Bacteroidaceae	10_cre	7_cre	1	1
+1627	f__Bacteroidaceae	10_cre	7_wt	0.4621	1
+1628	f__Bacteroidaceae	10_cre	9_cre	1	1
+1629	f__Bacteroidaceae	10_cre	9_wt	1	1
+1630	f__Bacteroidaceae	10_wt	12_cre	0.6817	1
+1631	f__Bacteroidaceae	10_wt	12_wt	0.427	1
+1632	f__Bacteroidaceae	10_wt	5_cre	0.1281	1
+1633	f__Bacteroidaceae	10_wt	5_wt	0.2451	1
+1634	f__Bacteroidaceae	10_wt	7_cre	0.1281	1
+1635	f__Bacteroidaceae	10_wt	7_wt	0.6817	1
+1636	f__Bacteroidaceae	10_wt	9_cre	0.1281	1
+1637	f__Bacteroidaceae	10_wt	9_wt	0.2451	1
+1638	f__Bacteroidaceae	12_cre	12_wt	1	1
+1639	f__Bacteroidaceae	12_cre	5_cre	0.4621	1
+1640	f__Bacteroidaceae	12_cre	5_wt	0.7104	1
+1641	f__Bacteroidaceae	12_cre	7_cre	0.4621	1
+1642	f__Bacteroidaceae	12_cre	7_wt	1	1
+1643	f__Bacteroidaceae	12_cre	9_cre	0.4621	1
+1644	f__Bacteroidaceae	12_cre	9_wt	0.7104	1
+1645	f__Bacteroidaceae	12_wt	5_cre	0.7152	1
+1646	f__Bacteroidaceae	12_wt	5_wt	1	1
+1647	f__Bacteroidaceae	12_wt	7_cre	0.7152	1
+1648	f__Bacteroidaceae	12_wt	7_wt	1	1
+1649	f__Bacteroidaceae	12_wt	9_cre	0.7152	1
+1650	f__Bacteroidaceae	12_wt	9_wt	1	1
+1651	f__Bacteroidaceae	5_cre	5_wt	1	1
+1652	f__Bacteroidaceae	5_cre	7_cre	1	1
+1653	f__Bacteroidaceae	5_cre	7_wt	0.4621	1
+1654	f__Bacteroidaceae	5_cre	9_cre	1	1
+1655	f__Bacteroidaceae	5_cre	9_wt	1	1
+1656	f__Bacteroidaceae	5_wt	7_cre	1	1
+1657	f__Bacteroidaceae	5_wt	7_wt	0.7104	1
+1658	f__Bacteroidaceae	5_wt	9_cre	1	1
+1659	f__Bacteroidaceae	5_wt	9_wt	1	1
+1660	f__Bacteroidaceae	7_cre	7_wt	0.4621	1
+1661	f__Bacteroidaceae	7_cre	9_cre	1	1
+1662	f__Bacteroidaceae	7_cre	9_wt	1	1
+1663	f__Bacteroidaceae	7_wt	9_cre	0.4621	1
+1664	f__Bacteroidaceae	7_wt	9_wt	0.7104	1
+1665	f__Bacteroidaceae	9_cre	9_wt	1	1
+1666	f__Deferribacteraceae	10_cre	10_wt	0.5977	1
+1667	f__Deferribacteraceae	10_cre	12_cre	1	1
+1668	f__Deferribacteraceae	10_cre	12_wt	1	1
+1669	f__Deferribacteraceae	10_cre	5_cre	1	1
+1670	f__Deferribacteraceae	10_cre	5_wt	1	1
+1671	f__Deferribacteraceae	10_cre	7_cre	1	1
+1672	f__Deferribacteraceae	10_cre	7_wt	0.5977	1
+1673	f__Deferribacteraceae	10_cre	9_cre	1	1
+1674	f__Deferribacteraceae	10_cre	9_wt	1	1
+1675	f__Deferribacteraceae	10_wt	12_cre	0.3295	1
+1676	f__Deferribacteraceae	10_wt	12_wt	0.3295	1
+1677	f__Deferribacteraceae	10_wt	5_cre	0.5977	1
+1678	f__Deferribacteraceae	10_wt	5_wt	1	1
+1679	f__Deferribacteraceae	10_wt	7_cre	0.5977	1
+1680	f__Deferribacteraceae	10_wt	7_wt	1	1
+1681	f__Deferribacteraceae	10_wt	9_cre	0.5977	1
+1682	f__Deferribacteraceae	10_wt	9_wt	1	1
+1683	f__Deferribacteraceae	12_cre	12_wt	1	1
+1684	f__Deferribacteraceae	12_cre	5_cre	1	1
+1685	f__Deferribacteraceae	12_cre	5_wt	0.6513	1
+1686	f__Deferribacteraceae	12_cre	7_cre	1	1
+1687	f__Deferribacteraceae	12_cre	7_wt	0.3295	1
+1688	f__Deferribacteraceae	12_cre	9_cre	1	1
+1689	f__Deferribacteraceae	12_cre	9_wt	0.6513	1
+1690	f__Deferribacteraceae	12_wt	5_cre	1	1
+1691	f__Deferribacteraceae	12_wt	5_wt	0.6513	1
+1692	f__Deferribacteraceae	12_wt	7_cre	1	1
+1693	f__Deferribacteraceae	12_wt	7_wt	0.3295	1
+1694	f__Deferribacteraceae	12_wt	9_cre	1	1
+1695	f__Deferribacteraceae	12_wt	9_wt	0.6513	1
+1696	f__Deferribacteraceae	5_cre	5_wt	1	1
+1697	f__Deferribacteraceae	5_cre	7_cre	1	1
+1698	f__Deferribacteraceae	5_cre	7_wt	0.5977	1
+1699	f__Deferribacteraceae	5_cre	9_cre	1	1
+1700	f__Deferribacteraceae	5_cre	9_wt	1	1
+1701	f__Deferribacteraceae	5_wt	7_cre	1	1
+1702	f__Deferribacteraceae	5_wt	7_wt	1	1
+1703	f__Deferribacteraceae	5_wt	9_cre	1	1
+1704	f__Deferribacteraceae	5_wt	9_wt	1	1
+1705	f__Deferribacteraceae	7_cre	7_wt	0.5977	1
+1706	f__Deferribacteraceae	7_cre	9_cre	1	1
+1707	f__Deferribacteraceae	7_cre	9_wt	1	1
+1708	f__Deferribacteraceae	7_wt	9_cre	0.5977	1
+1709	f__Deferribacteraceae	7_wt	9_wt	1	1
+1710	f__Deferribacteraceae	9_cre	9_wt	1	1
+1711	f__Desulfovibrionaceae	10_cre	10_wt	1	1
+1712	f__Desulfovibrionaceae	10_cre	12_cre	1	1
+1713	f__Desulfovibrionaceae	10_cre	12_wt	1	1
+1714	f__Desulfovibrionaceae	10_cre	5_cre	1	1
+1715	f__Desulfovibrionaceae	10_cre	5_wt	1	1
+1716	f__Desulfovibrionaceae	10_cre	7_cre	1	1
+1717	f__Desulfovibrionaceae	10_cre	7_wt	1	1
+1718	f__Desulfovibrionaceae	10_cre	9_cre	0.5977	1
+1719	f__Desulfovibrionaceae	10_cre	9_wt	1	1
+1720	f__Desulfovibrionaceae	10_wt	12_cre	1	1
+1721	f__Desulfovibrionaceae	10_wt	12_wt	1	1
+1722	f__Desulfovibrionaceae	10_wt	5_cre	1	1
+1723	f__Desulfovibrionaceae	10_wt	5_wt	1	1
+1724	f__Desulfovibrionaceae	10_wt	7_cre	1	1
+1725	f__Desulfovibrionaceae	10_wt	7_wt	1	1
+1726	f__Desulfovibrionaceae	10_wt	9_cre	0.5977	1
+1727	f__Desulfovibrionaceae	10_wt	9_wt	1	1
+1728	f__Desulfovibrionaceae	12_cre	12_wt	1	1
+1729	f__Desulfovibrionaceae	12_cre	5_cre	1	1
+1730	f__Desulfovibrionaceae	12_cre	5_wt	1	1
+1731	f__Desulfovibrionaceae	12_cre	7_cre	1	1
+1732	f__Desulfovibrionaceae	12_cre	7_wt	1	1
+1733	f__Desulfovibrionaceae	12_cre	9_cre	0.5977	1
+1734	f__Desulfovibrionaceae	12_cre	9_wt	1	1
+1735	f__Desulfovibrionaceae	12_wt	5_cre	0.6513	1
+1736	f__Desulfovibrionaceae	12_wt	5_wt	0.6513	1
+1737	f__Desulfovibrionaceae	12_wt	7_cre	1	1
+1738	f__Desulfovibrionaceae	12_wt	7_wt	0.6513	1
+1739	f__Desulfovibrionaceae	12_wt	9_cre	0.3295	1
+1740	f__Desulfovibrionaceae	12_wt	9_wt	1	1
+1741	f__Desulfovibrionaceae	5_cre	5_wt	1	1
+1742	f__Desulfovibrionaceae	5_cre	7_cre	1	1
+1743	f__Desulfovibrionaceae	5_cre	7_wt	1	1
+1744	f__Desulfovibrionaceae	5_cre	9_cre	1	1
+1745	f__Desulfovibrionaceae	5_cre	9_wt	0.6513	1
+1746	f__Desulfovibrionaceae	5_wt	7_cre	1	1
+1747	f__Desulfovibrionaceae	5_wt	7_wt	1	1
+1748	f__Desulfovibrionaceae	5_wt	9_cre	1	1
+1749	f__Desulfovibrionaceae	5_wt	9_wt	0.6513	1
+1750	f__Desulfovibrionaceae	7_cre	7_wt	1	1
+1751	f__Desulfovibrionaceae	7_cre	9_cre	0.5977	1
+1752	f__Desulfovibrionaceae	7_cre	9_wt	1	1
+1753	f__Desulfovibrionaceae	7_wt	9_cre	1	1
+1754	f__Desulfovibrionaceae	7_wt	9_wt	0.6513	1
+1755	f__Desulfovibrionaceae	9_cre	9_wt	0.3295	1
+1756	f__Erysipelotrichaceae	10_cre	10_wt	0.3295	0.9267
+1757	f__Erysipelotrichaceae	10_cre	12_cre	0.0996	0.3201
+1758	f__Erysipelotrichaceae	10_cre	12_wt	0.0996	0.3201
+1759	f__Erysipelotrichaceae	10_cre	5_cre	0.0996	0.3201
+1760	f__Erysipelotrichaceae	10_cre	5_wt	0.0996	0.3201
+1761	f__Erysipelotrichaceae	10_cre	7_cre	0.0996	0.3201
+1762	f__Erysipelotrichaceae	10_cre	7_wt	0.0996	0.3201
+1763	f__Erysipelotrichaceae	10_cre	9_cre	1	1
+1764	f__Erysipelotrichaceae	10_cre	9_wt	0.0996	0.3201
+1765	f__Erysipelotrichaceae	10_wt	12_cre	1	1
+1766	f__Erysipelotrichaceae	10_wt	12_wt	1	1
+1767	f__Erysipelotrichaceae	10_wt	5_cre	1	1
+1768	f__Erysipelotrichaceae	10_wt	5_wt	1	1
+1769	f__Erysipelotrichaceae	10_wt	7_cre	1	1
+1770	f__Erysipelotrichaceae	10_wt	7_wt	1	1
+1771	f__Erysipelotrichaceae	10_wt	9_cre	0.1686	0.5058
+1772	f__Erysipelotrichaceae	10_wt	9_wt	1	1
+1773	f__Erysipelotrichaceae	12_cre	12_wt	1	1
+1774	f__Erysipelotrichaceae	12_cre	5_cre	1	1
+1775	f__Erysipelotrichaceae	12_cre	5_wt	1	1
+1776	f__Erysipelotrichaceae	12_cre	7_cre	1	1
+1777	f__Erysipelotrichaceae	12_cre	7_wt	1	1
+1778	f__Erysipelotrichaceae	12_cre	9_cre	0.0421	0.2706
+1779	f__Erysipelotrichaceae	12_cre	9_wt	1	1
+1780	f__Erysipelotrichaceae	12_wt	5_cre	1	1
+1781	f__Erysipelotrichaceae	12_wt	5_wt	1	1
+1782	f__Erysipelotrichaceae	12_wt	7_cre	1	1
+1783	f__Erysipelotrichaceae	12_wt	7_wt	1	1
+1784	f__Erysipelotrichaceae	12_wt	9_cre	0.0421	0.2706
+1785	f__Erysipelotrichaceae	12_wt	9_wt	1	1
+1786	f__Erysipelotrichaceae	5_cre	5_wt	1	1
+1787	f__Erysipelotrichaceae	5_cre	7_cre	1	1
+1788	f__Erysipelotrichaceae	5_cre	7_wt	1	1
+1789	f__Erysipelotrichaceae	5_cre	9_cre	0.0421	0.2706
+1790	f__Erysipelotrichaceae	5_cre	9_wt	1	1
+1791	f__Erysipelotrichaceae	5_wt	7_cre	1	1
+1792	f__Erysipelotrichaceae	5_wt	7_wt	1	1
+1793	f__Erysipelotrichaceae	5_wt	9_cre	0.0421	0.2706
+1794	f__Erysipelotrichaceae	5_wt	9_wt	1	1
+1795	f__Erysipelotrichaceae	7_cre	7_wt	1	1
+1796	f__Erysipelotrichaceae	7_cre	9_cre	0.0421	0.2706
+1797	f__Erysipelotrichaceae	7_cre	9_wt	1	1
+1798	f__Erysipelotrichaceae	7_wt	9_cre	0.0421	0.2706
+1799	f__Erysipelotrichaceae	7_wt	9_wt	1	1
+1800	f__Erysipelotrichaceae	9_cre	9_wt	0.0421	0.2706
+1801	f__Lachnospiraceae	10_cre	10_wt	0.1281	1
+1802	f__Lachnospiraceae	10_cre	12_cre	0.4621	1
+1803	f__Lachnospiraceae	10_cre	12_wt	0.7152	1
+1804	f__Lachnospiraceae	10_cre	5_cre	1	1
+1805	f__Lachnospiraceae	10_cre	5_wt	1	1
+1806	f__Lachnospiraceae	10_cre	7_cre	1	1
+1807	f__Lachnospiraceae	10_cre	7_wt	0.4621	1
+1808	f__Lachnospiraceae	10_cre	9_cre	1	1
+1809	f__Lachnospiraceae	10_cre	9_wt	1	1
+1810	f__Lachnospiraceae	10_wt	12_cre	0.6817	1
+1811	f__Lachnospiraceae	10_wt	12_wt	0.427	1
+1812	f__Lachnospiraceae	10_wt	5_cre	0.1281	1
+1813	f__Lachnospiraceae	10_wt	5_wt	0.2451	1
+1814	f__Lachnospiraceae	10_wt	7_cre	0.1281	1
+1815	f__Lachnospiraceae	10_wt	7_wt	0.6817	1
+1816	f__Lachnospiraceae	10_wt	9_cre	0.1281	1
+1817	f__Lachnospiraceae	10_wt	9_wt	0.2451	1
+1818	f__Lachnospiraceae	12_cre	12_wt	1	1
+1819	f__Lachnospiraceae	12_cre	5_cre	0.4621	1
+1820	f__Lachnospiraceae	12_cre	5_wt	0.7104	1
+1821	f__Lachnospiraceae	12_cre	7_cre	0.4621	1
+1822	f__Lachnospiraceae	12_cre	7_wt	1	1
+1823	f__Lachnospiraceae	12_cre	9_cre	0.4621	1
+1824	f__Lachnospiraceae	12_cre	9_wt	0.7104	1
+1825	f__Lachnospiraceae	12_wt	5_cre	0.7152	1
+1826	f__Lachnospiraceae	12_wt	5_wt	1	1
+1827	f__Lachnospiraceae	12_wt	7_cre	0.7152	1
+1828	f__Lachnospiraceae	12_wt	7_wt	1	1
+1829	f__Lachnospiraceae	12_wt	9_cre	0.7152	1
+1830	f__Lachnospiraceae	12_wt	9_wt	1	1
+1831	f__Lachnospiraceae	5_cre	5_wt	1	1
+1832	f__Lachnospiraceae	5_cre	7_cre	1	1
+1833	f__Lachnospiraceae	5_cre	7_wt	0.4621	1
+1834	f__Lachnospiraceae	5_cre	9_cre	1	1
+1835	f__Lachnospiraceae	5_cre	9_wt	1	1
+1836	f__Lachnospiraceae	5_wt	7_cre	1	1
+1837	f__Lachnospiraceae	5_wt	7_wt	0.7104	1
+1838	f__Lachnospiraceae	5_wt	9_cre	1	1
+1839	f__Lachnospiraceae	5_wt	9_wt	1	1
+1840	f__Lachnospiraceae	7_cre	7_wt	0.4621	1
+1841	f__Lachnospiraceae	7_cre	9_cre	1	1
+1842	f__Lachnospiraceae	7_cre	9_wt	1	1
+1843	f__Lachnospiraceae	7_wt	9_cre	0.4621	1
+1844	f__Lachnospiraceae	7_wt	9_wt	0.7104	1
+1845	f__Lachnospiraceae	9_cre	9_wt	1	1
+1846	f__Lactobacillaceae	10_cre	10_wt	0.1281	1
+1847	f__Lactobacillaceae	10_cre	12_cre	0.4621	1
+1848	f__Lactobacillaceae	10_cre	12_wt	0.2635	1
+1849	f__Lactobacillaceae	10_cre	5_cre	1	1
+1850	f__Lactobacillaceae	10_cre	5_wt	1	1
+1851	f__Lactobacillaceae	10_cre	7_cre	1	1
+1852	f__Lactobacillaceae	10_cre	7_wt	0.4621	1
+1853	f__Lactobacillaceae	10_cre	9_cre	1	1
+1854	f__Lactobacillaceae	10_cre	9_wt	0.7152	1
+1855	f__Lactobacillaceae	10_wt	12_cre	0.6817	1
+1856	f__Lactobacillaceae	10_wt	12_wt	1	1
+1857	f__Lactobacillaceae	10_wt	5_cre	0.1281	1
+1858	f__Lactobacillaceae	10_wt	5_wt	0.2451	1
+1859	f__Lactobacillaceae	10_wt	7_cre	0.1281	1
+1860	f__Lactobacillaceae	10_wt	7_wt	0.6817	1
+1861	f__Lactobacillaceae	10_wt	9_cre	0.1281	1
+1862	f__Lactobacillaceae	10_wt	9_wt	0.427	1
+1863	f__Lactobacillaceae	12_cre	12_wt	1	1
+1864	f__Lactobacillaceae	12_cre	5_cre	0.4621	1
+1865	f__Lactobacillaceae	12_cre	5_wt	0.7104	1
+1866	f__Lactobacillaceae	12_cre	7_cre	0.4621	1
+1867	f__Lactobacillaceae	12_cre	7_wt	1	1
+1868	f__Lactobacillaceae	12_cre	9_cre	0.4621	1
+1869	f__Lactobacillaceae	12_cre	9_wt	1	1
+1870	f__Lactobacillaceae	12_wt	5_cre	0.2635	1
+1871	f__Lactobacillaceae	12_wt	5_wt	0.4497	1
+1872	f__Lactobacillaceae	12_wt	7_cre	0.2635	1
+1873	f__Lactobacillaceae	12_wt	7_wt	1	1
+1874	f__Lactobacillaceae	12_wt	9_cre	0.2635	1
+1875	f__Lactobacillaceae	12_wt	9_wt	0.6999	1
+1876	f__Lactobacillaceae	5_cre	5_wt	1	1
+1877	f__Lactobacillaceae	5_cre	7_cre	1	1
+1878	f__Lactobacillaceae	5_cre	7_wt	0.4621	1
+1879	f__Lactobacillaceae	5_cre	9_cre	1	1
+1880	f__Lactobacillaceae	5_cre	9_wt	0.7152	1
+1881	f__Lactobacillaceae	5_wt	7_cre	1	1
+1882	f__Lactobacillaceae	5_wt	7_wt	0.7104	1
+1883	f__Lactobacillaceae	5_wt	9_cre	1	1
+1884	f__Lactobacillaceae	5_wt	9_wt	1	1
+1885	f__Lactobacillaceae	7_cre	7_wt	0.4621	1
+1886	f__Lactobacillaceae	7_cre	9_cre	1	1
+1887	f__Lactobacillaceae	7_cre	9_wt	0.7152	1
+1888	f__Lactobacillaceae	7_wt	9_cre	0.4621	1
+1889	f__Lactobacillaceae	7_wt	9_wt	1	1
+1890	f__Lactobacillaceae	9_cre	9_wt	0.7152	1
+1891	f__Porphyromonadaceae	10_cre	10_wt	0.1281	1
+1892	f__Porphyromonadaceae	10_cre	12_cre	0.4621	1
+1893	f__Porphyromonadaceae	10_cre	12_wt	0.7152	1
+1894	f__Porphyromonadaceae	10_cre	5_cre	1	1
+1895	f__Porphyromonadaceae	10_cre	5_wt	1	1
+1896	f__Porphyromonadaceae	10_cre	7_cre	1	1
+1897	f__Porphyromonadaceae	10_cre	7_wt	0.4621	1
+1898	f__Porphyromonadaceae	10_cre	9_cre	1	1
+1899	f__Porphyromonadaceae	10_cre	9_wt	1	1
+1900	f__Porphyromonadaceae	10_wt	12_cre	0.6817	1
+1901	f__Porphyromonadaceae	10_wt	12_wt	0.427	1
+1902	f__Porphyromonadaceae	10_wt	5_cre	0.1281	1
+1903	f__Porphyromonadaceae	10_wt	5_wt	0.2451	1
+1904	f__Porphyromonadaceae	10_wt	7_cre	0.1281	1
+1905	f__Porphyromonadaceae	10_wt	7_wt	0.6817	1
+1906	f__Porphyromonadaceae	10_wt	9_cre	0.1281	1
+1907	f__Porphyromonadaceae	10_wt	9_wt	0.2451	1
+1908	f__Porphyromonadaceae	12_cre	12_wt	1	1
+1909	f__Porphyromonadaceae	12_cre	5_cre	0.4621	1
+1910	f__Porphyromonadaceae	12_cre	5_wt	0.7104	1
+1911	f__Porphyromonadaceae	12_cre	7_cre	0.4621	1
+1912	f__Porphyromonadaceae	12_cre	7_wt	1	1
+1913	f__Porphyromonadaceae	12_cre	9_cre	0.4621	1
+1914	f__Porphyromonadaceae	12_cre	9_wt	0.7104	1
+1915	f__Porphyromonadaceae	12_wt	5_cre	0.7152	1
+1916	f__Porphyromonadaceae	12_wt	5_wt	1	1
+1917	f__Porphyromonadaceae	12_wt	7_cre	0.7152	1
+1918	f__Porphyromonadaceae	12_wt	7_wt	1	1
+1919	f__Porphyromonadaceae	12_wt	9_cre	0.7152	1
+1920	f__Porphyromonadaceae	12_wt	9_wt	1	1
+1921	f__Porphyromonadaceae	5_cre	5_wt	1	1
+1922	f__Porphyromonadaceae	5_cre	7_cre	1	1
+1923	f__Porphyromonadaceae	5_cre	7_wt	0.4621	1
+1924	f__Porphyromonadaceae	5_cre	9_cre	1	1
+1925	f__Porphyromonadaceae	5_cre	9_wt	1	1
+1926	f__Porphyromonadaceae	5_wt	7_cre	1	1
+1927	f__Porphyromonadaceae	5_wt	7_wt	0.7104	1
+1928	f__Porphyromonadaceae	5_wt	9_cre	1	1
+1929	f__Porphyromonadaceae	5_wt	9_wt	1	1
+1930	f__Porphyromonadaceae	7_cre	7_wt	0.4621	1
+1931	f__Porphyromonadaceae	7_cre	9_cre	1	1
+1932	f__Porphyromonadaceae	7_cre	9_wt	1	1
+1933	f__Porphyromonadaceae	7_wt	9_cre	0.4621	1
+1934	f__Porphyromonadaceae	7_wt	9_wt	0.7104	1
+1935	f__Porphyromonadaceae	9_cre	9_wt	1	1
+1936	f__Prevotellaceae	10_cre	10_wt	0.3295	1
+1937	f__Prevotellaceae	10_cre	12_cre	1	1
+1938	f__Prevotellaceae	10_cre	12_wt	0.6999	1
+1939	f__Prevotellaceae	10_cre	5_cre	0.4497	1
+1940	f__Prevotellaceae	10_cre	5_wt	0.6999	1
+1941	f__Prevotellaceae	10_cre	7_cre	0.4497	1
+1942	f__Prevotellaceae	10_cre	7_wt	1	1
+1943	f__Prevotellaceae	10_cre	9_cre	0.6999	1
+1944	f__Prevotellaceae	10_cre	9_wt	1	1
+1945	f__Prevotellaceae	10_wt	12_cre	0.5977	1
+1946	f__Prevotellaceae	10_wt	12_wt	0.0801	0.7209
+1947	f__Prevotellaceae	10_wt	5_cre	0.0352	0.7209
+1948	f__Prevotellaceae	10_wt	5_wt	0.0801	0.7209
+1949	f__Prevotellaceae	10_wt	7_cre	0.0352	0.7209
+1950	f__Prevotellaceae	10_wt	7_wt	0.3295	1
+1951	f__Prevotellaceae	10_wt	9_cre	0.0801	0.7209
+1952	f__Prevotellaceae	10_wt	9_wt	0.1686	1
+1953	f__Prevotellaceae	12_cre	12_wt	0.427	1
+1954	f__Prevotellaceae	12_cre	5_cre	0.2451	1
+1955	f__Prevotellaceae	12_cre	5_wt	0.427	1
+1956	f__Prevotellaceae	12_cre	7_cre	0.2451	1
+1957	f__Prevotellaceae	12_cre	7_wt	1	1
+1958	f__Prevotellaceae	12_cre	9_cre	0.427	1
+1959	f__Prevotellaceae	12_cre	9_wt	0.6817	1
+1960	f__Prevotellaceae	12_wt	5_cre	1	1
+1961	f__Prevotellaceae	12_wt	5_wt	1	1
+1962	f__Prevotellaceae	12_wt	7_cre	1	1
+1963	f__Prevotellaceae	12_wt	7_wt	0.6999	1
+1964	f__Prevotellaceae	12_wt	9_cre	1	1
+1965	f__Prevotellaceae	12_wt	9_wt	1	1
+1966	f__Prevotellaceae	5_cre	5_wt	1	1
+1967	f__Prevotellaceae	5_cre	7_cre	1	1
+1968	f__Prevotellaceae	5_cre	7_wt	0.4497	1
+1969	f__Prevotellaceae	5_cre	9_cre	1	1
+1970	f__Prevotellaceae	5_cre	9_wt	0.7104	1
+1971	f__Prevotellaceae	5_wt	7_cre	1	1
+1972	f__Prevotellaceae	5_wt	7_wt	0.6999	1
+1973	f__Prevotellaceae	5_wt	9_cre	1	1
+1974	f__Prevotellaceae	5_wt	9_wt	1	1
+1975	f__Prevotellaceae	7_cre	7_wt	0.4497	1
+1976	f__Prevotellaceae	7_cre	9_cre	1	1
+1977	f__Prevotellaceae	7_cre	9_wt	0.7104	1
+1978	f__Prevotellaceae	7_wt	9_cre	0.6999	1
+1979	f__Prevotellaceae	7_wt	9_wt	1	1
+1980	f__Prevotellaceae	9_cre	9_wt	1	1
+1981	f__Rikenellaceae	10_cre	10_wt	0.1281	1
+1982	f__Rikenellaceae	10_cre	12_cre	0.4621	1
+1983	f__Rikenellaceae	10_cre	12_wt	0.7152	1
+1984	f__Rikenellaceae	10_cre	5_cre	1	1
+1985	f__Rikenellaceae	10_cre	5_wt	1	1
+1986	f__Rikenellaceae	10_cre	7_cre	1	1
+1987	f__Rikenellaceae	10_cre	7_wt	0.4621	1
+1988	f__Rikenellaceae	10_cre	9_cre	1	1
+1989	f__Rikenellaceae	10_cre	9_wt	1	1
+1990	f__Rikenellaceae	10_wt	12_cre	0.6817	1
+1991	f__Rikenellaceae	10_wt	12_wt	0.427	1
+1992	f__Rikenellaceae	10_wt	5_cre	0.1281	1
+1993	f__Rikenellaceae	10_wt	5_wt	0.2451	1
+1994	f__Rikenellaceae	10_wt	7_cre	0.1281	1
+1995	f__Rikenellaceae	10_wt	7_wt	0.6817	1
+1996	f__Rikenellaceae	10_wt	9_cre	0.1281	1
+1997	f__Rikenellaceae	10_wt	9_wt	0.2451	1
+1998	f__Rikenellaceae	12_cre	12_wt	1	1
+1999	f__Rikenellaceae	12_cre	5_cre	0.4621	1
+2000	f__Rikenellaceae	12_cre	5_wt	0.7104	1
+2001	f__Rikenellaceae	12_cre	7_cre	0.4621	1
+2002	f__Rikenellaceae	12_cre	7_wt	1	1
+2003	f__Rikenellaceae	12_cre	9_cre	0.4621	1
+2004	f__Rikenellaceae	12_cre	9_wt	0.7104	1
+2005	f__Rikenellaceae	12_wt	5_cre	0.7152	1
+2006	f__Rikenellaceae	12_wt	5_wt	1	1
+2007	f__Rikenellaceae	12_wt	7_cre	0.7152	1
+2008	f__Rikenellaceae	12_wt	7_wt	1	1
+2009	f__Rikenellaceae	12_wt	9_cre	0.7152	1
+2010	f__Rikenellaceae	12_wt	9_wt	1	1
+2011	f__Rikenellaceae	5_cre	5_wt	1	1
+2012	f__Rikenellaceae	5_cre	7_cre	1	1
+2013	f__Rikenellaceae	5_cre	7_wt	0.4621	1
+2014	f__Rikenellaceae	5_cre	9_cre	1	1
+2015	f__Rikenellaceae	5_cre	9_wt	1	1
+2016	f__Rikenellaceae	5_wt	7_cre	1	1
+2017	f__Rikenellaceae	5_wt	7_wt	0.7104	1
+2018	f__Rikenellaceae	5_wt	9_cre	1	1
+2019	f__Rikenellaceae	5_wt	9_wt	1	1
+2020	f__Rikenellaceae	7_cre	7_wt	0.4621	1
+2021	f__Rikenellaceae	7_cre	9_cre	1	1
+2022	f__Rikenellaceae	7_cre	9_wt	1	1
+2023	f__Rikenellaceae	7_wt	9_cre	0.4621	1
+2024	f__Rikenellaceae	7_wt	9_wt	0.7104	1
+2025	f__Rikenellaceae	9_cre	9_wt	1	1
+2026	f__Ruminococcaceae	10_cre	10_wt	0.1281	1
+2027	f__Ruminococcaceae	10_cre	12_cre	0.4621	1
+2028	f__Ruminococcaceae	10_cre	12_wt	0.7152	1
+2029	f__Ruminococcaceae	10_cre	5_cre	1	1
+2030	f__Ruminococcaceae	10_cre	5_wt	1	1
+2031	f__Ruminococcaceae	10_cre	7_cre	1	1
+2032	f__Ruminococcaceae	10_cre	7_wt	0.4621	1
+2033	f__Ruminococcaceae	10_cre	9_cre	1	1
+2034	f__Ruminococcaceae	10_cre	9_wt	1	1
+2035	f__Ruminococcaceae	10_wt	12_cre	0.6817	1
+2036	f__Ruminococcaceae	10_wt	12_wt	0.427	1
+2037	f__Ruminococcaceae	10_wt	5_cre	0.1281	1
+2038	f__Ruminococcaceae	10_wt	5_wt	0.2451	1
+2039	f__Ruminococcaceae	10_wt	7_cre	0.1281	1
+2040	f__Ruminococcaceae	10_wt	7_wt	0.6817	1
+2041	f__Ruminococcaceae	10_wt	9_cre	0.1281	1
+2042	f__Ruminococcaceae	10_wt	9_wt	0.2451	1
+2043	f__Ruminococcaceae	12_cre	12_wt	1	1
+2044	f__Ruminococcaceae	12_cre	5_cre	0.4621	1
+2045	f__Ruminococcaceae	12_cre	5_wt	0.7104	1
+2046	f__Ruminococcaceae	12_cre	7_cre	0.4621	1
+2047	f__Ruminococcaceae	12_cre	7_wt	1	1
+2048	f__Ruminococcaceae	12_cre	9_cre	0.4621	1
+2049	f__Ruminococcaceae	12_cre	9_wt	0.7104	1
+2050	f__Ruminococcaceae	12_wt	5_cre	0.7152	1
+2051	f__Ruminococcaceae	12_wt	5_wt	1	1
+2052	f__Ruminococcaceae	12_wt	7_cre	0.7152	1
+2053	f__Ruminococcaceae	12_wt	7_wt	1	1
+2054	f__Ruminococcaceae	12_wt	9_cre	0.7152	1
+2055	f__Ruminococcaceae	12_wt	9_wt	1	1
+2056	f__Ruminococcaceae	5_cre	5_wt	1	1
+2057	f__Ruminococcaceae	5_cre	7_cre	1	1
+2058	f__Ruminococcaceae	5_cre	7_wt	0.4621	1
+2059	f__Ruminococcaceae	5_cre	9_cre	1	1
+2060	f__Ruminococcaceae	5_cre	9_wt	1	1
+2061	f__Ruminococcaceae	5_wt	7_cre	1	1
+2062	f__Ruminococcaceae	5_wt	7_wt	0.7104	1
+2063	f__Ruminococcaceae	5_wt	9_cre	1	1
+2064	f__Ruminococcaceae	5_wt	9_wt	1	1
+2065	f__Ruminococcaceae	7_cre	7_wt	0.4621	1
+2066	f__Ruminococcaceae	7_cre	9_cre	1	1
+2067	f__Ruminococcaceae	7_cre	9_wt	1	1
+2068	f__Ruminococcaceae	7_wt	9_cre	0.4621	1
+2069	f__Ruminococcaceae	7_wt	9_wt	0.7104	1
+2070	f__Ruminococcaceae	9_cre	9_wt	1	1
+2071	f__Sutterellaceae	10_cre	10_wt	0.2451	1
+2072	f__Sutterellaceae	10_cre	12_cre	0.4497	1
+2073	f__Sutterellaceae	10_cre	12_wt	1	1
+2074	f__Sutterellaceae	10_cre	5_cre	1	1
+2075	f__Sutterellaceae	10_cre	5_wt	1	1
+2076	f__Sutterellaceae	10_cre	7_cre	1	1
+2077	f__Sutterellaceae	10_cre	7_wt	0.7104	1
+2078	f__Sutterellaceae	10_cre	9_cre	1	1
+2079	f__Sutterellaceae	10_cre	9_wt	1	1
+2080	f__Sutterellaceae	10_wt	12_cre	1	1
+2081	f__Sutterellaceae	10_wt	12_wt	0.427	1
+2082	f__Sutterellaceae	10_wt	5_cre	0.427	1
+2083	f__Sutterellaceae	10_wt	5_wt	0.2451	1
+2084	f__Sutterellaceae	10_wt	7_cre	0.1281	1
+2085	f__Sutterellaceae	10_wt	7_wt	0.6817	1
+2086	f__Sutterellaceae	10_wt	9_cre	0.1281	1
+2087	f__Sutterellaceae	10_wt	9_wt	0.2451	1
+2088	f__Sutterellaceae	12_cre	12_wt	0.6999	1
+2089	f__Sutterellaceae	12_cre	5_cre	0.6999	1
+2090	f__Sutterellaceae	12_cre	5_wt	0.4497	1
+2091	f__Sutterellaceae	12_cre	7_cre	0.2635	1
+2092	f__Sutterellaceae	12_cre	7_wt	1	1
+2093	f__Sutterellaceae	12_cre	9_cre	0.2635	1
+2094	f__Sutterellaceae	12_cre	9_wt	0.4497	1
+2095	f__Sutterellaceae	12_wt	5_cre	1	1
+2096	f__Sutterellaceae	12_wt	5_wt	1	1
+2097	f__Sutterellaceae	12_wt	7_cre	0.7152	1
+2098	f__Sutterellaceae	12_wt	7_wt	1	1
+2099	f__Sutterellaceae	12_wt	9_cre	0.7152	1
+2100	f__Sutterellaceae	12_wt	9_wt	1	1
+2101	f__Sutterellaceae	5_cre	5_wt	1	1
+2102	f__Sutterellaceae	5_cre	7_cre	0.7152	1
+2103	f__Sutterellaceae	5_cre	7_wt	1	1
+2104	f__Sutterellaceae	5_cre	9_cre	0.7152	1
+2105	f__Sutterellaceae	5_cre	9_wt	1	1
+2106	f__Sutterellaceae	5_wt	7_cre	1	1
+2107	f__Sutterellaceae	5_wt	7_wt	0.7104	1
+2108	f__Sutterellaceae	5_wt	9_cre	1	1
+2109	f__Sutterellaceae	5_wt	9_wt	1	1
+2110	f__Sutterellaceae	7_cre	7_wt	0.4621	1
+2111	f__Sutterellaceae	7_cre	9_cre	1	1
+2112	f__Sutterellaceae	7_cre	9_wt	1	1
+2113	f__Sutterellaceae	7_wt	9_cre	0.4621	1
+2114	f__Sutterellaceae	7_wt	9_wt	0.7104	1
+2115	f__Sutterellaceae	9_cre	9_wt	1	1
+2116	f__unknown_ Alphaproteobacteria	10_cre	10_wt	0.3295	1
+2117	f__unknown_ Alphaproteobacteria	10_cre	12_cre	0.6513	1
+2118	f__unknown_ Alphaproteobacteria	10_cre	12_wt	0.0996	1
+2119	f__unknown_ Alphaproteobacteria	10_cre	5_cre	0.3295	1
+2120	f__unknown_ Alphaproteobacteria	10_cre	5_wt	0.3295	1
+2121	f__unknown_ Alphaproteobacteria	10_cre	7_cre	1	1
+2122	f__unknown_ Alphaproteobacteria	10_cre	7_wt	0.3295	1
+2123	f__unknown_ Alphaproteobacteria	10_cre	9_cre	1	1
+2124	f__unknown_ Alphaproteobacteria	10_cre	9_wt	1	1
+2125	f__unknown_ Alphaproteobacteria	10_wt	12_cre	1	1
+2126	f__unknown_ Alphaproteobacteria	10_wt	12_wt	1	1
+2127	f__unknown_ Alphaproteobacteria	10_wt	5_cre	1	1
+2128	f__unknown_ Alphaproteobacteria	10_wt	5_wt	1	1
+2129	f__unknown_ Alphaproteobacteria	10_wt	7_cre	0.5977	1
+2130	f__unknown_ Alphaproteobacteria	10_wt	7_wt	1	1
+2131	f__unknown_ Alphaproteobacteria	10_wt	9_cre	0.3295	1
+2132	f__unknown_ Alphaproteobacteria	10_wt	9_wt	0.5977	1
+2133	f__unknown_ Alphaproteobacteria	12_cre	12_wt	0.4828	1
+2134	f__unknown_ Alphaproteobacteria	12_cre	5_cre	1	1
+2135	f__unknown_ Alphaproteobacteria	12_cre	5_wt	1	1
+2136	f__unknown_ Alphaproteobacteria	12_cre	7_cre	1	1
+2137	f__unknown_ Alphaproteobacteria	12_cre	7_wt	1	1
+2138	f__unknown_ Alphaproteobacteria	12_cre	9_cre	0.6513	1
+2139	f__unknown_ Alphaproteobacteria	12_cre	9_wt	1	1
+2140	f__unknown_ Alphaproteobacteria	12_wt	5_cre	1	1
+2141	f__unknown_ Alphaproteobacteria	12_wt	5_wt	1	1
+2142	f__unknown_ Alphaproteobacteria	12_wt	7_cre	0.2241	1
+2143	f__unknown_ Alphaproteobacteria	12_wt	7_wt	1	1
+2144	f__unknown_ Alphaproteobacteria	12_wt	9_cre	0.0996	1
+2145	f__unknown_ Alphaproteobacteria	12_wt	9_wt	0.2241	1
+2146	f__unknown_ Alphaproteobacteria	5_cre	5_wt	1	1
+2147	f__unknown_ Alphaproteobacteria	5_cre	7_cre	0.5977	1
+2148	f__unknown_ Alphaproteobacteria	5_cre	7_wt	1	1
+2149	f__unknown_ Alphaproteobacteria	5_cre	9_cre	0.3295	1
+2150	f__unknown_ Alphaproteobacteria	5_cre	9_wt	0.5977	1
+2151	f__unknown_ Alphaproteobacteria	5_wt	7_cre	0.5977	1
+2152	f__unknown_ Alphaproteobacteria	5_wt	7_wt	1	1
+2153	f__unknown_ Alphaproteobacteria	5_wt	9_cre	0.3295	1
+2154	f__unknown_ Alphaproteobacteria	5_wt	9_wt	0.5977	1
+2155	f__unknown_ Alphaproteobacteria	7_cre	7_wt	0.5977	1
+2156	f__unknown_ Alphaproteobacteria	7_cre	9_cre	1	1
+2157	f__unknown_ Alphaproteobacteria	7_cre	9_wt	1	1
+2158	f__unknown_ Alphaproteobacteria	7_wt	9_cre	0.3295	1
+2159	f__unknown_ Alphaproteobacteria	7_wt	9_wt	0.5977	1
+2160	f__unknown_ Alphaproteobacteria	9_cre	9_wt	1	1
+2161	f__unknown_ Bacteria	10_cre	10_wt	0.6817	1
+2162	f__unknown_ Bacteria	10_cre	12_cre	1	1
+2163	f__unknown_ Bacteria	10_cre	12_wt	0.3898	1
+2164	f__unknown_ Bacteria	10_cre	5_cre	0.3898	1
+2165	f__unknown_ Bacteria	10_cre	5_wt	0.6817	1
+2166	f__unknown_ Bacteria	10_cre	7_cre	0.3898	1
+2167	f__unknown_ Bacteria	10_cre	7_wt	0.1686	1
+2168	f__unknown_ Bacteria	10_cre	9_cre	1	1
+2169	f__unknown_ Bacteria	10_cre	9_wt	0.6817	1
+2170	f__unknown_ Bacteria	10_wt	12_cre	1	1
+2171	f__unknown_ Bacteria	10_wt	12_wt	1	1
+2172	f__unknown_ Bacteria	10_wt	5_cre	1	1
+2173	f__unknown_ Bacteria	10_wt	5_wt	1	1
+2174	f__unknown_ Bacteria	10_wt	7_cre	1	1
+2175	f__unknown_ Bacteria	10_wt	7_wt	0.5977	1
+2176	f__unknown_ Bacteria	10_wt	9_cre	0.427	1
+2177	f__unknown_ Bacteria	10_wt	9_wt	1	1
+2178	f__unknown_ Bacteria	12_cre	12_wt	0.6513	1
+2179	f__unknown_ Bacteria	12_cre	5_cre	0.6513	1
+2180	f__unknown_ Bacteria	12_cre	5_wt	1	1
+2181	f__unknown_ Bacteria	12_cre	7_cre	0.6513	1
+2182	f__unknown_ Bacteria	12_cre	7_wt	0.3295	1
+2183	f__unknown_ Bacteria	12_cre	9_cre	0.6999	1
+2184	f__unknown_ Bacteria	12_cre	9_wt	1	1
+2185	f__unknown_ Bacteria	12_wt	5_cre	1	1
+2186	f__unknown_ Bacteria	12_wt	5_wt	1	1
+2187	f__unknown_ Bacteria	12_wt	7_cre	1	1
+2188	f__unknown_ Bacteria	12_wt	7_wt	1	1
+2189	f__unknown_ Bacteria	12_wt	9_cre	0.2148	1
+2190	f__unknown_ Bacteria	12_wt	9_wt	1	1
+2191	f__unknown_ Bacteria	5_cre	5_wt	1	1
+2192	f__unknown_ Bacteria	5_cre	7_cre	1	1
+2193	f__unknown_ Bacteria	5_cre	7_wt	1	1
+2194	f__unknown_ Bacteria	5_cre	9_cre	0.2148	1
+2195	f__unknown_ Bacteria	5_cre	9_wt	1	1
+2196	f__unknown_ Bacteria	5_wt	7_cre	1	1
+2197	f__unknown_ Bacteria	5_wt	7_wt	0.5977	1
+2198	f__unknown_ Bacteria	5_wt	9_cre	0.427	1
+2199	f__unknown_ Bacteria	5_wt	9_wt	1	1
+2200	f__unknown_ Bacteria	7_cre	7_wt	1	1
+2201	f__unknown_ Bacteria	7_cre	9_cre	0.2148	1
+2202	f__unknown_ Bacteria	7_cre	9_wt	1	1
+2203	f__unknown_ Bacteria	7_wt	9_cre	0.0801	1
+2204	f__unknown_ Bacteria	7_wt	9_wt	0.5977	1
+2205	f__unknown_ Bacteria	9_cre	9_wt	0.427	1
+2206	f__unknown_ Bacteroidales	10_cre	10_wt	0.1281	1
+2207	f__unknown_ Bacteroidales	10_cre	12_cre	0.4621	1
+2208	f__unknown_ Bacteroidales	10_cre	12_wt	0.7152	1
+2209	f__unknown_ Bacteroidales	10_cre	5_cre	1	1
+2210	f__unknown_ Bacteroidales	10_cre	5_wt	1	1
+2211	f__unknown_ Bacteroidales	10_cre	7_cre	1	1
+2212	f__unknown_ Bacteroidales	10_cre	7_wt	0.4621	1
+2213	f__unknown_ Bacteroidales	10_cre	9_cre	1	1
+2214	f__unknown_ Bacteroidales	10_cre	9_wt	1	1
+2215	f__unknown_ Bacteroidales	10_wt	12_cre	0.6817	1
+2216	f__unknown_ Bacteroidales	10_wt	12_wt	0.427	1
+2217	f__unknown_ Bacteroidales	10_wt	5_cre	0.1281	1
+2218	f__unknown_ Bacteroidales	10_wt	5_wt	0.2451	1
+2219	f__unknown_ Bacteroidales	10_wt	7_cre	0.1281	1
+2220	f__unknown_ Bacteroidales	10_wt	7_wt	0.6817	1
+2221	f__unknown_ Bacteroidales	10_wt	9_cre	0.1281	1
+2222	f__unknown_ Bacteroidales	10_wt	9_wt	0.2451	1
+2223	f__unknown_ Bacteroidales	12_cre	12_wt	1	1
+2224	f__unknown_ Bacteroidales	12_cre	5_cre	0.4621	1
+2225	f__unknown_ Bacteroidales	12_cre	5_wt	0.7104	1
+2226	f__unknown_ Bacteroidales	12_cre	7_cre	0.4621	1
+2227	f__unknown_ Bacteroidales	12_cre	7_wt	1	1
+2228	f__unknown_ Bacteroidales	12_cre	9_cre	0.4621	1
+2229	f__unknown_ Bacteroidales	12_cre	9_wt	0.7104	1
+2230	f__unknown_ Bacteroidales	12_wt	5_cre	0.7152	1
+2231	f__unknown_ Bacteroidales	12_wt	5_wt	1	1
+2232	f__unknown_ Bacteroidales	12_wt	7_cre	0.7152	1
+2233	f__unknown_ Bacteroidales	12_wt	7_wt	1	1
+2234	f__unknown_ Bacteroidales	12_wt	9_cre	0.7152	1
+2235	f__unknown_ Bacteroidales	12_wt	9_wt	1	1
+2236	f__unknown_ Bacteroidales	5_cre	5_wt	1	1
+2237	f__unknown_ Bacteroidales	5_cre	7_cre	1	1
+2238	f__unknown_ Bacteroidales	5_cre	7_wt	0.4621	1
+2239	f__unknown_ Bacteroidales	5_cre	9_cre	1	1
+2240	f__unknown_ Bacteroidales	5_cre	9_wt	1	1
+2241	f__unknown_ Bacteroidales	5_wt	7_cre	1	1
+2242	f__unknown_ Bacteroidales	5_wt	7_wt	0.7104	1
+2243	f__unknown_ Bacteroidales	5_wt	9_cre	1	1
+2244	f__unknown_ Bacteroidales	5_wt	9_wt	1	1
+2245	f__unknown_ Bacteroidales	7_cre	7_wt	0.4621	1
+2246	f__unknown_ Bacteroidales	7_cre	9_cre	1	1
+2247	f__unknown_ Bacteroidales	7_cre	9_wt	1	1
+2248	f__unknown_ Bacteroidales	7_wt	9_cre	0.4621	1
+2249	f__unknown_ Bacteroidales	7_wt	9_wt	0.7104	1
+2250	f__unknown_ Bacteroidales	9_cre	9_wt	1	1
+2251	f__unknown_ Bacteroidetes	10_cre	10_wt	0.2451	1
+2252	f__unknown_ Bacteroidetes	10_cre	12_cre	0.7104	1
+2253	f__unknown_ Bacteroidetes	10_cre	12_wt	1	1
+2254	f__unknown_ Bacteroidetes	10_cre	5_cre	1	1
+2255	f__unknown_ Bacteroidetes	10_cre	5_wt	1	1
+2256	f__unknown_ Bacteroidetes	10_cre	7_cre	1	1
+2257	f__unknown_ Bacteroidetes	10_cre	7_wt	0.4497	1
+2258	f__unknown_ Bacteroidetes	10_cre	9_cre	1	1
+2259	f__unknown_ Bacteroidetes	10_cre	9_wt	1	1
+2260	f__unknown_ Bacteroidetes	10_wt	12_cre	0.6817	1
+2261	f__unknown_ Bacteroidetes	10_wt	12_wt	0.427	1
+2262	f__unknown_ Bacteroidetes	10_wt	5_cre	0.1281	1
+2263	f__unknown_ Bacteroidetes	10_wt	5_wt	0.2451	1
+2264	f__unknown_ Bacteroidetes	10_wt	7_cre	0.2451	1
+2265	f__unknown_ Bacteroidetes	10_wt	7_wt	1	1
+2266	f__unknown_ Bacteroidetes	10_wt	9_cre	0.2451	1
+2267	f__unknown_ Bacteroidetes	10_wt	9_wt	0.2451	1
+2268	f__unknown_ Bacteroidetes	12_cre	12_wt	1	1
+2269	f__unknown_ Bacteroidetes	12_cre	5_cre	0.4621	1
+2270	f__unknown_ Bacteroidetes	12_cre	5_wt	0.7104	1
+2271	f__unknown_ Bacteroidetes	12_cre	7_cre	0.7104	1
+2272	f__unknown_ Bacteroidetes	12_cre	7_wt	1	1
+2273	f__unknown_ Bacteroidetes	12_cre	9_cre	0.7104	1
+2274	f__unknown_ Bacteroidetes	12_cre	9_wt	0.7104	1
+2275	f__unknown_ Bacteroidetes	12_wt	5_cre	0.7152	1
+2276	f__unknown_ Bacteroidetes	12_wt	5_wt	1	1
+2277	f__unknown_ Bacteroidetes	12_wt	7_cre	1	1
+2278	f__unknown_ Bacteroidetes	12_wt	7_wt	0.6999	1
+2279	f__unknown_ Bacteroidetes	12_wt	9_cre	1	1
+2280	f__unknown_ Bacteroidetes	12_wt	9_wt	1	1
+2281	f__unknown_ Bacteroidetes	5_cre	5_wt	1	1
+2282	f__unknown_ Bacteroidetes	5_cre	7_cre	1	1
+2283	f__unknown_ Bacteroidetes	5_cre	7_wt	0.2635	1
+2284	f__unknown_ Bacteroidetes	5_cre	9_cre	1	1
+2285	f__unknown_ Bacteroidetes	5_cre	9_wt	1	1
+2286	f__unknown_ Bacteroidetes	5_wt	7_cre	1	1
+2287	f__unknown_ Bacteroidetes	5_wt	7_wt	0.4497	1
+2288	f__unknown_ Bacteroidetes	5_wt	9_cre	1	1
+2289	f__unknown_ Bacteroidetes	5_wt	9_wt	1	1
+2290	f__unknown_ Bacteroidetes	7_cre	7_wt	0.4497	1
+2291	f__unknown_ Bacteroidetes	7_cre	9_cre	1	1
+2292	f__unknown_ Bacteroidetes	7_cre	9_wt	1	1
+2293	f__unknown_ Bacteroidetes	7_wt	9_cre	0.4497	1
+2294	f__unknown_ Bacteroidetes	7_wt	9_wt	0.4497	1
+2295	f__unknown_ Bacteroidetes	9_cre	9_wt	1	1
+2296	f__unknown_ Clostridiales	10_cre	10_wt	0.1281	1
+2297	f__unknown_ Clostridiales	10_cre	12_cre	0.4621	1
+2298	f__unknown_ Clostridiales	10_cre	12_wt	0.7152	1
+2299	f__unknown_ Clostridiales	10_cre	5_cre	1	1
+2300	f__unknown_ Clostridiales	10_cre	5_wt	1	1
+2301	f__unknown_ Clostridiales	10_cre	7_cre	1	1
+2302	f__unknown_ Clostridiales	10_cre	7_wt	0.4621	1
+2303	f__unknown_ Clostridiales	10_cre	9_cre	1	1
+2304	f__unknown_ Clostridiales	10_cre	9_wt	1	1
+2305	f__unknown_ Clostridiales	10_wt	12_cre	0.6817	1
+2306	f__unknown_ Clostridiales	10_wt	12_wt	0.427	1
+2307	f__unknown_ Clostridiales	10_wt	5_cre	0.1281	1
+2308	f__unknown_ Clostridiales	10_wt	5_wt	0.2451	1
+2309	f__unknown_ Clostridiales	10_wt	7_cre	0.1281	1
+2310	f__unknown_ Clostridiales	10_wt	7_wt	0.6817	1
+2311	f__unknown_ Clostridiales	10_wt	9_cre	0.1281	1
+2312	f__unknown_ Clostridiales	10_wt	9_wt	0.2451	1
+2313	f__unknown_ Clostridiales	12_cre	12_wt	1	1
+2314	f__unknown_ Clostridiales	12_cre	5_cre	0.4621	1
+2315	f__unknown_ Clostridiales	12_cre	5_wt	0.7104	1
+2316	f__unknown_ Clostridiales	12_cre	7_cre	0.4621	1
+2317	f__unknown_ Clostridiales	12_cre	7_wt	1	1
+2318	f__unknown_ Clostridiales	12_cre	9_cre	0.4621	1
+2319	f__unknown_ Clostridiales	12_cre	9_wt	0.7104	1
+2320	f__unknown_ Clostridiales	12_wt	5_cre	0.7152	1
+2321	f__unknown_ Clostridiales	12_wt	5_wt	1	1
+2322	f__unknown_ Clostridiales	12_wt	7_cre	0.7152	1
+2323	f__unknown_ Clostridiales	12_wt	7_wt	1	1
+2324	f__unknown_ Clostridiales	12_wt	9_cre	0.7152	1
+2325	f__unknown_ Clostridiales	12_wt	9_wt	1	1
+2326	f__unknown_ Clostridiales	5_cre	5_wt	1	1
+2327	f__unknown_ Clostridiales	5_cre	7_cre	1	1
+2328	f__unknown_ Clostridiales	5_cre	7_wt	0.4621	1
+2329	f__unknown_ Clostridiales	5_cre	9_cre	1	1
+2330	f__unknown_ Clostridiales	5_cre	9_wt	1	1
+2331	f__unknown_ Clostridiales	5_wt	7_cre	1	1
+2332	f__unknown_ Clostridiales	5_wt	7_wt	0.7104	1
+2333	f__unknown_ Clostridiales	5_wt	9_cre	1	1
+2334	f__unknown_ Clostridiales	5_wt	9_wt	1	1
+2335	f__unknown_ Clostridiales	7_cre	7_wt	0.4621	1
+2336	f__unknown_ Clostridiales	7_cre	9_cre	1	1
+2337	f__unknown_ Clostridiales	7_cre	9_wt	1	1
+2338	f__unknown_ Clostridiales	7_wt	9_cre	0.4621	1
+2339	f__unknown_ Clostridiales	7_wt	9_wt	0.7104	1
+2340	f__unknown_ Clostridiales	9_cre	9_wt	1	1
+2341	f__unknown_ Deltaproteobacteria	10_cre	10_wt	0.3295	0.7414
+2342	f__unknown_ Deltaproteobacteria	10_cre	12_cre	1	1
+2343	f__unknown_ Deltaproteobacteria	10_cre	12_wt	0.3295	0.7414
+2344	f__unknown_ Deltaproteobacteria	10_cre	5_cre	0.3295	0.7414
+2345	f__unknown_ Deltaproteobacteria	10_cre	5_wt	0.6513	1
+2346	f__unknown_ Deltaproteobacteria	10_cre	7_cre	0.6999	1
+2347	f__unknown_ Deltaproteobacteria	10_cre	7_wt	0.6513	1
+2348	f__unknown_ Deltaproteobacteria	10_cre	9_cre	0.6999	1
+2349	f__unknown_ Deltaproteobacteria	10_cre	9_wt	0.0996	0.4482
+2350	f__unknown_ Deltaproteobacteria	10_wt	12_cre	0.3295	0.7414
+2351	f__unknown_ Deltaproteobacteria	10_wt	12_wt	1	1
+2352	f__unknown_ Deltaproteobacteria	10_wt	5_cre	1	1
+2353	f__unknown_ Deltaproteobacteria	10_wt	5_wt	1	1
+2354	f__unknown_ Deltaproteobacteria	10_wt	7_cre	0.0801	0.4482
+2355	f__unknown_ Deltaproteobacteria	10_wt	7_wt	1	1
+2356	f__unknown_ Deltaproteobacteria	10_wt	9_cre	0.0801	0.4482
+2357	f__unknown_ Deltaproteobacteria	10_wt	9_wt	1	1
+2358	f__unknown_ Deltaproteobacteria	12_cre	12_wt	0.3295	0.7414
+2359	f__unknown_ Deltaproteobacteria	12_cre	5_cre	0.3295	0.7414
+2360	f__unknown_ Deltaproteobacteria	12_cre	5_wt	0.6513	1
+2361	f__unknown_ Deltaproteobacteria	12_cre	7_cre	0.6999	1
+2362	f__unknown_ Deltaproteobacteria	12_cre	7_wt	0.6513	1
+2363	f__unknown_ Deltaproteobacteria	12_cre	9_cre	0.6999	1
+2364	f__unknown_ Deltaproteobacteria	12_cre	9_wt	0.0996	0.4482
+2365	f__unknown_ Deltaproteobacteria	12_wt	5_cre	1	1
+2366	f__unknown_ Deltaproteobacteria	12_wt	5_wt	1	1
+2367	f__unknown_ Deltaproteobacteria	12_wt	7_cre	0.0801	0.4482
+2368	f__unknown_ Deltaproteobacteria	12_wt	7_wt	1	1
+2369	f__unknown_ Deltaproteobacteria	12_wt	9_cre	0.0801	0.4482
+2370	f__unknown_ Deltaproteobacteria	12_wt	9_wt	1	1
+2371	f__unknown_ Deltaproteobacteria	5_cre	5_wt	1	1
+2372	f__unknown_ Deltaproteobacteria	5_cre	7_cre	0.0801	0.4482
+2373	f__unknown_ Deltaproteobacteria	5_cre	7_wt	1	1
+2374	f__unknown_ Deltaproteobacteria	5_cre	9_cre	0.0801	0.4482
+2375	f__unknown_ Deltaproteobacteria	5_cre	9_wt	1	1
+2376	f__unknown_ Deltaproteobacteria	5_wt	7_cre	0.2148	0.6904
+2377	f__unknown_ Deltaproteobacteria	5_wt	7_wt	1	1
+2378	f__unknown_ Deltaproteobacteria	5_wt	9_cre	0.2148	0.6904
+2379	f__unknown_ Deltaproteobacteria	5_wt	9_wt	0.4828	0.9875
+2380	f__unknown_ Deltaproteobacteria	7_cre	7_wt	0.2148	0.6904
+2381	f__unknown_ Deltaproteobacteria	7_cre	9_cre	1	1
+2382	f__unknown_ Deltaproteobacteria	7_cre	9_wt	0.0169	0.3802
+2383	f__unknown_ Deltaproteobacteria	7_wt	9_cre	0.2148	0.6904
+2384	f__unknown_ Deltaproteobacteria	7_wt	9_wt	0.4828	0.9875
+2385	f__unknown_ Deltaproteobacteria	9_cre	9_wt	0.0169	0.3802
+2386	f__unknown_ Firmicutes	10_cre	10_wt	0.3898	1
+2387	f__unknown_ Firmicutes	10_cre	12_cre	1	1
+2388	f__unknown_ Firmicutes	10_cre	12_wt	1	1
+2389	f__unknown_ Firmicutes	10_cre	5_cre	0.4621	1
+2390	f__unknown_ Firmicutes	10_cre	5_wt	1	1
+2391	f__unknown_ Firmicutes	10_cre	7_cre	1	1
+2392	f__unknown_ Firmicutes	10_cre	7_wt	1	1
+2393	f__unknown_ Firmicutes	10_cre	9_cre	1	1
+2394	f__unknown_ Firmicutes	10_cre	9_wt	1	1
+2395	f__unknown_ Firmicutes	10_wt	12_cre	0.6513	1
+2396	f__unknown_ Firmicutes	10_wt	12_wt	0.2148	1
+2397	f__unknown_ Firmicutes	10_wt	5_cre	0.0502	1
+2398	f__unknown_ Firmicutes	10_wt	5_wt	0.2148	1
+2399	f__unknown_ Firmicutes	10_wt	7_cre	0.6513	1
+2400	f__unknown_ Firmicutes	10_wt	7_wt	0.3898	1
+2401	f__unknown_ Firmicutes	10_wt	9_cre	0.2148	1
+2402	f__unknown_ Firmicutes	10_wt	9_wt	0.2148	1
+2403	f__unknown_ Firmicutes	12_cre	12_wt	0.6999	1
+2404	f__unknown_ Firmicutes	12_cre	5_cre	0.2635	1
+2405	f__unknown_ Firmicutes	12_cre	5_wt	0.6999	1
+2406	f__unknown_ Firmicutes	12_cre	7_cre	1	1
+2407	f__unknown_ Firmicutes	12_cre	7_wt	1	1
+2408	f__unknown_ Firmicutes	12_cre	9_cre	0.6999	1
+2409	f__unknown_ Firmicutes	12_cre	9_wt	0.6999	1
+2410	f__unknown_ Firmicutes	12_wt	5_cre	0.7152	1
+2411	f__unknown_ Firmicutes	12_wt	5_wt	1	1
+2412	f__unknown_ Firmicutes	12_wt	7_cre	0.6999	1
+2413	f__unknown_ Firmicutes	12_wt	7_wt	1	1
+2414	f__unknown_ Firmicutes	12_wt	9_cre	1	1
+2415	f__unknown_ Firmicutes	12_wt	9_wt	1	1
+2416	f__unknown_ Firmicutes	5_cre	5_wt	0.7152	1
+2417	f__unknown_ Firmicutes	5_cre	7_cre	0.2635	1
+2418	f__unknown_ Firmicutes	5_cre	7_wt	0.4621	1
+2419	f__unknown_ Firmicutes	5_cre	9_cre	0.7152	1
+2420	f__unknown_ Firmicutes	5_cre	9_wt	0.7152	1
+2421	f__unknown_ Firmicutes	5_wt	7_cre	0.6999	1
+2422	f__unknown_ Firmicutes	5_wt	7_wt	1	1
+2423	f__unknown_ Firmicutes	5_wt	9_cre	1	1
+2424	f__unknown_ Firmicutes	5_wt	9_wt	1	1
+2425	f__unknown_ Firmicutes	7_cre	7_wt	1	1
+2426	f__unknown_ Firmicutes	7_cre	9_cre	0.6999	1
+2427	f__unknown_ Firmicutes	7_cre	9_wt	0.6999	1
+2428	f__unknown_ Firmicutes	7_wt	9_cre	1	1
+2429	f__unknown_ Firmicutes	7_wt	9_wt	1	1
+2430	f__unknown_ Firmicutes	9_cre	9_wt	1	1
+2431	g__Alistipes	10_cre	10_wt	0.1281	1
+2432	g__Alistipes	10_cre	12_cre	0.4621	1
+2433	g__Alistipes	10_cre	12_wt	0.7152	1
+2434	g__Alistipes	10_cre	5_cre	1	1
+2435	g__Alistipes	10_cre	5_wt	1	1
+2436	g__Alistipes	10_cre	7_cre	1	1
+2437	g__Alistipes	10_cre	7_wt	0.4621	1
+2438	g__Alistipes	10_cre	9_cre	1	1
+2439	g__Alistipes	10_cre	9_wt	1	1
+2440	g__Alistipes	10_wt	12_cre	0.6817	1
+2441	g__Alistipes	10_wt	12_wt	0.427	1
+2442	g__Alistipes	10_wt	5_cre	0.1281	1
+2443	g__Alistipes	10_wt	5_wt	0.2451	1
+2444	g__Alistipes	10_wt	7_cre	0.1281	1
+2445	g__Alistipes	10_wt	7_wt	0.6817	1
+2446	g__Alistipes	10_wt	9_cre	0.1281	1
+2447	g__Alistipes	10_wt	9_wt	0.2451	1
+2448	g__Alistipes	12_cre	12_wt	1	1
+2449	g__Alistipes	12_cre	5_cre	0.4621	1
+2450	g__Alistipes	12_cre	5_wt	0.7104	1
+2451	g__Alistipes	12_cre	7_cre	0.4621	1
+2452	g__Alistipes	12_cre	7_wt	1	1
+2453	g__Alistipes	12_cre	9_cre	0.4621	1
+2454	g__Alistipes	12_cre	9_wt	0.7104	1
+2455	g__Alistipes	12_wt	5_cre	0.7152	1
+2456	g__Alistipes	12_wt	5_wt	1	1
+2457	g__Alistipes	12_wt	7_cre	0.7152	1
+2458	g__Alistipes	12_wt	7_wt	1	1
+2459	g__Alistipes	12_wt	9_cre	0.7152	1
+2460	g__Alistipes	12_wt	9_wt	1	1
+2461	g__Alistipes	5_cre	5_wt	1	1
+2462	g__Alistipes	5_cre	7_cre	1	1
+2463	g__Alistipes	5_cre	7_wt	0.4621	1
+2464	g__Alistipes	5_cre	9_cre	1	1
+2465	g__Alistipes	5_cre	9_wt	1	1
+2466	g__Alistipes	5_wt	7_cre	1	1
+2467	g__Alistipes	5_wt	7_wt	0.7104	1
+2468	g__Alistipes	5_wt	9_cre	1	1
+2469	g__Alistipes	5_wt	9_wt	1	1
+2470	g__Alistipes	7_cre	7_wt	0.4621	1
+2471	g__Alistipes	7_cre	9_cre	1	1
+2472	g__Alistipes	7_cre	9_wt	1	1
+2473	g__Alistipes	7_wt	9_cre	0.4621	1
+2474	g__Alistipes	7_wt	9_wt	0.7104	1
+2475	g__Alistipes	9_cre	9_wt	1	1
+2476	g__Alloprevotella	10_cre	10_wt	0.3295	1
+2477	g__Alloprevotella	10_cre	12_cre	0.0996	1
+2478	g__Alloprevotella	10_cre	12_wt	0.6513	1
+2479	g__Alloprevotella	10_cre	5_cre	1	1
+2480	g__Alloprevotella	10_cre	5_wt	1	1
+2481	g__Alloprevotella	10_cre	7_cre	0.6999	1
+2482	g__Alloprevotella	10_cre	7_wt	0.6513	1
+2483	g__Alloprevotella	10_cre	9_cre	1	1
+2484	g__Alloprevotella	10_cre	9_wt	1	1
+2485	g__Alloprevotella	10_wt	12_cre	1	1
+2486	g__Alloprevotella	10_wt	12_wt	1	1
+2487	g__Alloprevotella	10_wt	5_cre	0.5977	1
+2488	g__Alloprevotella	10_wt	5_wt	0.3295	1
+2489	g__Alloprevotella	10_wt	7_cre	0.0801	1
+2490	g__Alloprevotella	10_wt	7_wt	1	1
+2491	g__Alloprevotella	10_wt	9_cre	0.5977	1
+2492	g__Alloprevotella	10_wt	9_wt	0.5977	1
+2493	g__Alloprevotella	12_cre	12_wt	0.4828	1
+2494	g__Alloprevotella	12_cre	5_cre	0.2241	1
+2495	g__Alloprevotella	12_cre	5_wt	0.0996	1
+2496	g__Alloprevotella	12_cre	7_cre	0.0169	0.7605
+2497	g__Alloprevotella	12_cre	7_wt	0.4828	1
+2498	g__Alloprevotella	12_cre	9_cre	0.2241	1
+2499	g__Alloprevotella	12_cre	9_wt	0.2241	1
+2500	g__Alloprevotella	12_wt	5_cre	1	1
+2501	g__Alloprevotella	12_wt	5_wt	0.6513	1
+2502	g__Alloprevotella	12_wt	7_cre	0.2148	1
+2503	g__Alloprevotella	12_wt	7_wt	1	1
+2504	g__Alloprevotella	12_wt	9_cre	1	1
+2505	g__Alloprevotella	12_wt	9_wt	1	1
+2506	g__Alloprevotella	5_cre	5_wt	1	1
+2507	g__Alloprevotella	5_cre	7_cre	0.427	1
+2508	g__Alloprevotella	5_cre	7_wt	1	1
+2509	g__Alloprevotella	5_cre	9_cre	1	1
+2510	g__Alloprevotella	5_cre	9_wt	1	1
+2511	g__Alloprevotella	5_wt	7_cre	0.6999	1
+2512	g__Alloprevotella	5_wt	7_wt	0.6513	1
+2513	g__Alloprevotella	5_wt	9_cre	1	1
+2514	g__Alloprevotella	5_wt	9_wt	1	1
+2515	g__Alloprevotella	7_cre	7_wt	0.2148	1
+2516	g__Alloprevotella	7_cre	9_cre	0.427	1
+2517	g__Alloprevotella	7_cre	9_wt	0.427	1
+2518	g__Alloprevotella	7_wt	9_cre	1	1
+2519	g__Alloprevotella	7_wt	9_wt	1	1
+2520	g__Alloprevotella	9_cre	9_wt	1	1
+2521	g__Anaeroplasma	10_cre	10_wt	0.0996	1
+2522	g__Anaeroplasma	10_cre	12_cre	0.3295	1
+2523	g__Anaeroplasma	10_cre	12_wt	0.3295	1
+2524	g__Anaeroplasma	10_cre	5_cre	0.6513	1
+2525	g__Anaeroplasma	10_cre	5_wt	0.6513	1
+2526	g__Anaeroplasma	10_cre	7_cre	0.3295	1
+2527	g__Anaeroplasma	10_cre	7_wt	0.0996	1
+2528	g__Anaeroplasma	10_cre	9_cre	1	1
+2529	g__Anaeroplasma	10_cre	9_wt	0.3295	1
+2530	g__Anaeroplasma	10_wt	12_cre	1	1
+2531	g__Anaeroplasma	10_wt	12_wt	1	1
+2532	g__Anaeroplasma	10_wt	5_cre	0.4828	1
+2533	g__Anaeroplasma	10_wt	5_wt	0.4828	1
+2534	g__Anaeroplasma	10_wt	7_cre	1	1
+2535	g__Anaeroplasma	10_wt	7_wt	1	1
+2536	g__Anaeroplasma	10_wt	9_cre	0.2241	1
+2537	g__Anaeroplasma	10_wt	9_wt	1	1
+2538	g__Anaeroplasma	12_cre	12_wt	1	1
+2539	g__Anaeroplasma	12_cre	5_cre	1	1
+2540	g__Anaeroplasma	12_cre	5_wt	1	1
+2541	g__Anaeroplasma	12_cre	7_cre	1	1
+2542	g__Anaeroplasma	12_cre	7_wt	1	1
+2543	g__Anaeroplasma	12_cre	9_cre	0.5977	1
+2544	g__Anaeroplasma	12_cre	9_wt	1	1
+2545	g__Anaeroplasma	12_wt	5_cre	1	1
+2546	g__Anaeroplasma	12_wt	5_wt	1	1
+2547	g__Anaeroplasma	12_wt	7_cre	1	1
+2548	g__Anaeroplasma	12_wt	7_wt	1	1
+2549	g__Anaeroplasma	12_wt	9_cre	0.5977	1
+2550	g__Anaeroplasma	12_wt	9_wt	1	1
+2551	g__Anaeroplasma	5_cre	5_wt	1	1
+2552	g__Anaeroplasma	5_cre	7_cre	1	1
+2553	g__Anaeroplasma	5_cre	7_wt	0.4828	1
+2554	g__Anaeroplasma	5_cre	9_cre	1	1
+2555	g__Anaeroplasma	5_cre	9_wt	1	1
+2556	g__Anaeroplasma	5_wt	7_cre	1	1
+2557	g__Anaeroplasma	5_wt	7_wt	0.4828	1
+2558	g__Anaeroplasma	5_wt	9_cre	1	1
+2559	g__Anaeroplasma	5_wt	9_wt	1	1
+2560	g__Anaeroplasma	7_cre	7_wt	1	1
+2561	g__Anaeroplasma	7_cre	9_cre	0.5977	1
+2562	g__Anaeroplasma	7_cre	9_wt	1	1
+2563	g__Anaeroplasma	7_wt	9_cre	0.2241	1
+2564	g__Anaeroplasma	7_wt	9_wt	1	1
+2565	g__Anaeroplasma	9_cre	9_wt	0.5977	1
+2566	g__Anaerotruncus	10_cre	10_wt	0.5977	1
+2567	g__Anaerotruncus	10_cre	12_cre	0.5977	1
+2568	g__Anaerotruncus	10_cre	12_wt	0.5977	1
+2569	g__Anaerotruncus	10_cre	5_cre	1	1
+2570	g__Anaerotruncus	10_cre	5_wt	0.5977	1
+2571	g__Anaerotruncus	10_cre	7_cre	1	1
+2572	g__Anaerotruncus	10_cre	7_wt	0.5977	1
+2573	g__Anaerotruncus	10_cre	9_cre	1	1
+2574	g__Anaerotruncus	10_cre	9_wt	1	1
+2575	g__Anaerotruncus	10_wt	12_cre	1	1
+2576	g__Anaerotruncus	10_wt	12_wt	1	1
+2577	g__Anaerotruncus	10_wt	5_cre	1	1
+2578	g__Anaerotruncus	10_wt	5_wt	1	1
+2579	g__Anaerotruncus	10_wt	7_cre	0.3295	1
+2580	g__Anaerotruncus	10_wt	7_wt	1	1
+2581	g__Anaerotruncus	10_wt	9_cre	1	1
+2582	g__Anaerotruncus	10_wt	9_wt	0.5977	1
+2583	g__Anaerotruncus	12_cre	12_wt	1	1
+2584	g__Anaerotruncus	12_cre	5_cre	1	1
+2585	g__Anaerotruncus	12_cre	5_wt	1	1
+2586	g__Anaerotruncus	12_cre	7_cre	0.3295	1
+2587	g__Anaerotruncus	12_cre	7_wt	1	1
+2588	g__Anaerotruncus	12_cre	9_cre	1	1
+2589	g__Anaerotruncus	12_cre	9_wt	0.5977	1
+2590	g__Anaerotruncus	12_wt	5_cre	1	1
+2591	g__Anaerotruncus	12_wt	5_wt	1	1
+2592	g__Anaerotruncus	12_wt	7_cre	0.3295	1
+2593	g__Anaerotruncus	12_wt	7_wt	1	1
+2594	g__Anaerotruncus	12_wt	9_cre	1	1
+2595	g__Anaerotruncus	12_wt	9_wt	0.5977	1
+2596	g__Anaerotruncus	5_cre	5_wt	1	1
+2597	g__Anaerotruncus	5_cre	7_cre	0.6513	1
+2598	g__Anaerotruncus	5_cre	7_wt	1	1
+2599	g__Anaerotruncus	5_cre	9_cre	1	1
+2600	g__Anaerotruncus	5_cre	9_wt	1	1
+2601	g__Anaerotruncus	5_wt	7_cre	0.3295	1
+2602	g__Anaerotruncus	5_wt	7_wt	1	1
+2603	g__Anaerotruncus	5_wt	9_cre	1	1
+2604	g__Anaerotruncus	5_wt	9_wt	0.5977	1
+2605	g__Anaerotruncus	7_cre	7_wt	0.3295	1
+2606	g__Anaerotruncus	7_cre	9_cre	0.6513	1
+2607	g__Anaerotruncus	7_cre	9_wt	1	1
+2608	g__Anaerotruncus	7_wt	9_cre	1	1
+2609	g__Anaerotruncus	7_wt	9_wt	0.5977	1
+2610	g__Anaerotruncus	9_cre	9_wt	1	1
+2611	g__Bacteroides	10_cre	10_wt	0.1281	1
+2612	g__Bacteroides	10_cre	12_cre	0.4621	1
+2613	g__Bacteroides	10_cre	12_wt	0.7152	1
+2614	g__Bacteroides	10_cre	5_cre	1	1
+2615	g__Bacteroides	10_cre	5_wt	1	1
+2616	g__Bacteroides	10_cre	7_cre	1	1
+2617	g__Bacteroides	10_cre	7_wt	0.4621	1
+2618	g__Bacteroides	10_cre	9_cre	1	1
+2619	g__Bacteroides	10_cre	9_wt	1	1
+2620	g__Bacteroides	10_wt	12_cre	0.6817	1
+2621	g__Bacteroides	10_wt	12_wt	0.427	1
+2622	g__Bacteroides	10_wt	5_cre	0.1281	1
+2623	g__Bacteroides	10_wt	5_wt	0.2451	1
+2624	g__Bacteroides	10_wt	7_cre	0.1281	1
+2625	g__Bacteroides	10_wt	7_wt	0.6817	1
+2626	g__Bacteroides	10_wt	9_cre	0.1281	1
+2627	g__Bacteroides	10_wt	9_wt	0.2451	1
+2628	g__Bacteroides	12_cre	12_wt	1	1
+2629	g__Bacteroides	12_cre	5_cre	0.4621	1
+2630	g__Bacteroides	12_cre	5_wt	0.7104	1
+2631	g__Bacteroides	12_cre	7_cre	0.4621	1
+2632	g__Bacteroides	12_cre	7_wt	1	1
+2633	g__Bacteroides	12_cre	9_cre	0.4621	1
+2634	g__Bacteroides	12_cre	9_wt	0.7104	1
+2635	g__Bacteroides	12_wt	5_cre	0.7152	1
+2636	g__Bacteroides	12_wt	5_wt	1	1
+2637	g__Bacteroides	12_wt	7_cre	0.7152	1
+2638	g__Bacteroides	12_wt	7_wt	1	1
+2639	g__Bacteroides	12_wt	9_cre	0.7152	1
+2640	g__Bacteroides	12_wt	9_wt	1	1
+2641	g__Bacteroides	5_cre	5_wt	1	1
+2642	g__Bacteroides	5_cre	7_cre	1	1
+2643	g__Bacteroides	5_cre	7_wt	0.4621	1
+2644	g__Bacteroides	5_cre	9_cre	1	1
+2645	g__Bacteroides	5_cre	9_wt	1	1
+2646	g__Bacteroides	5_wt	7_cre	1	1
+2647	g__Bacteroides	5_wt	7_wt	0.7104	1
+2648	g__Bacteroides	5_wt	9_cre	1	1
+2649	g__Bacteroides	5_wt	9_wt	1	1
+2650	g__Bacteroides	7_cre	7_wt	0.4621	1
+2651	g__Bacteroides	7_cre	9_cre	1	1
+2652	g__Bacteroides	7_cre	9_wt	1	1
+2653	g__Bacteroides	7_wt	9_cre	0.4621	1
+2654	g__Bacteroides	7_wt	9_wt	0.7104	1
+2655	g__Bacteroides	9_cre	9_wt	1	1
+2656	g__Barnesiella	10_cre	10_wt	0.1281	1
+2657	g__Barnesiella	10_cre	12_cre	0.4621	1
+2658	g__Barnesiella	10_cre	12_wt	0.4621	1
+2659	g__Barnesiella	10_cre	5_cre	1	1
+2660	g__Barnesiella	10_cre	5_wt	1	1
+2661	g__Barnesiella	10_cre	7_cre	1	1
+2662	g__Barnesiella	10_cre	7_wt	0.4621	1
+2663	g__Barnesiella	10_cre	9_cre	1	1
+2664	g__Barnesiella	10_cre	9_wt	1	1
+2665	g__Barnesiella	10_wt	12_cre	0.6817	1
+2666	g__Barnesiella	10_wt	12_wt	0.6817	1
+2667	g__Barnesiella	10_wt	5_cre	0.1281	1
+2668	g__Barnesiella	10_wt	5_wt	0.2451	1
+2669	g__Barnesiella	10_wt	7_cre	0.1281	1
+2670	g__Barnesiella	10_wt	7_wt	0.6817	1
+2671	g__Barnesiella	10_wt	9_cre	0.1281	1
+2672	g__Barnesiella	10_wt	9_wt	0.2451	1
+2673	g__Barnesiella	12_cre	12_wt	1	1
+2674	g__Barnesiella	12_cre	5_cre	0.4621	1
+2675	g__Barnesiella	12_cre	5_wt	0.7104	1
+2676	g__Barnesiella	12_cre	7_cre	0.4621	1
+2677	g__Barnesiella	12_cre	7_wt	1	1
+2678	g__Barnesiella	12_cre	9_cre	0.4621	1
+2679	g__Barnesiella	12_cre	9_wt	0.7104	1
+2680	g__Barnesiella	12_wt	5_cre	0.4621	1
+2681	g__Barnesiella	12_wt	5_wt	0.7104	1
+2682	g__Barnesiella	12_wt	7_cre	0.4621	1
+2683	g__Barnesiella	12_wt	7_wt	1	1
+2684	g__Barnesiella	12_wt	9_cre	0.4621	1
+2685	g__Barnesiella	12_wt	9_wt	0.7104	1
+2686	g__Barnesiella	5_cre	5_wt	1	1
+2687	g__Barnesiella	5_cre	7_cre	1	1
+2688	g__Barnesiella	5_cre	7_wt	0.4621	1
+2689	g__Barnesiella	5_cre	9_cre	1	1
+2690	g__Barnesiella	5_cre	9_wt	1	1
+2691	g__Barnesiella	5_wt	7_cre	1	1
+2692	g__Barnesiella	5_wt	7_wt	0.7104	1
+2693	g__Barnesiella	5_wt	9_cre	1	1
+2694	g__Barnesiella	5_wt	9_wt	1	1
+2695	g__Barnesiella	7_cre	7_wt	0.4621	1
+2696	g__Barnesiella	7_cre	9_cre	1	1
+2697	g__Barnesiella	7_cre	9_wt	1	1
+2698	g__Barnesiella	7_wt	9_cre	0.4621	1
+2699	g__Barnesiella	7_wt	9_wt	0.7104	1
+2700	g__Barnesiella	9_cre	9_wt	1	1
+2701	g__Butyricicoccus	10_cre	10_wt	0.3898	1
+2702	g__Butyricicoccus	10_cre	12_cre	0.6817	1
+2703	g__Butyricicoccus	10_cre	12_wt	1	1
+2704	g__Butyricicoccus	10_cre	5_cre	0.3898	1
+2705	g__Butyricicoccus	10_cre	5_wt	1	1
+2706	g__Butyricicoccus	10_cre	7_cre	1	1
+2707	g__Butyricicoccus	10_cre	7_wt	0.3898	1
+2708	g__Butyricicoccus	10_cre	9_cre	0.6817	1
+2709	g__Butyricicoccus	10_cre	9_wt	1	1
+2710	g__Butyricicoccus	10_wt	12_cre	1	1
+2711	g__Butyricicoccus	10_wt	12_wt	0.6513	1
+2712	g__Butyricicoccus	10_wt	5_cre	1	1
+2713	g__Butyricicoccus	10_wt	5_wt	0.6513	1
+2714	g__Butyricicoccus	10_wt	7_cre	0.2148	1
+2715	g__Butyricicoccus	10_wt	7_wt	1	1
+2716	g__Butyricicoccus	10_wt	9_cre	1	1
+2717	g__Butyricicoccus	10_wt	9_wt	0.6513	1
+2718	g__Butyricicoccus	12_cre	12_wt	1	1
+2719	g__Butyricicoccus	12_cre	5_cre	1	1
+2720	g__Butyricicoccus	12_cre	5_wt	1	1
+2721	g__Butyricicoccus	12_cre	7_cre	0.427	1
+2722	g__Butyricicoccus	12_cre	7_wt	1	1
+2723	g__Butyricicoccus	12_cre	9_cre	1	1
+2724	g__Butyricicoccus	12_cre	9_wt	1	1
+2725	g__Butyricicoccus	12_wt	5_cre	0.6513	1
+2726	g__Butyricicoccus	12_wt	5_wt	1	1
+2727	g__Butyricicoccus	12_wt	7_cre	0.6999	1
+2728	g__Butyricicoccus	12_wt	7_wt	0.6513	1
+2729	g__Butyricicoccus	12_wt	9_cre	1	1
+2730	g__Butyricicoccus	12_wt	9_wt	1	1
+2731	g__Butyricicoccus	5_cre	5_wt	0.6513	1
+2732	g__Butyricicoccus	5_cre	7_cre	0.2148	1
+2733	g__Butyricicoccus	5_cre	7_wt	1	1
+2734	g__Butyricicoccus	5_cre	9_cre	1	1
+2735	g__Butyricicoccus	5_cre	9_wt	0.6513	1
+2736	g__Butyricicoccus	5_wt	7_cre	0.6999	1
+2737	g__Butyricicoccus	5_wt	7_wt	0.6513	1
+2738	g__Butyricicoccus	5_wt	9_cre	1	1
+2739	g__Butyricicoccus	5_wt	9_wt	1	1
+2740	g__Butyricicoccus	7_cre	7_wt	0.2148	1
+2741	g__Butyricicoccus	7_cre	9_cre	0.427	1
+2742	g__Butyricicoccus	7_cre	9_wt	0.6999	1
+2743	g__Butyricicoccus	7_wt	9_cre	1	1
+2744	g__Butyricicoccus	7_wt	9_wt	0.6513	1
+2745	g__Butyricicoccus	9_cre	9_wt	1	1
+2746	g__Clostridium IV	10_cre	10_wt	0.2451	1
+2747	g__Clostridium IV	10_cre	12_cre	0.7104	1
+2748	g__Clostridium IV	10_cre	12_wt	1	1
+2749	g__Clostridium IV	10_cre	5_cre	1	1
+2750	g__Clostridium IV	10_cre	5_wt	0.2451	1
+2751	g__Clostridium IV	10_cre	7_cre	1	1
+2752	g__Clostridium IV	10_cre	7_wt	0.4497	1
+2753	g__Clostridium IV	10_cre	9_cre	1	1
+2754	g__Clostridium IV	10_cre	9_wt	1	1
+2755	g__Clostridium IV	10_wt	12_cre	0.6817	1
+2756	g__Clostridium IV	10_wt	12_wt	0.427	1
+2757	g__Clostridium IV	10_wt	5_cre	0.2451	1
+2758	g__Clostridium IV	10_wt	5_wt	1	1
+2759	g__Clostridium IV	10_wt	7_cre	0.427	1
+2760	g__Clostridium IV	10_wt	7_wt	1	1
+2761	g__Clostridium IV	10_wt	9_cre	0.2451	1
+2762	g__Clostridium IV	10_wt	9_wt	0.2451	1
+2763	g__Clostridium IV	12_cre	12_wt	1	1
+2764	g__Clostridium IV	12_cre	5_cre	0.7104	1
+2765	g__Clostridium IV	12_cre	5_wt	0.6817	1
+2766	g__Clostridium IV	12_cre	7_cre	1	1
+2767	g__Clostridium IV	12_cre	7_wt	1	1
+2768	g__Clostridium IV	12_cre	9_cre	0.7104	1
+2769	g__Clostridium IV	12_cre	9_wt	0.7104	1
+2770	g__Clostridium IV	12_wt	5_cre	1	1
+2771	g__Clostridium IV	12_wt	5_wt	0.427	1
+2772	g__Clostridium IV	12_wt	7_cre	1	1
+2773	g__Clostridium IV	12_wt	7_wt	0.6999	1
+2774	g__Clostridium IV	12_wt	9_cre	1	1
+2775	g__Clostridium IV	12_wt	9_wt	1	1
+2776	g__Clostridium IV	5_cre	5_wt	0.2451	1
+2777	g__Clostridium IV	5_cre	7_cre	1	1
+2778	g__Clostridium IV	5_cre	7_wt	0.4497	1
+2779	g__Clostridium IV	5_cre	9_cre	1	1
+2780	g__Clostridium IV	5_cre	9_wt	1	1
+2781	g__Clostridium IV	5_wt	7_cre	0.427	1
+2782	g__Clostridium IV	5_wt	7_wt	1	1
+2783	g__Clostridium IV	5_wt	9_cre	0.2451	1
+2784	g__Clostridium IV	5_wt	9_wt	0.2451	1
+2785	g__Clostridium IV	7_cre	7_wt	0.6999	1
+2786	g__Clostridium IV	7_cre	9_cre	1	1
+2787	g__Clostridium IV	7_cre	9_wt	1	1
+2788	g__Clostridium IV	7_wt	9_cre	0.4497	1
+2789	g__Clostridium IV	7_wt	9_wt	0.4497	1
+2790	g__Clostridium IV	9_cre	9_wt	1	1
+2791	g__Clostridium XlVa	10_cre	10_wt	0.1281	1
+2792	g__Clostridium XlVa	10_cre	12_cre	0.4621	1
+2793	g__Clostridium XlVa	10_cre	12_wt	0.7152	1
+2794	g__Clostridium XlVa	10_cre	5_cre	1	1
+2795	g__Clostridium XlVa	10_cre	5_wt	1	1
+2796	g__Clostridium XlVa	10_cre	7_cre	1	1
+2797	g__Clostridium XlVa	10_cre	7_wt	0.4621	1
+2798	g__Clostridium XlVa	10_cre	9_cre	1	1
+2799	g__Clostridium XlVa	10_cre	9_wt	1	1
+2800	g__Clostridium XlVa	10_wt	12_cre	0.6817	1
+2801	g__Clostridium XlVa	10_wt	12_wt	0.427	1
+2802	g__Clostridium XlVa	10_wt	5_cre	0.2451	1
+2803	g__Clostridium XlVa	10_wt	5_wt	0.2451	1
+2804	g__Clostridium XlVa	10_wt	7_cre	0.2451	1
+2805	g__Clostridium XlVa	10_wt	7_wt	0.6817	1
+2806	g__Clostridium XlVa	10_wt	9_cre	0.2451	1
+2807	g__Clostridium XlVa	10_wt	9_wt	0.2451	1
+2808	g__Clostridium XlVa	12_cre	12_wt	1	1
+2809	g__Clostridium XlVa	12_cre	5_cre	0.7104	1
+2810	g__Clostridium XlVa	12_cre	5_wt	0.7104	1
+2811	g__Clostridium XlVa	12_cre	7_cre	0.7104	1
+2812	g__Clostridium XlVa	12_cre	7_wt	1	1
+2813	g__Clostridium XlVa	12_cre	9_cre	0.7104	1
+2814	g__Clostridium XlVa	12_cre	9_wt	0.7104	1
+2815	g__Clostridium XlVa	12_wt	5_cre	1	1
+2816	g__Clostridium XlVa	12_wt	5_wt	1	1
+2817	g__Clostridium XlVa	12_wt	7_cre	1	1
+2818	g__Clostridium XlVa	12_wt	7_wt	1	1
+2819	g__Clostridium XlVa	12_wt	9_cre	1	1
+2820	g__Clostridium XlVa	12_wt	9_wt	1	1
+2821	g__Clostridium XlVa	5_cre	5_wt	1	1
+2822	g__Clostridium XlVa	5_cre	7_cre	1	1
+2823	g__Clostridium XlVa	5_cre	7_wt	0.7104	1
+2824	g__Clostridium XlVa	5_cre	9_cre	1	1
+2825	g__Clostridium XlVa	5_cre	9_wt	1	1
+2826	g__Clostridium XlVa	5_wt	7_cre	1	1
+2827	g__Clostridium XlVa	5_wt	7_wt	0.7104	1
+2828	g__Clostridium XlVa	5_wt	9_cre	1	1
+2829	g__Clostridium XlVa	5_wt	9_wt	1	1
+2830	g__Clostridium XlVa	7_cre	7_wt	0.7104	1
+2831	g__Clostridium XlVa	7_cre	9_cre	1	1
+2832	g__Clostridium XlVa	7_cre	9_wt	1	1
+2833	g__Clostridium XlVa	7_wt	9_cre	0.7104	1
+2834	g__Clostridium XlVa	7_wt	9_wt	0.7104	1
+2835	g__Clostridium XlVa	9_cre	9_wt	1	1
+2836	g__Clostridium XlVb	10_cre	10_wt	0.1086	1
+2837	g__Clostridium XlVb	10_cre	12_cre	0.7104	1
+2838	g__Clostridium XlVb	10_cre	12_wt	0.7104	1
+2839	g__Clostridium XlVb	10_cre	5_cre	0.7104	1
+2840	g__Clostridium XlVb	10_cre	5_wt	0.4497	1
+2841	g__Clostridium XlVb	10_cre	7_cre	0.4497	1
+2842	g__Clostridium XlVb	10_cre	7_wt	0.7104	1
+2843	g__Clostridium XlVb	10_cre	9_cre	1	1
+2844	g__Clostridium XlVb	10_cre	9_wt	1	1
+2845	g__Clostridium XlVb	10_wt	12_cre	0.3898	1
+2846	g__Clostridium XlVb	10_wt	12_wt	0.3898	1
+2847	g__Clostridium XlVb	10_wt	5_cre	0.3898	1
+2848	g__Clostridium XlVb	10_wt	5_wt	0.6513	1
+2849	g__Clostridium XlVb	10_wt	7_cre	0.6513	1
+2850	g__Clostridium XlVb	10_wt	7_wt	0.3898	1
+2851	g__Clostridium XlVb	10_wt	9_cre	0.2148	1
+2852	g__Clostridium XlVb	10_wt	9_wt	0.2148	1
+2853	g__Clostridium XlVb	12_cre	12_wt	1	1
+2854	g__Clostridium XlVb	12_cre	5_cre	1	1
+2855	g__Clostridium XlVb	12_cre	5_wt	1	1
+2856	g__Clostridium XlVb	12_cre	7_cre	1	1
+2857	g__Clostridium XlVb	12_cre	7_wt	1	1
+2858	g__Clostridium XlVb	12_cre	9_cre	1	1
+2859	g__Clostridium XlVb	12_cre	9_wt	1	1
+2860	g__Clostridium XlVb	12_wt	5_cre	1	1
+2861	g__Clostridium XlVb	12_wt	5_wt	1	1
+2862	g__Clostridium XlVb	12_wt	7_cre	1	1
+2863	g__Clostridium XlVb	12_wt	7_wt	1	1
+2864	g__Clostridium XlVb	12_wt	9_cre	1	1
+2865	g__Clostridium XlVb	12_wt	9_wt	1	1
+2866	g__Clostridium XlVb	5_cre	5_wt	1	1
+2867	g__Clostridium XlVb	5_cre	7_cre	1	1
+2868	g__Clostridium XlVb	5_cre	7_wt	1	1
+2869	g__Clostridium XlVb	5_cre	9_cre	1	1
+2870	g__Clostridium XlVb	5_cre	9_wt	1	1
+2871	g__Clostridium XlVb	5_wt	7_cre	1	1
+2872	g__Clostridium XlVb	5_wt	7_wt	1	1
+2873	g__Clostridium XlVb	5_wt	9_cre	0.6999	1
+2874	g__Clostridium XlVb	5_wt	9_wt	0.6999	1
+2875	g__Clostridium XlVb	7_cre	7_wt	1	1
+2876	g__Clostridium XlVb	7_cre	9_cre	0.6999	1
+2877	g__Clostridium XlVb	7_cre	9_wt	0.6999	1
+2878	g__Clostridium XlVb	7_wt	9_cre	1	1
+2879	g__Clostridium XlVb	7_wt	9_wt	1	1
+2880	g__Clostridium XlVb	9_cre	9_wt	1	1
+2881	g__Flavonifractor	10_cre	10_wt	0.2451	1
+2882	g__Flavonifractor	10_cre	12_cre	0.4497	1
+2883	g__Flavonifractor	10_cre	12_wt	1	1
+2884	g__Flavonifractor	10_cre	5_cre	0.7104	1
+2885	g__Flavonifractor	10_cre	5_wt	1	1
+2886	g__Flavonifractor	10_cre	7_cre	1	1
+2887	g__Flavonifractor	10_cre	7_wt	0.7104	1
+2888	g__Flavonifractor	10_cre	9_cre	1	1
+2889	g__Flavonifractor	10_cre	9_wt	1	1
+2890	g__Flavonifractor	10_wt	12_cre	1	1
+2891	g__Flavonifractor	10_wt	12_wt	0.427	1
+2892	g__Flavonifractor	10_wt	5_cre	0.6817	1
+2893	g__Flavonifractor	10_wt	5_wt	0.2451	1
+2894	g__Flavonifractor	10_wt	7_cre	0.427	1
+2895	g__Flavonifractor	10_wt	7_wt	0.6817	1
+2896	g__Flavonifractor	10_wt	9_cre	0.1281	1
+2897	g__Flavonifractor	10_wt	9_wt	0.2451	1
+2898	g__Flavonifractor	12_cre	12_wt	0.6999	1
+2899	g__Flavonifractor	12_cre	5_cre	1	1
+2900	g__Flavonifractor	12_cre	5_wt	0.4497	1
+2901	g__Flavonifractor	12_cre	7_cre	0.6999	1
+2902	g__Flavonifractor	12_cre	7_wt	1	1
+2903	g__Flavonifractor	12_cre	9_cre	0.2635	1
+2904	g__Flavonifractor	12_cre	9_wt	0.4497	1
+2905	g__Flavonifractor	12_wt	5_cre	1	1
+2906	g__Flavonifractor	12_wt	5_wt	1	1
+2907	g__Flavonifractor	12_wt	7_cre	1	1
+2908	g__Flavonifractor	12_wt	7_wt	1	1
+2909	g__Flavonifractor	12_wt	9_cre	0.7152	1
+2910	g__Flavonifractor	12_wt	9_wt	1	1
+2911	g__Flavonifractor	5_cre	5_wt	0.7104	1
+2912	g__Flavonifractor	5_cre	7_cre	1	1
+2913	g__Flavonifractor	5_cre	7_wt	1	1
+2914	g__Flavonifractor	5_cre	9_cre	0.4621	1
+2915	g__Flavonifractor	5_cre	9_wt	0.7104	1
+2916	g__Flavonifractor	5_wt	7_cre	1	1
+2917	g__Flavonifractor	5_wt	7_wt	0.7104	1
+2918	g__Flavonifractor	5_wt	9_cre	1	1
+2919	g__Flavonifractor	5_wt	9_wt	1	1
+2920	g__Flavonifractor	7_cre	7_wt	1	1
+2921	g__Flavonifractor	7_cre	9_cre	0.7152	1
+2922	g__Flavonifractor	7_cre	9_wt	1	1
+2923	g__Flavonifractor	7_wt	9_cre	0.4621	1
+2924	g__Flavonifractor	7_wt	9_wt	0.7104	1
+2925	g__Flavonifractor	9_cre	9_wt	1	1
+2926	g__Lachnospiracea_incertae_sedis	10_cre	10_wt	1	1
+2927	g__Lachnospiracea_incertae_sedis	10_cre	12_cre	1	1
+2928	g__Lachnospiracea_incertae_sedis	10_cre	12_wt	1	1
+2929	g__Lachnospiracea_incertae_sedis	10_cre	5_cre	0.1686	1
+2930	g__Lachnospiracea_incertae_sedis	10_cre	5_wt	0.0801	1
+2931	g__Lachnospiracea_incertae_sedis	10_cre	7_cre	0.5977	1
+2932	g__Lachnospiracea_incertae_sedis	10_cre	7_wt	0.3295	1
+2933	g__Lachnospiracea_incertae_sedis	10_cre	9_cre	1	1
+2934	g__Lachnospiracea_incertae_sedis	10_cre	9_wt	0.1686	1
+2935	g__Lachnospiracea_incertae_sedis	10_wt	12_cre	1	1
+2936	g__Lachnospiracea_incertae_sedis	10_wt	12_wt	1	1
+2937	g__Lachnospiracea_incertae_sedis	10_wt	5_cre	0.3898	1
+2938	g__Lachnospiracea_incertae_sedis	10_wt	5_wt	0.2148	1
+2939	g__Lachnospiracea_incertae_sedis	10_wt	7_cre	1	1
+2940	g__Lachnospiracea_incertae_sedis	10_wt	7_wt	0.6513	1
+2941	g__Lachnospiracea_incertae_sedis	10_wt	9_cre	1	1
+2942	g__Lachnospiracea_incertae_sedis	10_wt	9_wt	0.3898	1
+2943	g__Lachnospiracea_incertae_sedis	12_cre	12_wt	1	1
+2944	g__Lachnospiracea_incertae_sedis	12_cre	5_cre	0.1686	1
+2945	g__Lachnospiracea_incertae_sedis	12_cre	5_wt	0.0801	1
+2946	g__Lachnospiracea_incertae_sedis	12_cre	7_cre	0.5977	1
+2947	g__Lachnospiracea_incertae_sedis	12_cre	7_wt	0.3295	1
+2948	g__Lachnospiracea_incertae_sedis	12_cre	9_cre	1	1
+2949	g__Lachnospiracea_incertae_sedis	12_cre	9_wt	0.1686	1
+2950	g__Lachnospiracea_incertae_sedis	12_wt	5_cre	0.3898	1
+2951	g__Lachnospiracea_incertae_sedis	12_wt	5_wt	0.2148	1
+2952	g__Lachnospiracea_incertae_sedis	12_wt	7_cre	1	1
+2953	g__Lachnospiracea_incertae_sedis	12_wt	7_wt	0.6513	1
+2954	g__Lachnospiracea_incertae_sedis	12_wt	9_cre	1	1
+2955	g__Lachnospiracea_incertae_sedis	12_wt	9_wt	0.3898	1
+2956	g__Lachnospiracea_incertae_sedis	5_cre	5_wt	1	1
+2957	g__Lachnospiracea_incertae_sedis	5_cre	7_cre	0.6817	1
+2958	g__Lachnospiracea_incertae_sedis	5_cre	7_wt	1	1
+2959	g__Lachnospiracea_incertae_sedis	5_cre	9_cre	0.3898	1
+2960	g__Lachnospiracea_incertae_sedis	5_cre	9_wt	1	1
+2961	g__Lachnospiracea_incertae_sedis	5_wt	7_cre	0.427	1
+2962	g__Lachnospiracea_incertae_sedis	5_wt	7_wt	0.6999	1
+2963	g__Lachnospiracea_incertae_sedis	5_wt	9_cre	0.2148	1
+2964	g__Lachnospiracea_incertae_sedis	5_wt	9_wt	1	1
+2965	g__Lachnospiracea_incertae_sedis	7_cre	7_wt	1	1
+2966	g__Lachnospiracea_incertae_sedis	7_cre	9_cre	1	1
+2967	g__Lachnospiracea_incertae_sedis	7_cre	9_wt	0.6817	1
+2968	g__Lachnospiracea_incertae_sedis	7_wt	9_cre	0.6513	1
+2969	g__Lachnospiracea_incertae_sedis	7_wt	9_wt	1	1
+2970	g__Lachnospiracea_incertae_sedis	9_cre	9_wt	0.3898	1
+2971	g__Lactobacillus	10_cre	10_wt	0.1281	1
+2972	g__Lactobacillus	10_cre	12_cre	0.4621	1
+2973	g__Lactobacillus	10_cre	12_wt	0.2635	1
+2974	g__Lactobacillus	10_cre	5_cre	1	1
+2975	g__Lactobacillus	10_cre	5_wt	1	1
+2976	g__Lactobacillus	10_cre	7_cre	1	1
+2977	g__Lactobacillus	10_cre	7_wt	0.4621	1
+2978	g__Lactobacillus	10_cre	9_cre	1	1
+2979	g__Lactobacillus	10_cre	9_wt	0.7152	1
+2980	g__Lactobacillus	10_wt	12_cre	0.6817	1
+2981	g__Lactobacillus	10_wt	12_wt	1	1
+2982	g__Lactobacillus	10_wt	5_cre	0.1281	1
+2983	g__Lactobacillus	10_wt	5_wt	0.2451	1
+2984	g__Lactobacillus	10_wt	7_cre	0.1281	1
+2985	g__Lactobacillus	10_wt	7_wt	0.6817	1
+2986	g__Lactobacillus	10_wt	9_cre	0.1281	1
+2987	g__Lactobacillus	10_wt	9_wt	0.427	1
+2988	g__Lactobacillus	12_cre	12_wt	1	1
+2989	g__Lactobacillus	12_cre	5_cre	0.4621	1
+2990	g__Lactobacillus	12_cre	5_wt	0.7104	1
+2991	g__Lactobacillus	12_cre	7_cre	0.4621	1
+2992	g__Lactobacillus	12_cre	7_wt	1	1
+2993	g__Lactobacillus	12_cre	9_cre	0.4621	1
+2994	g__Lactobacillus	12_cre	9_wt	1	1
+2995	g__Lactobacillus	12_wt	5_cre	0.2635	1
+2996	g__Lactobacillus	12_wt	5_wt	0.4497	1
+2997	g__Lactobacillus	12_wt	7_cre	0.2635	1
+2998	g__Lactobacillus	12_wt	7_wt	1	1
+2999	g__Lactobacillus	12_wt	9_cre	0.2635	1
+3000	g__Lactobacillus	12_wt	9_wt	0.6999	1
+3001	g__Lactobacillus	5_cre	5_wt	1	1
+3002	g__Lactobacillus	5_cre	7_cre	1	1
+3003	g__Lactobacillus	5_cre	7_wt	0.4621	1
+3004	g__Lactobacillus	5_cre	9_cre	1	1
+3005	g__Lactobacillus	5_cre	9_wt	0.7152	1
+3006	g__Lactobacillus	5_wt	7_cre	1	1
+3007	g__Lactobacillus	5_wt	7_wt	0.7104	1
+3008	g__Lactobacillus	5_wt	9_cre	1	1
+3009	g__Lactobacillus	5_wt	9_wt	1	1
+3010	g__Lactobacillus	7_cre	7_wt	0.4621	1
+3011	g__Lactobacillus	7_cre	9_cre	1	1
+3012	g__Lactobacillus	7_cre	9_wt	0.7152	1
+3013	g__Lactobacillus	7_wt	9_cre	0.4621	1
+3014	g__Lactobacillus	7_wt	9_wt	1	1
+3015	g__Lactobacillus	9_cre	9_wt	0.7152	1
+3016	g__Mucispirillum	10_cre	10_wt	0.5977	1
+3017	g__Mucispirillum	10_cre	12_cre	1	1
+3018	g__Mucispirillum	10_cre	12_wt	1	1
+3019	g__Mucispirillum	10_cre	5_cre	1	1
+3020	g__Mucispirillum	10_cre	5_wt	1	1
+3021	g__Mucispirillum	10_cre	7_cre	1	1
+3022	g__Mucispirillum	10_cre	7_wt	0.5977	1
+3023	g__Mucispirillum	10_cre	9_cre	1	1
+3024	g__Mucispirillum	10_cre	9_wt	1	1
+3025	g__Mucispirillum	10_wt	12_cre	0.3295	1
+3026	g__Mucispirillum	10_wt	12_wt	0.3295	1
+3027	g__Mucispirillum	10_wt	5_cre	0.5977	1
+3028	g__Mucispirillum	10_wt	5_wt	1	1
+3029	g__Mucispirillum	10_wt	7_cre	0.5977	1
+3030	g__Mucispirillum	10_wt	7_wt	1	1
+3031	g__Mucispirillum	10_wt	9_cre	0.5977	1
+3032	g__Mucispirillum	10_wt	9_wt	1	1
+3033	g__Mucispirillum	12_cre	12_wt	1	1
+3034	g__Mucispirillum	12_cre	5_cre	1	1
+3035	g__Mucispirillum	12_cre	5_wt	0.6513	1
+3036	g__Mucispirillum	12_cre	7_cre	1	1
+3037	g__Mucispirillum	12_cre	7_wt	0.3295	1
+3038	g__Mucispirillum	12_cre	9_cre	1	1
+3039	g__Mucispirillum	12_cre	9_wt	0.6513	1
+3040	g__Mucispirillum	12_wt	5_cre	1	1
+3041	g__Mucispirillum	12_wt	5_wt	0.6513	1
+3042	g__Mucispirillum	12_wt	7_cre	1	1
+3043	g__Mucispirillum	12_wt	7_wt	0.3295	1
+3044	g__Mucispirillum	12_wt	9_cre	1	1
+3045	g__Mucispirillum	12_wt	9_wt	0.6513	1
+3046	g__Mucispirillum	5_cre	5_wt	1	1
+3047	g__Mucispirillum	5_cre	7_cre	1	1
+3048	g__Mucispirillum	5_cre	7_wt	0.5977	1
+3049	g__Mucispirillum	5_cre	9_cre	1	1
+3050	g__Mucispirillum	5_cre	9_wt	1	1
+3051	g__Mucispirillum	5_wt	7_cre	1	1
+3052	g__Mucispirillum	5_wt	7_wt	1	1
+3053	g__Mucispirillum	5_wt	9_cre	1	1
+3054	g__Mucispirillum	5_wt	9_wt	1	1
+3055	g__Mucispirillum	7_cre	7_wt	0.5977	1
+3056	g__Mucispirillum	7_cre	9_cre	1	1
+3057	g__Mucispirillum	7_cre	9_wt	1	1
+3058	g__Mucispirillum	7_wt	9_cre	0.5977	1
+3059	g__Mucispirillum	7_wt	9_wt	1	1
+3060	g__Mucispirillum	9_cre	9_wt	1	1
+3061	g__Odoribacter	10_cre	10_wt	0.1281	1
+3062	g__Odoribacter	10_cre	12_cre	0.4621	1
+3063	g__Odoribacter	10_cre	12_wt	0.7152	1
+3064	g__Odoribacter	10_cre	5_cre	1	1
+3065	g__Odoribacter	10_cre	5_wt	1	1
+3066	g__Odoribacter	10_cre	7_cre	1	1
+3067	g__Odoribacter	10_cre	7_wt	0.4621	1
+3068	g__Odoribacter	10_cre	9_cre	1	1
+3069	g__Odoribacter	10_cre	9_wt	1	1
+3070	g__Odoribacter	10_wt	12_cre	0.6817	1
+3071	g__Odoribacter	10_wt	12_wt	0.427	1
+3072	g__Odoribacter	10_wt	5_cre	0.1281	1
+3073	g__Odoribacter	10_wt	5_wt	0.2451	1
+3074	g__Odoribacter	10_wt	7_cre	0.1281	1
+3075	g__Odoribacter	10_wt	7_wt	0.6817	1
+3076	g__Odoribacter	10_wt	9_cre	0.1281	1
+3077	g__Odoribacter	10_wt	9_wt	0.2451	1
+3078	g__Odoribacter	12_cre	12_wt	1	1
+3079	g__Odoribacter	12_cre	5_cre	0.4621	1
+3080	g__Odoribacter	12_cre	5_wt	0.7104	1
+3081	g__Odoribacter	12_cre	7_cre	0.4621	1
+3082	g__Odoribacter	12_cre	7_wt	1	1
+3083	g__Odoribacter	12_cre	9_cre	0.4621	1
+3084	g__Odoribacter	12_cre	9_wt	0.7104	1
+3085	g__Odoribacter	12_wt	5_cre	0.7152	1
+3086	g__Odoribacter	12_wt	5_wt	1	1
+3087	g__Odoribacter	12_wt	7_cre	0.7152	1
+3088	g__Odoribacter	12_wt	7_wt	1	1
+3089	g__Odoribacter	12_wt	9_cre	0.7152	1
+3090	g__Odoribacter	12_wt	9_wt	1	1
+3091	g__Odoribacter	5_cre	5_wt	1	1
+3092	g__Odoribacter	5_cre	7_cre	1	1
+3093	g__Odoribacter	5_cre	7_wt	0.4621	1
+3094	g__Odoribacter	5_cre	9_cre	1	1
+3095	g__Odoribacter	5_cre	9_wt	1	1
+3096	g__Odoribacter	5_wt	7_cre	1	1
+3097	g__Odoribacter	5_wt	7_wt	0.7104	1
+3098	g__Odoribacter	5_wt	9_cre	1	1
+3099	g__Odoribacter	5_wt	9_wt	1	1
+3100	g__Odoribacter	7_cre	7_wt	0.4621	1
+3101	g__Odoribacter	7_cre	9_cre	1	1
+3102	g__Odoribacter	7_cre	9_wt	1	1
+3103	g__Odoribacter	7_wt	9_cre	0.4621	1
+3104	g__Odoribacter	7_wt	9_wt	0.7104	1
+3105	g__Odoribacter	9_cre	9_wt	1	1
+3106	g__Oscillibacter	10_cre	10_wt	0.427	1
+3107	g__Oscillibacter	10_cre	12_cre	0.6999	1
+3108	g__Oscillibacter	10_cre	12_wt	1	1
+3109	g__Oscillibacter	10_cre	5_cre	1	1
+3110	g__Oscillibacter	10_cre	5_wt	1	1
+3111	g__Oscillibacter	10_cre	7_cre	1	1
+3112	g__Oscillibacter	10_cre	7_wt	1	1
+3113	g__Oscillibacter	10_cre	9_cre	1	1
+3114	g__Oscillibacter	10_cre	9_wt	1	1
+3115	g__Oscillibacter	10_wt	12_cre	1	1
+3116	g__Oscillibacter	10_wt	12_wt	0.427	1
+3117	g__Oscillibacter	10_wt	5_cre	0.427	1
+3118	g__Oscillibacter	10_wt	5_wt	0.427	1
+3119	g__Oscillibacter	10_wt	7_cre	0.427	1
+3120	g__Oscillibacter	10_wt	7_wt	0.6817	1
+3121	g__Oscillibacter	10_wt	9_cre	0.2451	1
+3122	g__Oscillibacter	10_wt	9_wt	0.2451	1
+3123	g__Oscillibacter	12_cre	12_wt	0.6999	1
+3124	g__Oscillibacter	12_cre	5_cre	0.6999	1
+3125	g__Oscillibacter	12_cre	5_wt	0.6999	1
+3126	g__Oscillibacter	12_cre	7_cre	0.6999	1
+3127	g__Oscillibacter	12_cre	7_wt	1	1
+3128	g__Oscillibacter	12_cre	9_cre	0.4497	1
+3129	g__Oscillibacter	12_cre	9_wt	0.4497	1
+3130	g__Oscillibacter	12_wt	5_cre	1	1
+3131	g__Oscillibacter	12_wt	5_wt	1	1
+3132	g__Oscillibacter	12_wt	7_cre	1	1
+3133	g__Oscillibacter	12_wt	7_wt	1	1
+3134	g__Oscillibacter	12_wt	9_cre	1	1
+3135	g__Oscillibacter	12_wt	9_wt	1	1
+3136	g__Oscillibacter	5_cre	5_wt	1	1
+3137	g__Oscillibacter	5_cre	7_cre	1	1
+3138	g__Oscillibacter	5_cre	7_wt	1	1
+3139	g__Oscillibacter	5_cre	9_cre	1	1
+3140	g__Oscillibacter	5_cre	9_wt	1	1
+3141	g__Oscillibacter	5_wt	7_cre	1	1
+3142	g__Oscillibacter	5_wt	7_wt	1	1
+3143	g__Oscillibacter	5_wt	9_cre	1	1
+3144	g__Oscillibacter	5_wt	9_wt	1	1
+3145	g__Oscillibacter	7_cre	7_wt	1	1
+3146	g__Oscillibacter	7_cre	9_cre	1	1
+3147	g__Oscillibacter	7_cre	9_wt	1	1
+3148	g__Oscillibacter	7_wt	9_cre	0.7104	1
+3149	g__Oscillibacter	7_wt	9_wt	0.7104	1
+3150	g__Oscillibacter	9_cre	9_wt	1	1
+3151	g__Parabacteroides	10_cre	10_wt	0.2148	1
+3152	g__Parabacteroides	10_cre	12_cre	0.6999	1
+3153	g__Parabacteroides	10_cre	12_wt	1	1
+3154	g__Parabacteroides	10_cre	5_cre	1	1
+3155	g__Parabacteroides	10_cre	5_wt	0.427	1
+3156	g__Parabacteroides	10_cre	7_cre	1	1
+3157	g__Parabacteroides	10_cre	7_wt	0.6999	1
+3158	g__Parabacteroides	10_cre	9_cre	1	1
+3159	g__Parabacteroides	10_cre	9_wt	1	1
+3160	g__Parabacteroides	10_wt	12_cre	0.6513	1
+3161	g__Parabacteroides	10_wt	12_wt	0.3898	1
+3162	g__Parabacteroides	10_wt	5_cre	0.3898	1
+3163	g__Parabacteroides	10_wt	5_wt	1	1
+3164	g__Parabacteroides	10_wt	7_cre	0.2148	1
+3165	g__Parabacteroides	10_wt	7_wt	0.6513	1
+3166	g__Parabacteroides	10_wt	9_cre	0.1086	1
+3167	g__Parabacteroides	10_wt	9_wt	0.1086	1
+3168	g__Parabacteroides	12_cre	12_wt	1	1
+3169	g__Parabacteroides	12_cre	5_cre	1	1
+3170	g__Parabacteroides	12_cre	5_wt	1	1
+3171	g__Parabacteroides	12_cre	7_cre	0.6999	1
+3172	g__Parabacteroides	12_cre	7_wt	1	1
+3173	g__Parabacteroides	12_cre	9_cre	0.4497	1
+3174	g__Parabacteroides	12_cre	9_wt	0.4497	1
+3175	g__Parabacteroides	12_wt	5_cre	1	1
+3176	g__Parabacteroides	12_wt	5_wt	0.6817	1
+3177	g__Parabacteroides	12_wt	7_cre	1	1
+3178	g__Parabacteroides	12_wt	7_wt	1	1
+3179	g__Parabacteroides	12_wt	9_cre	0.7104	1
+3180	g__Parabacteroides	12_wt	9_wt	0.7104	1
+3181	g__Parabacteroides	5_cre	5_wt	0.6817	1
+3182	g__Parabacteroides	5_cre	7_cre	1	1
+3183	g__Parabacteroides	5_cre	7_wt	1	1
+3184	g__Parabacteroides	5_cre	9_cre	0.7104	1
+3185	g__Parabacteroides	5_cre	9_wt	0.7104	1
+3186	g__Parabacteroides	5_wt	7_cre	0.427	1
+3187	g__Parabacteroides	5_wt	7_wt	1	1
+3188	g__Parabacteroides	5_wt	9_cre	0.2451	1
+3189	g__Parabacteroides	5_wt	9_wt	0.2451	1
+3190	g__Parabacteroides	7_cre	7_wt	0.6999	1
+3191	g__Parabacteroides	7_cre	9_cre	1	1
+3192	g__Parabacteroides	7_cre	9_wt	1	1
+3193	g__Parabacteroides	7_wt	9_cre	0.4497	1
+3194	g__Parabacteroides	7_wt	9_wt	0.4497	1
+3195	g__Parabacteroides	9_cre	9_wt	1	1
+3196	g__Parasutterella	10_cre	10_wt	0.2451	1
+3197	g__Parasutterella	10_cre	12_cre	0.4497	1
+3198	g__Parasutterella	10_cre	12_wt	1	1
+3199	g__Parasutterella	10_cre	5_cre	1	1
+3200	g__Parasutterella	10_cre	5_wt	1	1
+3201	g__Parasutterella	10_cre	7_cre	1	1
+3202	g__Parasutterella	10_cre	7_wt	0.7104	1
+3203	g__Parasutterella	10_cre	9_cre	1	1
+3204	g__Parasutterella	10_cre	9_wt	1	1
+3205	g__Parasutterella	10_wt	12_cre	1	1
+3206	g__Parasutterella	10_wt	12_wt	0.427	1
+3207	g__Parasutterella	10_wt	5_cre	0.427	1
+3208	g__Parasutterella	10_wt	5_wt	0.2451	1
+3209	g__Parasutterella	10_wt	7_cre	0.1281	1
+3210	g__Parasutterella	10_wt	7_wt	0.6817	1
+3211	g__Parasutterella	10_wt	9_cre	0.1281	1
+3212	g__Parasutterella	10_wt	9_wt	0.2451	1
+3213	g__Parasutterella	12_cre	12_wt	0.6999	1
+3214	g__Parasutterella	12_cre	5_cre	0.6999	1
+3215	g__Parasutterella	12_cre	5_wt	0.4497	1
+3216	g__Parasutterella	12_cre	7_cre	0.2635	1
+3217	g__Parasutterella	12_cre	7_wt	1	1
+3218	g__Parasutterella	12_cre	9_cre	0.2635	1
+3219	g__Parasutterella	12_cre	9_wt	0.4497	1
+3220	g__Parasutterella	12_wt	5_cre	1	1
+3221	g__Parasutterella	12_wt	5_wt	1	1
+3222	g__Parasutterella	12_wt	7_cre	0.7152	1
+3223	g__Parasutterella	12_wt	7_wt	1	1
+3224	g__Parasutterella	12_wt	9_cre	0.7152	1
+3225	g__Parasutterella	12_wt	9_wt	1	1
+3226	g__Parasutterella	5_cre	5_wt	1	1
+3227	g__Parasutterella	5_cre	7_cre	0.7152	1
+3228	g__Parasutterella	5_cre	7_wt	1	1
+3229	g__Parasutterella	5_cre	9_cre	0.7152	1
+3230	g__Parasutterella	5_cre	9_wt	1	1
+3231	g__Parasutterella	5_wt	7_cre	1	1
+3232	g__Parasutterella	5_wt	7_wt	0.7104	1
+3233	g__Parasutterella	5_wt	9_cre	1	1
+3234	g__Parasutterella	5_wt	9_wt	1	1
+3235	g__Parasutterella	7_cre	7_wt	0.4621	1
+3236	g__Parasutterella	7_cre	9_cre	1	1
+3237	g__Parasutterella	7_cre	9_wt	1	1
+3238	g__Parasutterella	7_wt	9_cre	0.4621	1
+3239	g__Parasutterella	7_wt	9_wt	0.7104	1
+3240	g__Parasutterella	9_cre	9_wt	1	1
+3241	g__Prevotella	10_cre	10_wt	0.5977	1
+3242	g__Prevotella	10_cre	12_cre	1	1
+3243	g__Prevotella	10_cre	12_wt	0.427	1
+3244	g__Prevotella	10_cre	5_cre	0.6817	1
+3245	g__Prevotella	10_cre	5_wt	1	1
+3246	g__Prevotella	10_cre	7_cre	1	1
+3247	g__Prevotella	10_cre	7_wt	1	1
+3248	g__Prevotella	10_cre	9_cre	1	1
+3249	g__Prevotella	10_cre	9_wt	0.6817	1
+3250	g__Prevotella	10_wt	12_cre	1	1
+3251	g__Prevotella	10_wt	12_wt	0.0801	1
+3252	g__Prevotella	10_wt	5_cre	0.1686	1
+3253	g__Prevotella	10_wt	5_wt	0.5977	1
+3254	g__Prevotella	10_wt	7_cre	0.5977	1
+3255	g__Prevotella	10_wt	7_wt	0.5977	1
+3256	g__Prevotella	10_wt	9_cre	0.3295	1
+3257	g__Prevotella	10_wt	9_wt	0.1686	1
+3258	g__Prevotella	12_cre	12_wt	0.2148	1
+3259	g__Prevotella	12_cre	5_cre	0.3898	1
+3260	g__Prevotella	12_cre	5_wt	1	1
+3261	g__Prevotella	12_cre	7_cre	1	1
+3262	g__Prevotella	12_cre	7_wt	1	1
+3263	g__Prevotella	12_cre	9_cre	0.6513	1
+3264	g__Prevotella	12_cre	9_wt	0.3898	1
+3265	g__Prevotella	12_wt	5_cre	1	1
+3266	g__Prevotella	12_wt	5_wt	0.427	1
+3267	g__Prevotella	12_wt	7_cre	0.427	1
+3268	g__Prevotella	12_wt	7_wt	0.427	1
+3269	g__Prevotella	12_wt	9_cre	0.6999	1
+3270	g__Prevotella	12_wt	9_wt	1	1
+3271	g__Prevotella	5_cre	5_wt	0.6817	1
+3272	g__Prevotella	5_cre	7_cre	0.6817	1
+3273	g__Prevotella	5_cre	7_wt	0.6817	1
+3274	g__Prevotella	5_cre	9_cre	1	1
+3275	g__Prevotella	5_cre	9_wt	1	1
+3276	g__Prevotella	5_wt	7_cre	1	1
+3277	g__Prevotella	5_wt	7_wt	1	1
+3278	g__Prevotella	5_wt	9_cre	1	1
+3279	g__Prevotella	5_wt	9_wt	0.6817	1
+3280	g__Prevotella	7_cre	7_wt	1	1
+3281	g__Prevotella	7_cre	9_cre	1	1
+3282	g__Prevotella	7_cre	9_wt	0.6817	1
+3283	g__Prevotella	7_wt	9_cre	1	1
+3284	g__Prevotella	7_wt	9_wt	0.6817	1
+3285	g__Prevotella	9_cre	9_wt	1	1
+3286	g__Roseburia	10_cre	10_wt	1	1
+3287	g__Roseburia	10_cre	12_cre	1	1
+3288	g__Roseburia	10_cre	12_wt	0.3295	1
+3289	g__Roseburia	10_cre	5_cre	1	1
+3290	g__Roseburia	10_cre	5_wt	1	1
+3291	g__Roseburia	10_cre	7_cre	1	1
+3292	g__Roseburia	10_cre	7_wt	1	1
+3293	g__Roseburia	10_cre	9_cre	1	1
+3294	g__Roseburia	10_cre	9_wt	0.5977	1
+3295	g__Roseburia	10_wt	12_cre	1	1
+3296	g__Roseburia	10_wt	12_wt	0.6513	1
+3297	g__Roseburia	10_wt	5_cre	1	1
+3298	g__Roseburia	10_wt	5_wt	1	1
+3299	g__Roseburia	10_wt	7_cre	0.4828	1
+3300	g__Roseburia	10_wt	7_wt	1	1
+3301	g__Roseburia	10_wt	9_cre	0.4828	1
+3302	g__Roseburia	10_wt	9_wt	1	1
+3303	g__Roseburia	12_cre	12_wt	0.6513	1
+3304	g__Roseburia	12_cre	5_cre	1	1
+3305	g__Roseburia	12_cre	5_wt	1	1
+3306	g__Roseburia	12_cre	7_cre	0.4828	1
+3307	g__Roseburia	12_cre	7_wt	1	1
+3308	g__Roseburia	12_cre	9_cre	0.4828	1
+3309	g__Roseburia	12_cre	9_wt	1	1
+3310	g__Roseburia	12_wt	5_cre	0.6513	1
+3311	g__Roseburia	12_wt	5_wt	0.3295	1
+3312	g__Roseburia	12_wt	7_cre	0.0996	1
+3313	g__Roseburia	12_wt	7_wt	0.3295	1
+3314	g__Roseburia	12_wt	9_cre	0.0996	1
+3315	g__Roseburia	12_wt	9_wt	1	1
+3316	g__Roseburia	5_cre	5_wt	1	1
+3317	g__Roseburia	5_cre	7_cre	0.4828	1
+3318	g__Roseburia	5_cre	7_wt	1	1
+3319	g__Roseburia	5_cre	9_cre	0.4828	1
+3320	g__Roseburia	5_cre	9_wt	1	1
+3321	g__Roseburia	5_wt	7_cre	1	1
+3322	g__Roseburia	5_wt	7_wt	1	1
+3323	g__Roseburia	5_wt	9_cre	1	1
+3324	g__Roseburia	5_wt	9_wt	0.5977	1
+3325	g__Roseburia	7_cre	7_wt	1	1
+3326	g__Roseburia	7_cre	9_cre	1	1
+3327	g__Roseburia	7_cre	9_wt	0.2241	1
+3328	g__Roseburia	7_wt	9_cre	1	1
+3329	g__Roseburia	7_wt	9_wt	0.5977	1
+3330	g__Roseburia	9_cre	9_wt	0.2241	1
+3331	g__Ruminococcus	10_cre	10_wt	1	1
+3332	g__Ruminococcus	10_cre	12_cre	1	1
+3333	g__Ruminococcus	10_cre	12_wt	0.6999	1
+3334	g__Ruminococcus	10_cre	5_cre	0.2635	1
+3335	g__Ruminococcus	10_cre	5_wt	0.4497	1
+3336	g__Ruminococcus	10_cre	7_cre	0.6513	1
+3337	g__Ruminococcus	10_cre	7_wt	1	1
+3338	g__Ruminococcus	10_cre	9_cre	0.6999	1
+3339	g__Ruminococcus	10_cre	9_wt	1	1
+3340	g__Ruminococcus	10_wt	12_cre	1	1
+3341	g__Ruminococcus	10_wt	12_wt	0.427	1
+3342	g__Ruminococcus	10_wt	5_cre	0.1281	1
+3343	g__Ruminococcus	10_wt	5_wt	0.2451	1
+3344	g__Ruminococcus	10_wt	7_cre	1	1
+3345	g__Ruminococcus	10_wt	7_wt	0.6817	1
+3346	g__Ruminococcus	10_wt	9_cre	0.427	1
+3347	g__Ruminococcus	10_wt	9_wt	0.6817	1
+3348	g__Ruminococcus	12_cre	12_wt	0.427	1
+3349	g__Ruminococcus	12_cre	5_cre	0.1281	1
+3350	g__Ruminococcus	12_cre	5_wt	0.2451	1
+3351	g__Ruminococcus	12_cre	7_cre	1	1
+3352	g__Ruminococcus	12_cre	7_wt	0.6817	1
+3353	g__Ruminococcus	12_cre	9_cre	0.427	1
+3354	g__Ruminococcus	12_cre	9_wt	0.6817	1
+3355	g__Ruminococcus	12_wt	5_cre	0.7152	1
+3356	g__Ruminococcus	12_wt	5_wt	1	1
+3357	g__Ruminococcus	12_wt	7_cre	0.2148	1
+3358	g__Ruminococcus	12_wt	7_wt	1	1
+3359	g__Ruminococcus	12_wt	9_cre	1	1
+3360	g__Ruminococcus	12_wt	9_wt	1	1
+3361	g__Ruminococcus	5_cre	5_wt	1	1
+3362	g__Ruminococcus	5_cre	7_cre	0.0502	1
+3363	g__Ruminococcus	5_cre	7_wt	0.4621	1
+3364	g__Ruminococcus	5_cre	9_cre	0.7152	1
+3365	g__Ruminococcus	5_cre	9_wt	0.4621	1
+3366	g__Ruminococcus	5_wt	7_cre	0.1086	1
+3367	g__Ruminococcus	5_wt	7_wt	0.7104	1
+3368	g__Ruminococcus	5_wt	9_cre	1	1
+3369	g__Ruminococcus	5_wt	9_wt	0.7104	1
+3370	g__Ruminococcus	7_cre	7_wt	0.3898	1
+3371	g__Ruminococcus	7_cre	9_cre	0.2148	1
+3372	g__Ruminococcus	7_cre	9_wt	0.3898	1
+3373	g__Ruminococcus	7_wt	9_cre	1	1
+3374	g__Ruminococcus	7_wt	9_wt	1	1
+3375	g__Ruminococcus	9_cre	9_wt	1	1
+3376	g__Turicibacter	10_cre	10_wt	0.3295	0.9267
+3377	g__Turicibacter	10_cre	12_cre	0.0996	0.3201
+3378	g__Turicibacter	10_cre	12_wt	0.0996	0.3201
+3379	g__Turicibacter	10_cre	5_cre	0.0996	0.3201
+3380	g__Turicibacter	10_cre	5_wt	0.0996	0.3201
+3381	g__Turicibacter	10_cre	7_cre	0.0996	0.3201
+3382	g__Turicibacter	10_cre	7_wt	0.0996	0.3201
+3383	g__Turicibacter	10_cre	9_cre	1	1
+3384	g__Turicibacter	10_cre	9_wt	0.0996	0.3201
+3385	g__Turicibacter	10_wt	12_cre	1	1
+3386	g__Turicibacter	10_wt	12_wt	1	1
+3387	g__Turicibacter	10_wt	5_cre	1	1
+3388	g__Turicibacter	10_wt	5_wt	1	1
+3389	g__Turicibacter	10_wt	7_cre	1	1
+3390	g__Turicibacter	10_wt	7_wt	1	1
+3391	g__Turicibacter	10_wt	9_cre	0.3295	0.9267
+3392	g__Turicibacter	10_wt	9_wt	1	1
+3393	g__Turicibacter	12_cre	12_wt	1	1
+3394	g__Turicibacter	12_cre	5_cre	1	1
+3395	g__Turicibacter	12_cre	5_wt	1	1
+3396	g__Turicibacter	12_cre	7_cre	1	1
+3397	g__Turicibacter	12_cre	7_wt	1	1
+3398	g__Turicibacter	12_cre	9_cre	0.0996	0.3201
+3399	g__Turicibacter	12_cre	9_wt	1	1
+3400	g__Turicibacter	12_wt	5_cre	1	1
+3401	g__Turicibacter	12_wt	5_wt	1	1
+3402	g__Turicibacter	12_wt	7_cre	1	1
+3403	g__Turicibacter	12_wt	7_wt	1	1
+3404	g__Turicibacter	12_wt	9_cre	0.0996	0.3201
+3405	g__Turicibacter	12_wt	9_wt	1	1
+3406	g__Turicibacter	5_cre	5_wt	1	1
+3407	g__Turicibacter	5_cre	7_cre	1	1
+3408	g__Turicibacter	5_cre	7_wt	1	1
+3409	g__Turicibacter	5_cre	9_cre	0.0996	0.3201
+3410	g__Turicibacter	5_cre	9_wt	1	1
+3411	g__Turicibacter	5_wt	7_cre	1	1
+3412	g__Turicibacter	5_wt	7_wt	1	1
+3413	g__Turicibacter	5_wt	9_cre	0.0996	0.3201
+3414	g__Turicibacter	5_wt	9_wt	1	1
+3415	g__Turicibacter	7_cre	7_wt	1	1
+3416	g__Turicibacter	7_cre	9_cre	0.0996	0.3201
+3417	g__Turicibacter	7_cre	9_wt	1	1
+3418	g__Turicibacter	7_wt	9_cre	0.0996	0.3201
+3419	g__Turicibacter	7_wt	9_wt	1	1
+3420	g__Turicibacter	9_cre	9_wt	0.0996	0.3201
+3421	g__unknown_ Alphaproteobacteria	10_cre	10_wt	0.3295	1
+3422	g__unknown_ Alphaproteobacteria	10_cre	12_cre	0.6513	1
+3423	g__unknown_ Alphaproteobacteria	10_cre	12_wt	0.0996	1
+3424	g__unknown_ Alphaproteobacteria	10_cre	5_cre	0.3295	1
+3425	g__unknown_ Alphaproteobacteria	10_cre	5_wt	0.3295	1
+3426	g__unknown_ Alphaproteobacteria	10_cre	7_cre	1	1
+3427	g__unknown_ Alphaproteobacteria	10_cre	7_wt	0.3295	1
+3428	g__unknown_ Alphaproteobacteria	10_cre	9_cre	1	1
+3429	g__unknown_ Alphaproteobacteria	10_cre	9_wt	1	1
+3430	g__unknown_ Alphaproteobacteria	10_wt	12_cre	1	1
+3431	g__unknown_ Alphaproteobacteria	10_wt	12_wt	1	1
+3432	g__unknown_ Alphaproteobacteria	10_wt	5_cre	1	1
+3433	g__unknown_ Alphaproteobacteria	10_wt	5_wt	1	1
+3434	g__unknown_ Alphaproteobacteria	10_wt	7_cre	0.5977	1
+3435	g__unknown_ Alphaproteobacteria	10_wt	7_wt	1	1
+3436	g__unknown_ Alphaproteobacteria	10_wt	9_cre	0.3295	1
+3437	g__unknown_ Alphaproteobacteria	10_wt	9_wt	0.5977	1
+3438	g__unknown_ Alphaproteobacteria	12_cre	12_wt	0.4828	1
+3439	g__unknown_ Alphaproteobacteria	12_cre	5_cre	1	1
+3440	g__unknown_ Alphaproteobacteria	12_cre	5_wt	1	1
+3441	g__unknown_ Alphaproteobacteria	12_cre	7_cre	1	1
+3442	g__unknown_ Alphaproteobacteria	12_cre	7_wt	1	1
+3443	g__unknown_ Alphaproteobacteria	12_cre	9_cre	0.6513	1
+3444	g__unknown_ Alphaproteobacteria	12_cre	9_wt	1	1
+3445	g__unknown_ Alphaproteobacteria	12_wt	5_cre	1	1
+3446	g__unknown_ Alphaproteobacteria	12_wt	5_wt	1	1
+3447	g__unknown_ Alphaproteobacteria	12_wt	7_cre	0.2241	1
+3448	g__unknown_ Alphaproteobacteria	12_wt	7_wt	1	1
+3449	g__unknown_ Alphaproteobacteria	12_wt	9_cre	0.0996	1
+3450	g__unknown_ Alphaproteobacteria	12_wt	9_wt	0.2241	1
+3451	g__unknown_ Alphaproteobacteria	5_cre	5_wt	1	1
+3452	g__unknown_ Alphaproteobacteria	5_cre	7_cre	0.5977	1
+3453	g__unknown_ Alphaproteobacteria	5_cre	7_wt	1	1
+3454	g__unknown_ Alphaproteobacteria	5_cre	9_cre	0.3295	1
+3455	g__unknown_ Alphaproteobacteria	5_cre	9_wt	0.5977	1
+3456	g__unknown_ Alphaproteobacteria	5_wt	7_cre	0.5977	1
+3457	g__unknown_ Alphaproteobacteria	5_wt	7_wt	1	1
+3458	g__unknown_ Alphaproteobacteria	5_wt	9_cre	0.3295	1
+3459	g__unknown_ Alphaproteobacteria	5_wt	9_wt	0.5977	1
+3460	g__unknown_ Alphaproteobacteria	7_cre	7_wt	0.5977	1
+3461	g__unknown_ Alphaproteobacteria	7_cre	9_cre	1	1
+3462	g__unknown_ Alphaproteobacteria	7_cre	9_wt	1	1
+3463	g__unknown_ Alphaproteobacteria	7_wt	9_cre	0.3295	1
+3464	g__unknown_ Alphaproteobacteria	7_wt	9_wt	0.5977	1
+3465	g__unknown_ Alphaproteobacteria	9_cre	9_wt	1	1
+3466	g__unknown_ Bacteria	10_cre	10_wt	0.6817	1
+3467	g__unknown_ Bacteria	10_cre	12_cre	1	1
+3468	g__unknown_ Bacteria	10_cre	12_wt	0.3898	1
+3469	g__unknown_ Bacteria	10_cre	5_cre	0.3898	1
+3470	g__unknown_ Bacteria	10_cre	5_wt	0.6817	1
+3471	g__unknown_ Bacteria	10_cre	7_cre	0.3898	1
+3472	g__unknown_ Bacteria	10_cre	7_wt	0.1686	1
+3473	g__unknown_ Bacteria	10_cre	9_cre	1	1
+3474	g__unknown_ Bacteria	10_cre	9_wt	0.6817	1
+3475	g__unknown_ Bacteria	10_wt	12_cre	1	1
+3476	g__unknown_ Bacteria	10_wt	12_wt	1	1
+3477	g__unknown_ Bacteria	10_wt	5_cre	1	1
+3478	g__unknown_ Bacteria	10_wt	5_wt	1	1
+3479	g__unknown_ Bacteria	10_wt	7_cre	1	1
+3480	g__unknown_ Bacteria	10_wt	7_wt	0.5977	1
+3481	g__unknown_ Bacteria	10_wt	9_cre	0.427	1
+3482	g__unknown_ Bacteria	10_wt	9_wt	1	1
+3483	g__unknown_ Bacteria	12_cre	12_wt	0.6513	1
+3484	g__unknown_ Bacteria	12_cre	5_cre	0.6513	1
+3485	g__unknown_ Bacteria	12_cre	5_wt	1	1
+3486	g__unknown_ Bacteria	12_cre	7_cre	0.6513	1
+3487	g__unknown_ Bacteria	12_cre	7_wt	0.3295	1
+3488	g__unknown_ Bacteria	12_cre	9_cre	0.6999	1
+3489	g__unknown_ Bacteria	12_cre	9_wt	1	1
+3490	g__unknown_ Bacteria	12_wt	5_cre	1	1
+3491	g__unknown_ Bacteria	12_wt	5_wt	1	1
+3492	g__unknown_ Bacteria	12_wt	7_cre	1	1
+3493	g__unknown_ Bacteria	12_wt	7_wt	1	1
+3494	g__unknown_ Bacteria	12_wt	9_cre	0.2148	1
+3495	g__unknown_ Bacteria	12_wt	9_wt	1	1
+3496	g__unknown_ Bacteria	5_cre	5_wt	1	1
+3497	g__unknown_ Bacteria	5_cre	7_cre	1	1
+3498	g__unknown_ Bacteria	5_cre	7_wt	1	1
+3499	g__unknown_ Bacteria	5_cre	9_cre	0.2148	1
+3500	g__unknown_ Bacteria	5_cre	9_wt	1	1
+3501	g__unknown_ Bacteria	5_wt	7_cre	1	1
+3502	g__unknown_ Bacteria	5_wt	7_wt	0.5977	1
+3503	g__unknown_ Bacteria	5_wt	9_cre	0.427	1
+3504	g__unknown_ Bacteria	5_wt	9_wt	1	1
+3505	g__unknown_ Bacteria	7_cre	7_wt	1	1
+3506	g__unknown_ Bacteria	7_cre	9_cre	0.2148	1
+3507	g__unknown_ Bacteria	7_cre	9_wt	1	1
+3508	g__unknown_ Bacteria	7_wt	9_cre	0.0801	1
+3509	g__unknown_ Bacteria	7_wt	9_wt	0.5977	1
+3510	g__unknown_ Bacteria	9_cre	9_wt	0.427	1
+3511	g__unknown_ Bacteroidales	10_cre	10_wt	0.1281	1
+3512	g__unknown_ Bacteroidales	10_cre	12_cre	0.4621	1
+3513	g__unknown_ Bacteroidales	10_cre	12_wt	0.7152	1
+3514	g__unknown_ Bacteroidales	10_cre	5_cre	1	1
+3515	g__unknown_ Bacteroidales	10_cre	5_wt	1	1
+3516	g__unknown_ Bacteroidales	10_cre	7_cre	1	1
+3517	g__unknown_ Bacteroidales	10_cre	7_wt	0.4621	1
+3518	g__unknown_ Bacteroidales	10_cre	9_cre	1	1
+3519	g__unknown_ Bacteroidales	10_cre	9_wt	1	1
+3520	g__unknown_ Bacteroidales	10_wt	12_cre	0.6817	1
+3521	g__unknown_ Bacteroidales	10_wt	12_wt	0.427	1
+3522	g__unknown_ Bacteroidales	10_wt	5_cre	0.1281	1
+3523	g__unknown_ Bacteroidales	10_wt	5_wt	0.2451	1
+3524	g__unknown_ Bacteroidales	10_wt	7_cre	0.1281	1
+3525	g__unknown_ Bacteroidales	10_wt	7_wt	0.6817	1
+3526	g__unknown_ Bacteroidales	10_wt	9_cre	0.1281	1
+3527	g__unknown_ Bacteroidales	10_wt	9_wt	0.2451	1
+3528	g__unknown_ Bacteroidales	12_cre	12_wt	1	1
+3529	g__unknown_ Bacteroidales	12_cre	5_cre	0.4621	1
+3530	g__unknown_ Bacteroidales	12_cre	5_wt	0.7104	1
+3531	g__unknown_ Bacteroidales	12_cre	7_cre	0.4621	1
+3532	g__unknown_ Bacteroidales	12_cre	7_wt	1	1
+3533	g__unknown_ Bacteroidales	12_cre	9_cre	0.4621	1
+3534	g__unknown_ Bacteroidales	12_cre	9_wt	0.7104	1
+3535	g__unknown_ Bacteroidales	12_wt	5_cre	0.7152	1
+3536	g__unknown_ Bacteroidales	12_wt	5_wt	1	1
+3537	g__unknown_ Bacteroidales	12_wt	7_cre	0.7152	1
+3538	g__unknown_ Bacteroidales	12_wt	7_wt	1	1
+3539	g__unknown_ Bacteroidales	12_wt	9_cre	0.7152	1
+3540	g__unknown_ Bacteroidales	12_wt	9_wt	1	1
+3541	g__unknown_ Bacteroidales	5_cre	5_wt	1	1
+3542	g__unknown_ Bacteroidales	5_cre	7_cre	1	1
+3543	g__unknown_ Bacteroidales	5_cre	7_wt	0.4621	1
+3544	g__unknown_ Bacteroidales	5_cre	9_cre	1	1
+3545	g__unknown_ Bacteroidales	5_cre	9_wt	1	1
+3546	g__unknown_ Bacteroidales	5_wt	7_cre	1	1
+3547	g__unknown_ Bacteroidales	5_wt	7_wt	0.7104	1
+3548	g__unknown_ Bacteroidales	5_wt	9_cre	1	1
+3549	g__unknown_ Bacteroidales	5_wt	9_wt	1	1
+3550	g__unknown_ Bacteroidales	7_cre	7_wt	0.4621	1
+3551	g__unknown_ Bacteroidales	7_cre	9_cre	1	1
+3552	g__unknown_ Bacteroidales	7_cre	9_wt	1	1
+3553	g__unknown_ Bacteroidales	7_wt	9_cre	0.4621	1
+3554	g__unknown_ Bacteroidales	7_wt	9_wt	0.7104	1
+3555	g__unknown_ Bacteroidales	9_cre	9_wt	1	1
+3556	g__unknown_ Bacteroidetes	10_cre	10_wt	0.2451	1
+3557	g__unknown_ Bacteroidetes	10_cre	12_cre	0.7104	1
+3558	g__unknown_ Bacteroidetes	10_cre	12_wt	1	1
+3559	g__unknown_ Bacteroidetes	10_cre	5_cre	1	1
+3560	g__unknown_ Bacteroidetes	10_cre	5_wt	1	1
+3561	g__unknown_ Bacteroidetes	10_cre	7_cre	1	1
+3562	g__unknown_ Bacteroidetes	10_cre	7_wt	0.4497	1
+3563	g__unknown_ Bacteroidetes	10_cre	9_cre	1	1
+3564	g__unknown_ Bacteroidetes	10_cre	9_wt	1	1
+3565	g__unknown_ Bacteroidetes	10_wt	12_cre	0.6817	1
+3566	g__unknown_ Bacteroidetes	10_wt	12_wt	0.427	1
+3567	g__unknown_ Bacteroidetes	10_wt	5_cre	0.1281	1
+3568	g__unknown_ Bacteroidetes	10_wt	5_wt	0.2451	1
+3569	g__unknown_ Bacteroidetes	10_wt	7_cre	0.2451	1
+3570	g__unknown_ Bacteroidetes	10_wt	7_wt	1	1
+3571	g__unknown_ Bacteroidetes	10_wt	9_cre	0.2451	1
+3572	g__unknown_ Bacteroidetes	10_wt	9_wt	0.2451	1
+3573	g__unknown_ Bacteroidetes	12_cre	12_wt	1	1
+3574	g__unknown_ Bacteroidetes	12_cre	5_cre	0.4621	1
+3575	g__unknown_ Bacteroidetes	12_cre	5_wt	0.7104	1
+3576	g__unknown_ Bacteroidetes	12_cre	7_cre	0.7104	1
+3577	g__unknown_ Bacteroidetes	12_cre	7_wt	1	1
+3578	g__unknown_ Bacteroidetes	12_cre	9_cre	0.7104	1
+3579	g__unknown_ Bacteroidetes	12_cre	9_wt	0.7104	1
+3580	g__unknown_ Bacteroidetes	12_wt	5_cre	0.7152	1
+3581	g__unknown_ Bacteroidetes	12_wt	5_wt	1	1
+3582	g__unknown_ Bacteroidetes	12_wt	7_cre	1	1
+3583	g__unknown_ Bacteroidetes	12_wt	7_wt	0.6999	1
+3584	g__unknown_ Bacteroidetes	12_wt	9_cre	1	1
+3585	g__unknown_ Bacteroidetes	12_wt	9_wt	1	1
+3586	g__unknown_ Bacteroidetes	5_cre	5_wt	1	1
+3587	g__unknown_ Bacteroidetes	5_cre	7_cre	1	1
+3588	g__unknown_ Bacteroidetes	5_cre	7_wt	0.2635	1
+3589	g__unknown_ Bacteroidetes	5_cre	9_cre	1	1
+3590	g__unknown_ Bacteroidetes	5_cre	9_wt	1	1
+3591	g__unknown_ Bacteroidetes	5_wt	7_cre	1	1
+3592	g__unknown_ Bacteroidetes	5_wt	7_wt	0.4497	1
+3593	g__unknown_ Bacteroidetes	5_wt	9_cre	1	1
+3594	g__unknown_ Bacteroidetes	5_wt	9_wt	1	1
+3595	g__unknown_ Bacteroidetes	7_cre	7_wt	0.4497	1
+3596	g__unknown_ Bacteroidetes	7_cre	9_cre	1	1
+3597	g__unknown_ Bacteroidetes	7_cre	9_wt	1	1
+3598	g__unknown_ Bacteroidetes	7_wt	9_cre	0.4497	1
+3599	g__unknown_ Bacteroidetes	7_wt	9_wt	0.4497	1
+3600	g__unknown_ Bacteroidetes	9_cre	9_wt	1	1
+3601	g__unknown_ Clostridiales	10_cre	10_wt	0.1281	1
+3602	g__unknown_ Clostridiales	10_cre	12_cre	0.4621	1
+3603	g__unknown_ Clostridiales	10_cre	12_wt	0.7152	1
+3604	g__unknown_ Clostridiales	10_cre	5_cre	1	1
+3605	g__unknown_ Clostridiales	10_cre	5_wt	1	1
+3606	g__unknown_ Clostridiales	10_cre	7_cre	1	1
+3607	g__unknown_ Clostridiales	10_cre	7_wt	0.4621	1
+3608	g__unknown_ Clostridiales	10_cre	9_cre	1	1
+3609	g__unknown_ Clostridiales	10_cre	9_wt	1	1
+3610	g__unknown_ Clostridiales	10_wt	12_cre	0.6817	1
+3611	g__unknown_ Clostridiales	10_wt	12_wt	0.427	1
+3612	g__unknown_ Clostridiales	10_wt	5_cre	0.1281	1
+3613	g__unknown_ Clostridiales	10_wt	5_wt	0.2451	1
+3614	g__unknown_ Clostridiales	10_wt	7_cre	0.1281	1
+3615	g__unknown_ Clostridiales	10_wt	7_wt	0.6817	1
+3616	g__unknown_ Clostridiales	10_wt	9_cre	0.1281	1
+3617	g__unknown_ Clostridiales	10_wt	9_wt	0.2451	1
+3618	g__unknown_ Clostridiales	12_cre	12_wt	1	1
+3619	g__unknown_ Clostridiales	12_cre	5_cre	0.4621	1
+3620	g__unknown_ Clostridiales	12_cre	5_wt	0.7104	1
+3621	g__unknown_ Clostridiales	12_cre	7_cre	0.4621	1
+3622	g__unknown_ Clostridiales	12_cre	7_wt	1	1
+3623	g__unknown_ Clostridiales	12_cre	9_cre	0.4621	1
+3624	g__unknown_ Clostridiales	12_cre	9_wt	0.7104	1
+3625	g__unknown_ Clostridiales	12_wt	5_cre	0.7152	1
+3626	g__unknown_ Clostridiales	12_wt	5_wt	1	1
+3627	g__unknown_ Clostridiales	12_wt	7_cre	0.7152	1
+3628	g__unknown_ Clostridiales	12_wt	7_wt	1	1
+3629	g__unknown_ Clostridiales	12_wt	9_cre	0.7152	1
+3630	g__unknown_ Clostridiales	12_wt	9_wt	1	1
+3631	g__unknown_ Clostridiales	5_cre	5_wt	1	1
+3632	g__unknown_ Clostridiales	5_cre	7_cre	1	1
+3633	g__unknown_ Clostridiales	5_cre	7_wt	0.4621	1
+3634	g__unknown_ Clostridiales	5_cre	9_cre	1	1
+3635	g__unknown_ Clostridiales	5_cre	9_wt	1	1
+3636	g__unknown_ Clostridiales	5_wt	7_cre	1	1
+3637	g__unknown_ Clostridiales	5_wt	7_wt	0.7104	1
+3638	g__unknown_ Clostridiales	5_wt	9_cre	1	1
+3639	g__unknown_ Clostridiales	5_wt	9_wt	1	1
+3640	g__unknown_ Clostridiales	7_cre	7_wt	0.4621	1
+3641	g__unknown_ Clostridiales	7_cre	9_cre	1	1
+3642	g__unknown_ Clostridiales	7_cre	9_wt	1	1
+3643	g__unknown_ Clostridiales	7_wt	9_cre	0.4621	1
+3644	g__unknown_ Clostridiales	7_wt	9_wt	0.7104	1
+3645	g__unknown_ Clostridiales	9_cre	9_wt	1	1
+3646	g__unknown_ Deltaproteobacteria	10_cre	10_wt	0.3295	0.7414
+3647	g__unknown_ Deltaproteobacteria	10_cre	12_cre	1	1
+3648	g__unknown_ Deltaproteobacteria	10_cre	12_wt	0.3295	0.7414
+3649	g__unknown_ Deltaproteobacteria	10_cre	5_cre	0.3295	0.7414
+3650	g__unknown_ Deltaproteobacteria	10_cre	5_wt	0.6513	1
+3651	g__unknown_ Deltaproteobacteria	10_cre	7_cre	0.6999	1
+3652	g__unknown_ Deltaproteobacteria	10_cre	7_wt	0.6513	1
+3653	g__unknown_ Deltaproteobacteria	10_cre	9_cre	0.6999	1
+3654	g__unknown_ Deltaproteobacteria	10_cre	9_wt	0.0996	0.4482
+3655	g__unknown_ Deltaproteobacteria	10_wt	12_cre	0.3295	0.7414
+3656	g__unknown_ Deltaproteobacteria	10_wt	12_wt	1	1
+3657	g__unknown_ Deltaproteobacteria	10_wt	5_cre	1	1
+3658	g__unknown_ Deltaproteobacteria	10_wt	5_wt	1	1
+3659	g__unknown_ Deltaproteobacteria	10_wt	7_cre	0.0801	0.4482
+3660	g__unknown_ Deltaproteobacteria	10_wt	7_wt	1	1
+3661	g__unknown_ Deltaproteobacteria	10_wt	9_cre	0.0801	0.4482
+3662	g__unknown_ Deltaproteobacteria	10_wt	9_wt	1	1
+3663	g__unknown_ Deltaproteobacteria	12_cre	12_wt	0.3295	0.7414
+3664	g__unknown_ Deltaproteobacteria	12_cre	5_cre	0.3295	0.7414
+3665	g__unknown_ Deltaproteobacteria	12_cre	5_wt	0.6513	1
+3666	g__unknown_ Deltaproteobacteria	12_cre	7_cre	0.6999	1
+3667	g__unknown_ Deltaproteobacteria	12_cre	7_wt	0.6513	1
+3668	g__unknown_ Deltaproteobacteria	12_cre	9_cre	0.6999	1
+3669	g__unknown_ Deltaproteobacteria	12_cre	9_wt	0.0996	0.4482
+3670	g__unknown_ Deltaproteobacteria	12_wt	5_cre	1	1
+3671	g__unknown_ Deltaproteobacteria	12_wt	5_wt	1	1
+3672	g__unknown_ Deltaproteobacteria	12_wt	7_cre	0.0801	0.4482
+3673	g__unknown_ Deltaproteobacteria	12_wt	7_wt	1	1
+3674	g__unknown_ Deltaproteobacteria	12_wt	9_cre	0.0801	0.4482
+3675	g__unknown_ Deltaproteobacteria	12_wt	9_wt	1	1
+3676	g__unknown_ Deltaproteobacteria	5_cre	5_wt	1	1
+3677	g__unknown_ Deltaproteobacteria	5_cre	7_cre	0.0801	0.4482
+3678	g__unknown_ Deltaproteobacteria	5_cre	7_wt	1	1
+3679	g__unknown_ Deltaproteobacteria	5_cre	9_cre	0.0801	0.4482
+3680	g__unknown_ Deltaproteobacteria	5_cre	9_wt	1	1
+3681	g__unknown_ Deltaproteobacteria	5_wt	7_cre	0.2148	0.6904
+3682	g__unknown_ Deltaproteobacteria	5_wt	7_wt	1	1
+3683	g__unknown_ Deltaproteobacteria	5_wt	9_cre	0.2148	0.6904
+3684	g__unknown_ Deltaproteobacteria	5_wt	9_wt	0.4828	0.9875
+3685	g__unknown_ Deltaproteobacteria	7_cre	7_wt	0.2148	0.6904
+3686	g__unknown_ Deltaproteobacteria	7_cre	9_cre	1	1
+3687	g__unknown_ Deltaproteobacteria	7_cre	9_wt	0.0169	0.3802
+3688	g__unknown_ Deltaproteobacteria	7_wt	9_cre	0.2148	0.6904
+3689	g__unknown_ Deltaproteobacteria	7_wt	9_wt	0.4828	0.9875
+3690	g__unknown_ Deltaproteobacteria	9_cre	9_wt	0.0169	0.3802
+3691	g__unknown_ Desulfovibrionaceae	10_cre	10_wt	1	1
+3692	g__unknown_ Desulfovibrionaceae	10_cre	12_cre	0.5977	1
+3693	g__unknown_ Desulfovibrionaceae	10_cre	12_wt	1	1
+3694	g__unknown_ Desulfovibrionaceae	10_cre	5_cre	0.5977	1
+3695	g__unknown_ Desulfovibrionaceae	10_cre	5_wt	1	1
+3696	g__unknown_ Desulfovibrionaceae	10_cre	7_cre	1	1
+3697	g__unknown_ Desulfovibrionaceae	10_cre	7_wt	0.2241	1
+3698	g__unknown_ Desulfovibrionaceae	10_cre	9_cre	0.2241	1
+3699	g__unknown_ Desulfovibrionaceae	10_cre	9_wt	1	1
+3700	g__unknown_ Desulfovibrionaceae	10_wt	12_cre	0.5977	1
+3701	g__unknown_ Desulfovibrionaceae	10_wt	12_wt	1	1
+3702	g__unknown_ Desulfovibrionaceae	10_wt	5_cre	0.5977	1
+3703	g__unknown_ Desulfovibrionaceae	10_wt	5_wt	1	1
+3704	g__unknown_ Desulfovibrionaceae	10_wt	7_cre	1	1
+3705	g__unknown_ Desulfovibrionaceae	10_wt	7_wt	0.2241	1
+3706	g__unknown_ Desulfovibrionaceae	10_wt	9_cre	0.2241	1
+3707	g__unknown_ Desulfovibrionaceae	10_wt	9_wt	1	1
+3708	g__unknown_ Desulfovibrionaceae	12_cre	12_wt	0.3295	1
+3709	g__unknown_ Desulfovibrionaceae	12_cre	5_cre	1	1
+3710	g__unknown_ Desulfovibrionaceae	12_cre	5_wt	1	1
+3711	g__unknown_ Desulfovibrionaceae	12_cre	7_cre	0.5977	1
+3712	g__unknown_ Desulfovibrionaceae	12_cre	7_wt	1	1
+3713	g__unknown_ Desulfovibrionaceae	12_cre	9_cre	1	1
+3714	g__unknown_ Desulfovibrionaceae	12_cre	9_wt	0.5977	1
+3715	g__unknown_ Desulfovibrionaceae	12_wt	5_cre	0.3295	1
+3716	g__unknown_ Desulfovibrionaceae	12_wt	5_wt	0.6513	1
+3717	g__unknown_ Desulfovibrionaceae	12_wt	7_cre	1	1
+3718	g__unknown_ Desulfovibrionaceae	12_wt	7_wt	0.0996	1
+3719	g__unknown_ Desulfovibrionaceae	12_wt	9_cre	0.0996	1
+3720	g__unknown_ Desulfovibrionaceae	12_wt	9_wt	1	1
+3721	g__unknown_ Desulfovibrionaceae	5_cre	5_wt	1	1
+3722	g__unknown_ Desulfovibrionaceae	5_cre	7_cre	0.5977	1
+3723	g__unknown_ Desulfovibrionaceae	5_cre	7_wt	1	1
+3724	g__unknown_ Desulfovibrionaceae	5_cre	9_cre	1	1
+3725	g__unknown_ Desulfovibrionaceae	5_cre	9_wt	0.5977	1
+3726	g__unknown_ Desulfovibrionaceae	5_wt	7_cre	1	1
+3727	g__unknown_ Desulfovibrionaceae	5_wt	7_wt	0.4828	1
+3728	g__unknown_ Desulfovibrionaceae	5_wt	9_cre	0.4828	1
+3729	g__unknown_ Desulfovibrionaceae	5_wt	9_wt	1	1
+3730	g__unknown_ Desulfovibrionaceae	7_cre	7_wt	0.2241	1
+3731	g__unknown_ Desulfovibrionaceae	7_cre	9_cre	0.2241	1
+3732	g__unknown_ Desulfovibrionaceae	7_cre	9_wt	1	1
+3733	g__unknown_ Desulfovibrionaceae	7_wt	9_cre	1	1
+3734	g__unknown_ Desulfovibrionaceae	7_wt	9_wt	0.2241	1
+3735	g__unknown_ Desulfovibrionaceae	9_cre	9_wt	0.2241	1
+3736	g__unknown_ Firmicutes	10_cre	10_wt	0.3898	1
+3737	g__unknown_ Firmicutes	10_cre	12_cre	1	1
+3738	g__unknown_ Firmicutes	10_cre	12_wt	1	1
+3739	g__unknown_ Firmicutes	10_cre	5_cre	0.4621	1
+3740	g__unknown_ Firmicutes	10_cre	5_wt	1	1
+3741	g__unknown_ Firmicutes	10_cre	7_cre	1	1
+3742	g__unknown_ Firmicutes	10_cre	7_wt	1	1
+3743	g__unknown_ Firmicutes	10_cre	9_cre	1	1
+3744	g__unknown_ Firmicutes	10_cre	9_wt	1	1
+3745	g__unknown_ Firmicutes	10_wt	12_cre	0.6513	1
+3746	g__unknown_ Firmicutes	10_wt	12_wt	0.2148	1
+3747	g__unknown_ Firmicutes	10_wt	5_cre	0.0502	1
+3748	g__unknown_ Firmicutes	10_wt	5_wt	0.2148	1
+3749	g__unknown_ Firmicutes	10_wt	7_cre	0.6513	1
+3750	g__unknown_ Firmicutes	10_wt	7_wt	0.3898	1
+3751	g__unknown_ Firmicutes	10_wt	9_cre	0.2148	1
+3752	g__unknown_ Firmicutes	10_wt	9_wt	0.2148	1
+3753	g__unknown_ Firmicutes	12_cre	12_wt	0.6999	1
+3754	g__unknown_ Firmicutes	12_cre	5_cre	0.2635	1
+3755	g__unknown_ Firmicutes	12_cre	5_wt	0.6999	1
+3756	g__unknown_ Firmicutes	12_cre	7_cre	1	1
+3757	g__unknown_ Firmicutes	12_cre	7_wt	1	1
+3758	g__unknown_ Firmicutes	12_cre	9_cre	0.6999	1
+3759	g__unknown_ Firmicutes	12_cre	9_wt	0.6999	1
+3760	g__unknown_ Firmicutes	12_wt	5_cre	0.7152	1
+3761	g__unknown_ Firmicutes	12_wt	5_wt	1	1
+3762	g__unknown_ Firmicutes	12_wt	7_cre	0.6999	1
+3763	g__unknown_ Firmicutes	12_wt	7_wt	1	1
+3764	g__unknown_ Firmicutes	12_wt	9_cre	1	1
+3765	g__unknown_ Firmicutes	12_wt	9_wt	1	1
+3766	g__unknown_ Firmicutes	5_cre	5_wt	0.7152	1
+3767	g__unknown_ Firmicutes	5_cre	7_cre	0.2635	1
+3768	g__unknown_ Firmicutes	5_cre	7_wt	0.4621	1
+3769	g__unknown_ Firmicutes	5_cre	9_cre	0.7152	1
+3770	g__unknown_ Firmicutes	5_cre	9_wt	0.7152	1
+3771	g__unknown_ Firmicutes	5_wt	7_cre	0.6999	1
+3772	g__unknown_ Firmicutes	5_wt	7_wt	1	1
+3773	g__unknown_ Firmicutes	5_wt	9_cre	1	1
+3774	g__unknown_ Firmicutes	5_wt	9_wt	1	1
+3775	g__unknown_ Firmicutes	7_cre	7_wt	1	1
+3776	g__unknown_ Firmicutes	7_cre	9_cre	0.6999	1
+3777	g__unknown_ Firmicutes	7_cre	9_wt	0.6999	1
+3778	g__unknown_ Firmicutes	7_wt	9_cre	1	1
+3779	g__unknown_ Firmicutes	7_wt	9_wt	1	1
+3780	g__unknown_ Firmicutes	9_cre	9_wt	1	1
+3781	g__unknown_ Lachnospiraceae	10_cre	10_wt	0.1281	1
+3782	g__unknown_ Lachnospiraceae	10_cre	12_cre	0.4621	1
+3783	g__unknown_ Lachnospiraceae	10_cre	12_wt	0.7152	1
+3784	g__unknown_ Lachnospiraceae	10_cre	5_cre	1	1
+3785	g__unknown_ Lachnospiraceae	10_cre	5_wt	1	1
+3786	g__unknown_ Lachnospiraceae	10_cre	7_cre	1	1
+3787	g__unknown_ Lachnospiraceae	10_cre	7_wt	0.4621	1
+3788	g__unknown_ Lachnospiraceae	10_cre	9_cre	1	1
+3789	g__unknown_ Lachnospiraceae	10_cre	9_wt	1	1
+3790	g__unknown_ Lachnospiraceae	10_wt	12_cre	0.6817	1
+3791	g__unknown_ Lachnospiraceae	10_wt	12_wt	0.427	1
+3792	g__unknown_ Lachnospiraceae	10_wt	5_cre	0.1281	1
+3793	g__unknown_ Lachnospiraceae	10_wt	5_wt	0.2451	1
+3794	g__unknown_ Lachnospiraceae	10_wt	7_cre	0.1281	1
+3795	g__unknown_ Lachnospiraceae	10_wt	7_wt	0.6817	1
+3796	g__unknown_ Lachnospiraceae	10_wt	9_cre	0.1281	1
+3797	g__unknown_ Lachnospiraceae	10_wt	9_wt	0.2451	1
+3798	g__unknown_ Lachnospiraceae	12_cre	12_wt	1	1
+3799	g__unknown_ Lachnospiraceae	12_cre	5_cre	0.4621	1
+3800	g__unknown_ Lachnospiraceae	12_cre	5_wt	0.7104	1
+3801	g__unknown_ Lachnospiraceae	12_cre	7_cre	0.4621	1
+3802	g__unknown_ Lachnospiraceae	12_cre	7_wt	1	1
+3803	g__unknown_ Lachnospiraceae	12_cre	9_cre	0.4621	1
+3804	g__unknown_ Lachnospiraceae	12_cre	9_wt	0.7104	1
+3805	g__unknown_ Lachnospiraceae	12_wt	5_cre	0.7152	1
+3806	g__unknown_ Lachnospiraceae	12_wt	5_wt	1	1
+3807	g__unknown_ Lachnospiraceae	12_wt	7_cre	0.7152	1
+3808	g__unknown_ Lachnospiraceae	12_wt	7_wt	1	1
+3809	g__unknown_ Lachnospiraceae	12_wt	9_cre	0.7152	1
+3810	g__unknown_ Lachnospiraceae	12_wt	9_wt	1	1
+3811	g__unknown_ Lachnospiraceae	5_cre	5_wt	1	1
+3812	g__unknown_ Lachnospiraceae	5_cre	7_cre	1	1
+3813	g__unknown_ Lachnospiraceae	5_cre	7_wt	0.4621	1
+3814	g__unknown_ Lachnospiraceae	5_cre	9_cre	1	1
+3815	g__unknown_ Lachnospiraceae	5_cre	9_wt	1	1
+3816	g__unknown_ Lachnospiraceae	5_wt	7_cre	1	1
+3817	g__unknown_ Lachnospiraceae	5_wt	7_wt	0.7104	1
+3818	g__unknown_ Lachnospiraceae	5_wt	9_cre	1	1
+3819	g__unknown_ Lachnospiraceae	5_wt	9_wt	1	1
+3820	g__unknown_ Lachnospiraceae	7_cre	7_wt	0.4621	1
+3821	g__unknown_ Lachnospiraceae	7_cre	9_cre	1	1
+3822	g__unknown_ Lachnospiraceae	7_cre	9_wt	1	1
+3823	g__unknown_ Lachnospiraceae	7_wt	9_cre	0.4621	1
+3824	g__unknown_ Lachnospiraceae	7_wt	9_wt	0.7104	1
+3825	g__unknown_ Lachnospiraceae	9_cre	9_wt	1	1
+3826	g__unknown_ Porphyromonadaceae	10_cre	10_wt	0.1281	1
+3827	g__unknown_ Porphyromonadaceae	10_cre	12_cre	0.4621	1
+3828	g__unknown_ Porphyromonadaceae	10_cre	12_wt	0.7152	1
+3829	g__unknown_ Porphyromonadaceae	10_cre	5_cre	1	1
+3830	g__unknown_ Porphyromonadaceae	10_cre	5_wt	1	1
+3831	g__unknown_ Porphyromonadaceae	10_cre	7_cre	1	1
+3832	g__unknown_ Porphyromonadaceae	10_cre	7_wt	0.4621	1
+3833	g__unknown_ Porphyromonadaceae	10_cre	9_cre	1	1
+3834	g__unknown_ Porphyromonadaceae	10_cre	9_wt	1	1
+3835	g__unknown_ Porphyromonadaceae	10_wt	12_cre	0.6817	1
+3836	g__unknown_ Porphyromonadaceae	10_wt	12_wt	0.427	1
+3837	g__unknown_ Porphyromonadaceae	10_wt	5_cre	0.1281	1
+3838	g__unknown_ Porphyromonadaceae	10_wt	5_wt	0.2451	1
+3839	g__unknown_ Porphyromonadaceae	10_wt	7_cre	0.1281	1
+3840	g__unknown_ Porphyromonadaceae	10_wt	7_wt	0.6817	1
+3841	g__unknown_ Porphyromonadaceae	10_wt	9_cre	0.1281	1
+3842	g__unknown_ Porphyromonadaceae	10_wt	9_wt	0.2451	1
+3843	g__unknown_ Porphyromonadaceae	12_cre	12_wt	1	1
+3844	g__unknown_ Porphyromonadaceae	12_cre	5_cre	0.4621	1
+3845	g__unknown_ Porphyromonadaceae	12_cre	5_wt	0.7104	1
+3846	g__unknown_ Porphyromonadaceae	12_cre	7_cre	0.4621	1
+3847	g__unknown_ Porphyromonadaceae	12_cre	7_wt	1	1
+3848	g__unknown_ Porphyromonadaceae	12_cre	9_cre	0.4621	1
+3849	g__unknown_ Porphyromonadaceae	12_cre	9_wt	0.7104	1
+3850	g__unknown_ Porphyromonadaceae	12_wt	5_cre	0.7152	1
+3851	g__unknown_ Porphyromonadaceae	12_wt	5_wt	1	1
+3852	g__unknown_ Porphyromonadaceae	12_wt	7_cre	0.7152	1
+3853	g__unknown_ Porphyromonadaceae	12_wt	7_wt	1	1
+3854	g__unknown_ Porphyromonadaceae	12_wt	9_cre	0.7152	1
+3855	g__unknown_ Porphyromonadaceae	12_wt	9_wt	1	1
+3856	g__unknown_ Porphyromonadaceae	5_cre	5_wt	1	1
+3857	g__unknown_ Porphyromonadaceae	5_cre	7_cre	1	1
+3858	g__unknown_ Porphyromonadaceae	5_cre	7_wt	0.4621	1
+3859	g__unknown_ Porphyromonadaceae	5_cre	9_cre	1	1
+3860	g__unknown_ Porphyromonadaceae	5_cre	9_wt	1	1
+3861	g__unknown_ Porphyromonadaceae	5_wt	7_cre	1	1
+3862	g__unknown_ Porphyromonadaceae	5_wt	7_wt	0.7104	1
+3863	g__unknown_ Porphyromonadaceae	5_wt	9_cre	1	1
+3864	g__unknown_ Porphyromonadaceae	5_wt	9_wt	1	1
+3865	g__unknown_ Porphyromonadaceae	7_cre	7_wt	0.4621	1
+3866	g__unknown_ Porphyromonadaceae	7_cre	9_cre	1	1
+3867	g__unknown_ Porphyromonadaceae	7_cre	9_wt	1	1
+3868	g__unknown_ Porphyromonadaceae	7_wt	9_cre	0.4621	1
+3869	g__unknown_ Porphyromonadaceae	7_wt	9_wt	0.7104	1
+3870	g__unknown_ Porphyromonadaceae	9_cre	9_wt	1	1
+3871	g__unknown_ Ruminococcaceae	10_cre	10_wt	0.1281	1
+3872	g__unknown_ Ruminococcaceae	10_cre	12_cre	0.4621	1
+3873	g__unknown_ Ruminococcaceae	10_cre	12_wt	0.7152	1
+3874	g__unknown_ Ruminococcaceae	10_cre	5_cre	1	1
+3875	g__unknown_ Ruminococcaceae	10_cre	5_wt	1	1
+3876	g__unknown_ Ruminococcaceae	10_cre	7_cre	1	1
+3877	g__unknown_ Ruminococcaceae	10_cre	7_wt	0.4621	1
+3878	g__unknown_ Ruminococcaceae	10_cre	9_cre	1	1
+3879	g__unknown_ Ruminococcaceae	10_cre	9_wt	1	1
+3880	g__unknown_ Ruminococcaceae	10_wt	12_cre	0.6817	1
+3881	g__unknown_ Ruminococcaceae	10_wt	12_wt	0.427	1
+3882	g__unknown_ Ruminococcaceae	10_wt	5_cre	0.1281	1
+3883	g__unknown_ Ruminococcaceae	10_wt	5_wt	0.2451	1
+3884	g__unknown_ Ruminococcaceae	10_wt	7_cre	0.1281	1
+3885	g__unknown_ Ruminococcaceae	10_wt	7_wt	0.6817	1
+3886	g__unknown_ Ruminococcaceae	10_wt	9_cre	0.1281	1
+3887	g__unknown_ Ruminococcaceae	10_wt	9_wt	0.2451	1
+3888	g__unknown_ Ruminococcaceae	12_cre	12_wt	1	1
+3889	g__unknown_ Ruminococcaceae	12_cre	5_cre	0.4621	1
+3890	g__unknown_ Ruminococcaceae	12_cre	5_wt	0.7104	1
+3891	g__unknown_ Ruminococcaceae	12_cre	7_cre	0.4621	1
+3892	g__unknown_ Ruminococcaceae	12_cre	7_wt	1	1
+3893	g__unknown_ Ruminococcaceae	12_cre	9_cre	0.4621	1
+3894	g__unknown_ Ruminococcaceae	12_cre	9_wt	0.7104	1
+3895	g__unknown_ Ruminococcaceae	12_wt	5_cre	0.7152	1
+3896	g__unknown_ Ruminococcaceae	12_wt	5_wt	1	1
+3897	g__unknown_ Ruminococcaceae	12_wt	7_cre	0.7152	1
+3898	g__unknown_ Ruminococcaceae	12_wt	7_wt	1	1
+3899	g__unknown_ Ruminococcaceae	12_wt	9_cre	0.7152	1
+3900	g__unknown_ Ruminococcaceae	12_wt	9_wt	1	1
+3901	g__unknown_ Ruminococcaceae	5_cre	5_wt	1	1
+3902	g__unknown_ Ruminococcaceae	5_cre	7_cre	1	1
+3903	g__unknown_ Ruminococcaceae	5_cre	7_wt	0.4621	1
+3904	g__unknown_ Ruminococcaceae	5_cre	9_cre	1	1
+3905	g__unknown_ Ruminococcaceae	5_cre	9_wt	1	1
+3906	g__unknown_ Ruminococcaceae	5_wt	7_cre	1	1
+3907	g__unknown_ Ruminococcaceae	5_wt	7_wt	0.7104	1
+3908	g__unknown_ Ruminococcaceae	5_wt	9_cre	1	1
+3909	g__unknown_ Ruminococcaceae	5_wt	9_wt	1	1
+3910	g__unknown_ Ruminococcaceae	7_cre	7_wt	0.4621	1
+3911	g__unknown_ Ruminococcaceae	7_cre	9_cre	1	1
+3912	g__unknown_ Ruminococcaceae	7_cre	9_wt	1	1
+3913	g__unknown_ Ruminococcaceae	7_wt	9_cre	0.4621	1
+3914	g__unknown_ Ruminococcaceae	7_wt	9_wt	0.7104	1
+3915	g__unknown_ Ruminococcaceae	9_cre	9_wt	1	1
